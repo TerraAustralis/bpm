@@ -1,0 +1,1 @@
+This service pops email using POP3 from registered POP3 accounts in the Q2Processes.

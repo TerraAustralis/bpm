@@ -1,0 +1,1 @@
+Objects that need to be referrable universally uniquely. Uses an immutable UUID.

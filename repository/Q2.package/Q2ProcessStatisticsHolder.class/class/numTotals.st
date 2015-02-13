@@ -1,0 +1,3 @@
+constants
+numTotals
+	^6

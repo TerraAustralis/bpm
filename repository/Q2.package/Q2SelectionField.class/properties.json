@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Domain-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"valuesProvider",
+		"nilItemString",
+		"useCompletion",
+		"multiple" ],
+	"name" : "Q2SelectionField",
+	"pools" : [
+		 ],
+	"super" : "Q2Field",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"on:" : "ul 6/13/2007 20:40" },
+	"instance" : {
+		"after:" : "ul 8/13/2007 14:03",
+		"compress:" : "ul 8/13/2007 14:03",
+		"fileName:" : "ul 8/13/2007 14:05",
+		"gZip" : "ul 8/13/2007 14:08",
+		"initialize" : "ul 8/13/2007 14:14",
+		"mirrorDefinition:" : "ul 8/13/2007 14:05",
+		"newBinaryStream" : "ul 8/13/2007 14:16",
+		"serialize" : "ul 8/13/2007 14:06",
+		"serializeTxns" : "miki 11/7/2008 15:32",
+		"serializeTxns:" : "ul 8/13/2007 14:07",
+		"transactionLog:" : "ul 8/13/2007 14:14",
+		"writeToFile" : "ul 8/13/2007 14:13" } }

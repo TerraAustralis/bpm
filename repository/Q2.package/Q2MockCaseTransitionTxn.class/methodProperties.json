@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"isCaseCreateOrTransitionTxn" : "rpb 6/18/2007 16:21",
+		"isClosed" : "rpb 6/18/2007 16:24",
+		"isOpen" : "rpb 6/18/2007 16:24",
+		"isStatsNew" : "rpb 6/22/2007 22:17",
+		"isTransitionTxn" : "rpb 6/18/2007 10:20",
+		"isUsefulForCaseStatistics" : "rpb 6/18/2007 13:17",
+		"printOn:" : "rpb 6/19/2007 12:35",
+		"transition" : "rpb 6/17/2007 23:03",
+		"transition:" : "rpb 6/18/2007 15:57" } }

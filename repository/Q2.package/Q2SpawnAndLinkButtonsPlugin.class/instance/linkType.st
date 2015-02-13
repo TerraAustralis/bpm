@@ -1,0 +1,3 @@
+accessing
+linkType
+	^ linkType

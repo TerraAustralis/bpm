@@ -1,0 +1,1 @@
+This implementation of batched list is hardwired for use with a MagmaCollectionReader. It does not use a paged approach because it can not rely on knowing that all objects in the reader are eligible for showing. So it must fetch them on demand, test each with a block and show it if the block returns true.

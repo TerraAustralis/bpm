@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Visualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"currentProcess" ],
+	"name" : "Q2ProcessPermissionsGraph",
+	"pools" : [
+		 ],
+	"super" : "Q2WorkflowGraph",
+	"type" : "normal" }

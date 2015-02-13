@@ -1,0 +1,4 @@
+settings
+inifileSeconds
+
+	self subclassResponsibility

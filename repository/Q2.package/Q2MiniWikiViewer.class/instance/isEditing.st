@@ -1,0 +1,4 @@
+testing
+isEditing
+
+	^editing

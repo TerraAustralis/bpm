@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:otherwise:" : "sig 01/07/2009 09:15",
+		"at:put:" : "sig 01/07/2009 09:14",
+		"deepCopyOf:" : "sig 01/06/2009 18:08",
+		"fixup" : "sig 01/06/2009 18:21",
+		"initialize" : "sig 01/06/2009 18:06",
+		"references" : "sig 01/06/2009 18:06" } }

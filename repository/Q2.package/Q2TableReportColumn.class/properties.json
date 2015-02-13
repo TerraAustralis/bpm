@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Seaside UI-base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"tooltipBlock",
+		"smallSize",
+		"colorBlock",
+		"renderBlock" ],
+	"name" : "Q2TableReportColumn",
+	"pools" : [
+		 ],
+	"super" : "WAReportColumn",
+	"type" : "normal" }

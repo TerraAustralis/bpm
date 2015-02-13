@@ -1,0 +1,19 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedUser",
+		"editor",
+		"userList",
+		"realUserList",
+		"userSubsets",
+		"selectedSubset" ],
+	"name" : "Q2AdminUsersView",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"wrappedObject",
+		"process",
+		"localCategories" ],
+	"name" : "Q2ImportedObjectWrapper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

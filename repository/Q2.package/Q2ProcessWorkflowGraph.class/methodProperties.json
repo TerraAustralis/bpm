@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"accepts:" : "kb 11/26/2006 21:29" },
+	"instance" : {
+		"addStages" : "gk 11/16/2007 13:41",
+		"addTransitions" : "gk 11/16/2007 13:41",
+		"makeGraph" : "kph 7/14/2007 13:00",
+		"styleForStage:" : "kb 11/26/2006 21:15" } }

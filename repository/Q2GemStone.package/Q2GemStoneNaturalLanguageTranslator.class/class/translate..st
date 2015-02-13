@@ -1,0 +1,3 @@
+methods
+translate: aString
+	^aString

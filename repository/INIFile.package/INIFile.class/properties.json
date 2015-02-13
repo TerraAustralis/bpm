@@ -1,0 +1,14 @@
+{
+	"category" : "INIFile-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sectionDictionaries" ],
+	"name" : "INIFile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

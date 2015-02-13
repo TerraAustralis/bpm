@@ -1,0 +1,1 @@
+I can compare two objects and decide if they have the same structure or not. I use two Q2ComparatorIterators to iterate the objects. 

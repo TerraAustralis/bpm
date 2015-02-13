@@ -1,0 +1,14 @@
+{
+	"category" : "Q2GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2GemStoneCounter",
+	"pools" : [
+		 ],
+	"super" : "Q2UniqueObject",
+	"type" : "normal" }

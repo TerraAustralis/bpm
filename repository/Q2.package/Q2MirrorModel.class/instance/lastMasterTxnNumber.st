@@ -1,0 +1,4 @@
+mirrors-obsolate
+lastMasterTxnNumber
+
+	^lastMasterTxnNumber

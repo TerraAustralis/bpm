@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-mirroring-tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kb 5/31/2007 22:59",
+	"instvars" : [
+		 ],
+	"name" : "Q2CopierIteratorTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

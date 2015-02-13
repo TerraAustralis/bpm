@@ -1,0 +1,1 @@
+I represent an allowed transition from one workflow stage to another.

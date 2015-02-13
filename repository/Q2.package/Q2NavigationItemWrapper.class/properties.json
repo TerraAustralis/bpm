@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI-base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2NavigationItemWrapper",
+	"pools" : [
+		 ],
+	"super" : "Q2NavigationItem",
+	"type" : "normal" }

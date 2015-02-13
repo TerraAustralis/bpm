@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NoReset" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model" ],
+	"name" : "Q2ModelBasicTestResource",
+	"pools" : [
+		 ],
+	"super" : "TestResource",
+	"type" : "normal" }

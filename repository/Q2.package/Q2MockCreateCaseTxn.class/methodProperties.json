@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"case:" : "rpb 6/18/2007 13:25",
+		"case:files:" : "gk 8/28/2006 11:12" },
+	"instance" : {
+		"case" : "gk 8/28/2006 11:15",
+		"case:" : "rpb 6/18/2007 13:22",
+		"initialize" : "rpb 6/19/2007 12:52",
+		"isCaseCreateOrTransitionTxn" : "rpb 6/22/2007 22:14",
+		"isCaseCreateTxn" : "rpb 6/22/2007 22:14",
+		"isClosed" : "rpb 6/18/2007 16:26",
+		"isOpen" : "rpb 6/18/2007 16:26",
+		"isStatsNew" : "rpb 6/22/2007 22:17",
+		"isUsefulForCaseStatistics" : "rpb 6/14/2007 18:32" } }

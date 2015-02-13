@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"categories" ],
+	"name" : "Q2CategorizableObject",
+	"pools" : [
+		 ],
+	"super" : "Q2UniqueObject",
+	"type" : "normal" }

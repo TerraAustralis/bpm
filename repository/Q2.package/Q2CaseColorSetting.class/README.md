@@ -1,0 +1,1 @@
+My sole instance holding settings for color coding of cases

@@ -1,0 +1,20 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"start",
+		"end",
+		"startEscape",
+		"endEscape",
+		"block",
+		"deep",
+		"recurse" ],
+	"name" : "Q2MacroProcessor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

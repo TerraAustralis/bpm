@@ -1,0 +1,1 @@
+I'm a notification. When I'm signaled I return with the current session's user. When a txn is replayed and generates embedded txns, the embedded txns will get the outer txn's user by me.

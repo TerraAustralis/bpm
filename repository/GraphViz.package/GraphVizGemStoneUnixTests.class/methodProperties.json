@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"isAbstract" : "miki 11/5/2008 15:42" },
+	"instance" : {
+		"historyOfSmalltalk" : "miki 11/5/2008 15:42",
+		"setUp" : "miki 11/5/2008 16:30",
+		"tearDown" : "miki 11/5/2008 16:31",
+		"testGenerator" : "miki 11/5/2008 16:30" } }

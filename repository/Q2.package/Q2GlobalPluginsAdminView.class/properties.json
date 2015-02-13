@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pluginsView" ],
+	"name" : "Q2GlobalPluginsAdminView",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

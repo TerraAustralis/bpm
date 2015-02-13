@@ -1,0 +1,4 @@
+running
+wasRun
+
+	^error isNil

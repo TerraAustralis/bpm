@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Sessions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"session" ],
+	"name" : "Q2DBSession",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

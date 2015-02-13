@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process",
+		"editor",
+		"editCase" ],
+	"name" : "Q2CreateCase",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

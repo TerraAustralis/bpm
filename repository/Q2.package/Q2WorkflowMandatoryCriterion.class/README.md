@@ -1,0 +1,1 @@
+This criterion checks that all case links of a certain link type are closed.

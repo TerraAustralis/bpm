@@ -1,0 +1,28 @@
+{
+	"category" : "Q2Swiki",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AngleBrackets",
+		"EmCharacter",
+		"EmCharacterString",
+		"SpecialCharacter",
+		"SpecialCharacterString" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"modelProvider",
+		"base",
+		"inParagraph",
+		"targetStream",
+		"lastWasCR",
+		"consumeCR",
+		"ulLevel",
+		"olLevel",
+		"renderParagraphs",
+		"macroProcessor",
+		"builder" ],
+	"name" : "Q2SwikiFormatter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

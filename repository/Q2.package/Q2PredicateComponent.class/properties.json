@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2PredicateComponent",
+	"pools" : [
+		 ],
+	"super" : "Q2FieldComponent",
+	"type" : "normal" }

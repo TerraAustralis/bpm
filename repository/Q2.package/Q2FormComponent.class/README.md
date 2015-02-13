@@ -1,0 +1,1 @@
+Q2FormComponent is the Seaside component that can render a Q2Form with Q2Fields in it. It has two subclasses, one readonly viewer and one editor.

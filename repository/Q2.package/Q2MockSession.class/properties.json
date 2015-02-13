@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Sessions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"magmaSession",
+		"savedSession" ],
+	"name" : "Q2MockSession",
+	"pools" : [
+		 ],
+	"super" : "Q2SessionWithoutSeaside",
+	"type" : "normal" }

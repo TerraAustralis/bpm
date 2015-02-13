@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI-base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"numberOfCases" ],
+	"name" : "Q2CaseTableReport",
+	"pools" : [
+		 ],
+	"super" : "Q2TableReport",
+	"type" : "normal" }

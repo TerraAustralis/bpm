@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Seaside UI-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 4/21/2006 16:25",
+	"instvars" : [
+		"field",
+		"state",
+		"cache" ],
+	"name" : "Q2FieldComponent",
+	"pools" : [
+		 ],
+	"super" : "Q2ChildComponent",
+	"type" : "normal" }

@@ -1,0 +1,38 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"users",
+		"persons",
+		"administrators",
+		"processes",
+		"mirrors",
+		"cases",
+		"caseCounter",
+		"processPrototypes",
+		"defaultModifyCaseForm",
+		"defaultCreateCaseForm",
+		"defaultTableCaseForm",
+		"transactionLog",
+		"definedCategories",
+		"forms",
+		"customObjectTypes",
+		"linkTypes",
+		"roles",
+		"globalDefinition",
+		"useIndexing",
+		"objects",
+		"notificationsTable",
+		"serviceQueues",
+		"plugInRegistry",
+		"modelSettings",
+		"alarms" ],
+	"name" : "Q2Model",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

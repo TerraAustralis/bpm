@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Visualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"graph",
+		"document" ],
+	"name" : "Q2WorkflowGraph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

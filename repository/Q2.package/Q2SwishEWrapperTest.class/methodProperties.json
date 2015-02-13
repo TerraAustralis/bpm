@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"deleteIndexFileNamed:" : "sig 01/23/2009 10:00",
+		"generateIndexFileName" : "jupiter 02/02/2015 16:47",
+		"index:with:" : "miki 12/3/2008 15:13",
+		"search:" : "ul 7/23/2007 15:13",
+		"search:shouldFind:" : "ul 7/23/2007 14:25",
+		"searchUTF8:" : "ul 7/23/2007 19:00",
+		"setUp" : "ul 7/23/2007 19:00",
+		"tearDown" : "ul 7/23/2007 19:00",
+		"testConcurrentSearching" : "ul 8/8/2007 19:14",
+		"testError" : "ul 7/26/2007 13:08",
+		"testEscapeUnix" : "miki 12/3/2008 15:13",
+		"testEscapeWin32" : "miki 12/3/2008 15:13",
+		"testOne" : "ul 7/23/2007 14:25",
+		"testThree" : "ul 7/24/2007 14:46",
+		"testTwo" : "ul 7/23/2007 14:27",
+		"testUTF8" : "ul 7/23/2007 18:58" } }

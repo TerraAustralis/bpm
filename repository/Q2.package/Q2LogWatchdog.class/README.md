@@ -1,0 +1,3 @@
+This log emitter has a threshold. If log messages comes in that are higher than the threshold we send an email to the address in a setting with the log message. We then set a timer and any messages coming in over the threshold until the timer has run out we bundle together in a single email, send it and set the timer again.
+
+If the timer runs out and there are no buffered messages we are done. This approach prevents total drowning in emails.

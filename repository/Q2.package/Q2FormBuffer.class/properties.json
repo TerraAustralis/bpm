@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 5/22/2007 11:12",
+	"instvars" : [
+		"value",
+		"target",
+		"targetSelector",
+		"originalValues",
+		"form" ],
+	"name" : "Q2FormBuffer",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

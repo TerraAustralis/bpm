@@ -1,0 +1,3 @@
+directories
+defaultWorkingDirectory
+  ^ Q2GemStoneFileDirectory default

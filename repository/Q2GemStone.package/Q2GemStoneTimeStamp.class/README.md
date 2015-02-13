@@ -1,0 +1,1 @@
+I represent time and date on the GemStone platform.

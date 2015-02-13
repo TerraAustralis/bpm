@@ -1,0 +1,1 @@
+A filter is a boolean function that can be applied to a single Q2Case or a collection of cases. There are two subclasses - one for free text searching and one for complex field based queries with an optional boolean logical expression.

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "miki 11/18/2008 13:07",
+	"instvars" : [
+		 ],
+	"name" : "Q2DynamicVariable",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

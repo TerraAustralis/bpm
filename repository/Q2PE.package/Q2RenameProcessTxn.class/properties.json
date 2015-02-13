@@ -1,0 +1,14 @@
+{
+	"category" : "Q2PE-Transactions-Process Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2RenameProcessTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2RenameProcessItemTxn",
+	"type" : "normal" }

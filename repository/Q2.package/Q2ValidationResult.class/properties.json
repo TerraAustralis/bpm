@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"denials" ],
+	"name" : "Q2ValidationResult",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

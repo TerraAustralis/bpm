@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2PermissionWriteDenied",
+	"pools" : [
+		 ],
+	"super" : "Q2PermissionNotification",
+	"type" : "normal" }

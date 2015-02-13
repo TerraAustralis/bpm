@@ -1,0 +1,1 @@
+A Q2Notebook holds all notes on a case. The notes are held in chronological order in an OrderedCollection.

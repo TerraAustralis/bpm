@@ -1,0 +1,2 @@
+I represent an action in the system that results in one or more events that shall be checked against the user's subscriptions. When I am created, all Q2Events shall be added. Then, during 'run', the events are checked for the subscriptions being trigged.
+The trigged subscriptions are collected for each user. At the end if the 'run' phase, an email is created for each user with trigged subscriptions.

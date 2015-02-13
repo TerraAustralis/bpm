@@ -1,0 +1,1 @@
+I compute statistics for a single process and store the results in my instance variable statisticsHolder. 

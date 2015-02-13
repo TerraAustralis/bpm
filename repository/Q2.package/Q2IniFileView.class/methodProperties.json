@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"canHaveExtraForms" : "sig 5/11/2007 19:07",
+		"cancel" : "sig 5/11/2007 15:51",
+		"children" : "sig 5/15/2007 16:33",
+		"doesNotUnderstand:" : "kph 7/15/2007 16:13",
+		"initialize" : "sig 5/14/2007 00:12",
+		"loadEditor" : "sig 8/21/2007 01:51",
+		"process" : "sig 5/11/2007 19:28",
+		"renderContentOn:" : "gk 6/25/2007 13:31",
+		"renderIntroductionOn:" : "gk 6/25/2007 13:31",
+		"save" : "sig 5/11/2007 15:51",
+		"style" : "sig 5/13/2007 23:53" } }

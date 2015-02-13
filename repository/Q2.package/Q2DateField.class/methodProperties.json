@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"fieldTypeName" : "sig 6/25/2007 15:18" },
+	"instance" : {
+		"cacheForField:component:" : "jupiter 12/08/2014 23:28",
+		"fieldForCache:component:" : "gk 11/8/2006 14:25",
+		"initialize" : "gk 11/9/2006 09:43",
+		"renderEditControlOn:component:" : "jupiter 09/06/2014 17:54" } }

@@ -1,0 +1,1 @@
+Plugin which renders a buttons in case view, each button can be configured independently.

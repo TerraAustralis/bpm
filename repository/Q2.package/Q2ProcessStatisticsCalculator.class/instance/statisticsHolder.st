@@ -1,0 +1,4 @@
+accessing
+statisticsHolder
+
+	^statisticsHolder

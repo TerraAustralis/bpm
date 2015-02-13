@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-forms-accessors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selector2" ],
+	"name" : "Q2DoubleDispatchAccessor",
+	"pools" : [
+		 ],
+	"super" : "Q2SelectorAccessor",
+	"type" : "normal" }

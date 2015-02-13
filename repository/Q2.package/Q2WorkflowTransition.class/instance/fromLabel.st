@@ -1,0 +1,4 @@
+accessing
+fromLabel
+
+	^ from name

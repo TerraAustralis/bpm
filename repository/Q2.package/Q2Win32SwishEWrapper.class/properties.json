@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Utilities-SwishE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2Win32SwishEWrapper",
+	"pools" : [
+		 ],
+	"super" : "Q2SwishEWrapper",
+	"type" : "normal" }

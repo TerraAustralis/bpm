@@ -1,0 +1,3 @@
+accessing
+numCreatedCases 
+	^numCreatedCases

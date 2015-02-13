@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"code",
+		"selection",
+		"result",
+		"error" ],
+	"name" : "Q2CodeHolder",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

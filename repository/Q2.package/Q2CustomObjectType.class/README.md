@@ -1,0 +1,3 @@
+A custom object type is the object describing a custom object and holding all "instances" of it. It is a named object and it has a loader strategy object for maintaining the objects, like mirroring them from a file or via ODBC, getting them via SOAP calls etc. If the loader is nil the objects are maintained manually.
+
+The load method is regularly called from the Q2CustomObjectSyncProcess and lastLoad/loadInterval decides if the loader is called for an update. Some objects are heavy to load and should typically be done as seldom as possible, while others can be done every ten minutes.

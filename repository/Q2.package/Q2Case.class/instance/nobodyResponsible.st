@@ -1,0 +1,3 @@
+testing
+nobodyResponsible
+	^responsible isNobody

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"canBeRoot" : "kph 6/27/2007 01:06",
+		"description" : "kph 6/27/2007 01:06" },
+	"instance" : {
+		"children" : "kph 6/27/2007 01:08",
+		"contentId" : "kph 6/27/2007 01:15",
+		"controller" : "kph 6/27/2007 01:13",
+		"graph" : "kph 6/27/2007 02:41",
+		"initialize" : "kph 6/27/2007 03:34",
+		"prepareGraphAndWorkflowEditor" : "kph 6/27/2007 10:10",
+		"process" : "kph 6/27/2007 01:32",
+		"process:" : "kph 6/27/2007 01:32",
+		"renderContentOn:" : "kph 6/27/2007 01:39",
+		"setProcess:" : "kph 6/27/2007 07:52",
+		"updateContentOn:" : "kph 6/27/2007 01:43",
+		"workflow" : "kph 6/27/2007 02:41" } }

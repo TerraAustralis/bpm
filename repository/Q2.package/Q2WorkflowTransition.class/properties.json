@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 1/10/2006 14:33",
+	"instvars" : [
+		"from",
+		"to",
+		"criteria",
+		"roles" ],
+	"name" : "Q2WorkflowTransition",
+	"pools" : [
+		 ],
+	"super" : "Q2NamedObject",
+	"type" : "normal" }

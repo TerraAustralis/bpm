@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"copyFor:" : "kb 6/25/2007 23:59",
+		"disconnect" : "kb 6/24/2007 17:32",
+		"displayString" : "ul 6/25/2007 22:32",
+		"owner" : "kb 6/24/2007 00:21",
+		"owner:" : "kb 6/24/2007 00:21",
+		"prefix" : "kb 5/27/2007 20:01",
+		"prefix:" : "kb 5/27/2007 20:01",
+		"printOn:" : "ul 6/25/2007 23:25",
+		"reconnectIn:" : "kb 6/24/2007 17:32",
+		"shouldAdd:" : "kb 5/29/2007 23:14" } }

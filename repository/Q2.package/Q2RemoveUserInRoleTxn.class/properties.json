@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2RemoveUserInRoleTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2AddUserInRoleTxn",
+	"type" : "normal" }

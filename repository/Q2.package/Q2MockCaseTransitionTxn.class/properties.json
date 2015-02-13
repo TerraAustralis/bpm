@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Stats Mock Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"transition" ],
+	"name" : "Q2MockCaseTransitionTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2MockCaseTxn",
+	"type" : "normal" }

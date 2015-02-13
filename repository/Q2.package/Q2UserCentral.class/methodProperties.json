@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCasePanel:" : "gk 4/3/2007 11:53",
+		"casePanels" : "gk 8/2/2006 12:50",
+		"casePanels:" : "gk 8/2/2006 12:50",
+		"initialize" : "gk 8/2/2006 12:50",
+		"movePanelDown:" : "gk 4/3/2007 11:07",
+		"movePanelUp:" : "gk 4/3/2007 11:07",
+		"newCasePanel" : "gk 4/3/2007 11:52",
+		"postCopy" : "gk 4/2/2007 15:28",
+		"removeCasePanel:" : "gk 8/3/2006 13:28" } }

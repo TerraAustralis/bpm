@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startDate",
+		"endDate",
+		"periodReceiver" ],
+	"name" : "Q2PeriodSelector",
+	"pools" : [
+		 ],
+	"super" : "WATask",
+	"type" : "normal" }

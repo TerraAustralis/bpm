@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-mirroring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kb 5/31/2007 22:53",
+	"instvars" : [
+		 ],
+	"name" : "Q2CurrentMirror",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

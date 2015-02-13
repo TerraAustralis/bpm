@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SchedulerProcess",
+		"ServiceProcesses",
+		"Services" ],
+	"commentStamp" : "gk 8/3/2006 09:07",
+	"instvars" : [
+		 ],
+	"name" : "Q2Scheduler",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

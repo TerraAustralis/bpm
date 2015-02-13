@@ -1,0 +1,19 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SharedNameCollections" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"fields",
+		"objects",
+		"loader",
+		"lastLoad",
+		"loadInterval",
+		"hasNil" ],
+	"name" : "Q2CustomObjectType",
+	"pools" : [
+		 ],
+	"super" : "Q2NamedObject",
+	"type" : "normal" }

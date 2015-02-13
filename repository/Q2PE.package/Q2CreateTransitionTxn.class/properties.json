@@ -1,0 +1,17 @@
+{
+	"category" : "Q2PE-Transactions-Process Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"from",
+		"to",
+		"newName",
+		"transition" ],
+	"name" : "Q2CreateTransitionTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessItemTxn",
+	"type" : "normal" }

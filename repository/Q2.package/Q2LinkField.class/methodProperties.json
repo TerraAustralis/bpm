@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"fieldTypeName" : "sig 6/25/2007 15:20" },
+	"instance" : {
+		"cacheValueFrom:component:" : "gk 5/8/2006 14:39",
+		"defaultValueForFieldComponent:" : "gk 5/12/2006 09:22",
+		"initialize" : "gk 5/11/2006 14:06",
+		"performExtraTxnsFor:fieldList:" : "sig 8/21/2007 15:55",
+		"renderEditControlOn:component:" : "jupiter 07/26/2014 11:49",
+		"renderViewControlOn:component:" : "sig 7/26/2007 19:49" } }

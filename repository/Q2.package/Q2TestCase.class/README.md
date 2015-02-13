@@ -1,0 +1,1 @@
+Common base class for all unit tests in Q2 used to hold easily reused behavior.

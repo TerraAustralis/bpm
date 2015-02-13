@@ -1,0 +1,3 @@
+testing
+isCustomObjectType
+	^true

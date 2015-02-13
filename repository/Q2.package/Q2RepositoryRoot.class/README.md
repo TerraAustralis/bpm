@@ -1,0 +1,1 @@
+We define our own root class, this enables a specialised read strategy for our root, as opposed to the standard Dictionary one.

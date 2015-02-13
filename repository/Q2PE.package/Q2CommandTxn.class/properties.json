@@ -1,0 +1,14 @@
+{
+	"category" : "Q2PE-Transactions-Process Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2CommandTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2Txn",
+	"type" : "normal" }

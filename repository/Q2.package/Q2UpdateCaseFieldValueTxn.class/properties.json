@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"field",
+		"fieldValue" ],
+	"name" : "Q2UpdateCaseFieldValueTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2CaseTxn",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"case",
+		"graph",
+		"graphCase",
+		"txnMarker" ],
+	"name" : "Q2CaseWorkflow",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Libraries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2StandardScriptsNotUsed",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

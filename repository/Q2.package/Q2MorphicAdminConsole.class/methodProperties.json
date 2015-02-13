@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"open" : "kb 10/1/2006 18:34" },
+	"instance" : {
+		"buttonLabel" : "kb 10/1/2006 16:54",
+		"buttonState" : "kb 9/25/2006 13:26",
+		"checkSyntaxOf:" : "kb 10/2/2006 19:50",
+		"definition" : "kb 10/1/2006 16:56",
+		"definition:" : "kb 10/2/2006 19:09",
+		"explorer" : "kb 10/2/2006 00:18",
+		"initialize" : "gk 6/25/2007 20:41",
+		"openAsMorph" : "kb 9/25/2006 22:00",
+		"release" : "kb 9/29/2006 16:00",
+		"result" : "kb 9/24/2006 19:25",
+		"rootObject:" : "kb 9/25/2006 18:13",
+		"rootProxy:" : "kb 10/2/2006 10:39",
+		"selectRootObjectMenu" : "gk 6/25/2007 20:41",
+		"showWindow" : "kb 9/29/2006 16:02",
+		"windowIsClosing" : "kb 9/29/2006 16:04",
+		"windowLabel" : "kb 10/1/2006 16:57" } }

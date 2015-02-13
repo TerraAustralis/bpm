@@ -1,0 +1,1 @@
+Deletes a transition, its 'from' stage must have other incoming transitions, unless force is set.

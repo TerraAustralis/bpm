@@ -1,0 +1,4 @@
+timestamps
+modifiedAgoString
+
+	^Time humanWordsForSecondsAgo: self ageUnModifiedInSeconds

@@ -1,0 +1,21 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RPB 9/24/2007 14:28",
+	"instvars" : [
+		"processes",
+		"process",
+		"resolutions",
+		"resolution",
+		"statisticsHolder",
+		"selectedResolution",
+		"statisticsGenerator",
+		"selectedProcess" ],
+	"name" : "Q2StatisticsSetupGUI",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

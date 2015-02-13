@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addExtraTabs" : "makl 6/14/2006 12:20",
+		"case" : "makl 6/14/2006 12:17",
+		"case:" : "mhs 6/18/2008 13:36",
+		"children" : "mhs 6/18/2008 14:18",
+		"editor" : "makl 10/18/2006 11:29",
+		"initialize" : "jupiter 07/25/2014 07:10",
+		"isCaseComponent" : "gk 8/31/2006 11:36",
+		"plugins" : "sig 5/15/2007 20:32",
+		"renderContentOn:" : "mhs 6/18/2008 12:57",
+		"renderMiddleAreaOn:" : "makl 6/14/2006 14:32",
+		"validation" : "makl 6/14/2006 14:38",
+		"validationMessagesFor:" : "makl 6/14/2006 14:33" } }

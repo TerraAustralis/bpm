@@ -1,0 +1,4 @@
+spoof pool
+isLocal
+
+	^ true

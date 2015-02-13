@@ -1,0 +1,3 @@
+statistics
+selfForStatisticsSessionClass
+	StatisticsSessionClass := self

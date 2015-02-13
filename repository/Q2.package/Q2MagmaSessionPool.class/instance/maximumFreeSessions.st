@@ -1,0 +1,4 @@
+constants
+maximumFreeSessions
+
+	^16

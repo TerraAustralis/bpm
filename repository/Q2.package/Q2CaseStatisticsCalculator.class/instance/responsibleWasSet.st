@@ -1,0 +1,3 @@
+accessing
+responsibleWasSet
+	^timeToSetResponsible notNil

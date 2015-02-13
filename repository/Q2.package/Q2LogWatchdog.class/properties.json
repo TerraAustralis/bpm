@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Buffer",
+		"Threshold",
+		"Timer" ],
+	"commentStamp" : "gk 11/14/2006 21:45",
+	"instvars" : [
+		 ],
+	"name" : "Q2LogWatchdog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

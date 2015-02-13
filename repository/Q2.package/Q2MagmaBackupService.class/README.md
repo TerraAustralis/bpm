@@ -1,0 +1,1 @@
+This service regularly takes a full backup of the Magma database by temporarily suspending sessions.

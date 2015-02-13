@@ -1,0 +1,22 @@
+{
+	"category" : "Q2-Sessions",
+	"classinstvars" : [
+		"locationPools",
+		"locationProxyDatabases" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kph 6/12/2007 15:30",
+	"instvars" : [
+		"factory",
+		"info",
+		"monitor",
+		"freeSessions",
+		"usedSessions",
+		"preallocationInProgress",
+		"requestedSessionCount",
+		"shutdown" ],
+	"name" : "Q2MagmaSessionPool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

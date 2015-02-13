@@ -1,0 +1,4 @@
+initialization
+noButtons
+
+	buttons := nil

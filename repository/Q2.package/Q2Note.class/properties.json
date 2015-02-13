@@ -1,0 +1,22 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parent",
+		"author",
+		"subject",
+		"description",
+		"attachments",
+		"created",
+		"origin",
+		"case",
+		"replies" ],
+	"name" : "Q2Note",
+	"pools" : [
+		 ],
+	"super" : "Q2CategorizableObject",
+	"type" : "normal" }

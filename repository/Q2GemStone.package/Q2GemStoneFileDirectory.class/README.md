@@ -1,0 +1,1 @@
+I represent a file directory on the GemStone platform.

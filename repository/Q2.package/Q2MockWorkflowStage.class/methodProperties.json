@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"closedStage" : "rpb 6/17/2007 21:50",
+		"newStage" : "rpb 6/17/2007 21:50",
+		"openStage" : "rpb 6/18/2007 10:04" },
+	"instance" : {
+		"isClosed" : "rpb 6/17/2007 23:18",
+		"isClosed:" : "rpb 6/17/2007 23:20",
+		"isNew" : "rpb 6/17/2007 23:18",
+		"isNew:" : "rpb 6/17/2007 23:20",
+		"isNew:isClosed:" : "rpb 6/17/2007 21:48",
+		"isOpen" : "rpb 6/17/2007 23:19",
+		"printOn:" : "rpb 6/22/2007 17:17",
+		"statusAsString" : "rpb 6/18/2007 16:04" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Serialization-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2CaseCreationTest",
+	"pools" : [
+		 ],
+	"super" : "Q2TransactionSerializationTestCase",
+	"type" : "normal" }

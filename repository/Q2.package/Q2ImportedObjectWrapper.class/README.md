@@ -1,0 +1,3 @@
+This is a DNU wrapper solving a rather complicated design issue. In Gjallar there are global objects in Q2Model that the different Q2Processes can selectively import. Such an imported object - like for example a Q2User - can then be additionally decorated within the Process with for example local categories. So we need to "attach" such information - but differently in different Q2Processes.
+
+The solution is to wrap an imported object and let the wrapper hold the decorations.

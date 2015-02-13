@@ -1,0 +1,4 @@
+accessing
+statisticsSessionClass
+
+	^Q2MockStatsSession

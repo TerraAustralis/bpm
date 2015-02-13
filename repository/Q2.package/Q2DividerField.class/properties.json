@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2DividerField",
+	"pools" : [
+		 ],
+	"super" : "Q2Field",
+	"type" : "normal" }

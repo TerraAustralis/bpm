@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"disableLogins" : "gk 11/17/2006 13:02",
+		"enableLogins" : "gk 11/17/2006 13:02",
+		"initialize" : "gk 11/17/2006 13:00" },
+	"instance" : {
+		"authenticator:" : "gk 1/9/2006 09:23",
+		"initialize" : "kph 7/12/2007 06:23",
+		"login" : "gk 11/17/2006 13:01",
+		"renderContentOn:" : "kph 7/17/2007 17:23" } }

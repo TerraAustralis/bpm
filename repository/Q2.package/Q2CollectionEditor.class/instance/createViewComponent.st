@@ -1,0 +1,4 @@
+initialize-release
+createViewComponent
+
+	self subclassResponsibility

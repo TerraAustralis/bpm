@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "gk 9/29/2006 14:19",
+		"collectValues" : "gk 10/3/2006 11:27",
+		"compiledBlock" : "gk 6/19/2007 10:10",
+		"conjunct:" : "gk 8/1/2006 11:03",
+		"evaluate:" : "gk 10/3/2006 11:16",
+		"filter:" : "sig 01/13/2009 02:25",
+		"filters" : "gk 6/13/2006 14:45",
+		"filtersChanged" : "gk 10/3/2006 11:03",
+		"freetext" : "ul 7/25/2007 14:16",
+		"freetext:" : "gk 11/14/2008 13:51",
+		"freetextFilter" : "ul 7/25/2007 14:36",
+		"indexForValue:" : "gk 6/16/2006 15:13",
+		"initialize" : "ul 7/25/2007 14:00",
+		"isChanged" : "gk 10/13/2006 14:35",
+		"maTransientVariables" : "gk 10/6/2006 13:44",
+		"magmaFilter:" : "ul 7/25/2007 14:20",
+		"newQueryFilter" : "gk 6/16/2006 15:05",
+		"nonIndexedFilter:" : "gk 10/13/2006 13:33",
+		"processes" : "gk 3/14/2007 12:05",
+		"remove:" : "gk 9/29/2006 14:19" } }

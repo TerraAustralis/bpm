@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalFileName",
+		"localFileName",
+		"case",
+		"deleted" ],
+	"name" : "Q2Attachment",
+	"pools" : [
+		 ],
+	"super" : "Q2UniqueObject",
+	"type" : "normal" }

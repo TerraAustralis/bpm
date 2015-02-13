@@ -1,0 +1,1 @@
+Shows a form for starting/stopping global plugins

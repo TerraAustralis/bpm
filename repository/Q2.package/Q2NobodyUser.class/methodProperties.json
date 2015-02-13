@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"adminEditForm" : "gk 1/8/2008 23:57",
+		"editForm" : "gk 5/2/2007 11:42" },
+	"instance" : {
+		"canAccess:" : "gk 8/15/2006 11:08",
+		"canLogin" : "gk 8/15/2006 11:08",
+		"canRead:" : "gk 8/15/2006 11:08",
+		"canWrite:" : "gk 8/15/2006 11:08",
+		"isNobody" : "gk 8/17/2006 01:29",
+		"isPersonalUser" : "gk 12/17/2007 17:35",
+		"isRealUser" : "gk 11/6/2006 14:28" } }

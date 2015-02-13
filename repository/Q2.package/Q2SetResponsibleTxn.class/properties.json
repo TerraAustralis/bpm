@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"responsibleUser" ],
+	"name" : "Q2SetResponsibleTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2CaseTxn",
+	"type" : "normal" }

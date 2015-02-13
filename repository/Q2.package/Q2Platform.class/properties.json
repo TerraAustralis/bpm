@@ -1,0 +1,16 @@
+{
+	"category" : "Q2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CurrentPlatform",
+		"TempDir",
+		"WorkingDir" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2Platform",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2MirrorCreatorService",
+	"pools" : [
+		 ],
+	"super" : "Q2QueueHandlerService",
+	"type" : "normal" }

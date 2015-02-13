@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		"hash" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "miki 11/18/2008 16:04",
+	"instvars" : [
+		 ],
+	"name" : "Q2ProcessVariable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

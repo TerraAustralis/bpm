@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LoginsDisabled" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"authenticator" ],
+	"name" : "Q2ServerLoginDialog",
+	"pools" : [
+		 ],
+	"super" : "Q2LoginDialog",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2LdapUserUpdateService",
+	"pools" : [
+		 ],
+	"super" : "Q2Service",
+	"type" : "normal" }

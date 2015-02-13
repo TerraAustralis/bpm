@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Domain-mirroring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MetClasses" ],
+	"commentStamp" : "kb 5/31/2007 22:57",
+	"instvars" : [
+		"visitedObjects",
+		"stack",
+		"announcer",
+		"parentStack",
+		"announcementStack" ],
+	"name" : "Q2CopierIterator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

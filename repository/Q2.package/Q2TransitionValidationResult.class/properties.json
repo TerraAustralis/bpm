@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"validTransitions",
+		"deniedTransitions",
+		"validCriteria",
+		"validTargets",
+		"invalidTargets" ],
+	"name" : "Q2TransitionValidationResult",
+	"pools" : [
+		 ],
+	"super" : "Q2ValidationResult",
+	"type" : "normal" }

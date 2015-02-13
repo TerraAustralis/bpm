@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildTable" : "gk 1/25/2006 09:11",
+		"children" : "sig 5/15/2007 16:27",
+		"createEditComponent" : "gk 1/23/2006 14:30",
+		"createViewComponent" : "gk 1/23/2006 14:30",
+		"initialize" : "gk 1/23/2006 14:31",
+		"renderContentOn:" : "kph 7/10/2007 07:56" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"case",
+		"editors",
+		"newFirst",
+		"showThreaded",
+		"printMode" ],
+	"name" : "Q2NotebookView",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

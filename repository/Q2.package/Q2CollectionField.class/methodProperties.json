@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"fieldTypeName" : "sig 6/25/2007 15:19" },
+	"instance" : {
+		"asComponentIn:" : "makl 5/23/2006 12:05",
+		"performExtraTxnsFor:" : "makl 5/23/2006 12:03",
+		"renderEditControlOn:component:" : "makl 5/23/2006 12:17",
+		"renderViewControlOn:component:" : "makl 5/23/2006 12:03",
+		"storeXmlValue:on:" : "makl 5/23/2006 12:03" } }

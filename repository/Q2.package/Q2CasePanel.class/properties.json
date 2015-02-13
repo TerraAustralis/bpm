@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 4/10/2007 15:13",
+	"instvars" : [
+		"filter",
+		"tableCaseForm",
+		"numberOfCases",
+		"name",
+		"description" ],
+	"name" : "Q2CasePanel",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

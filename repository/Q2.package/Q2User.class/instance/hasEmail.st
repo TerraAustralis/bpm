@@ -1,0 +1,3 @@
+testing
+hasEmail
+	^person hasEmail

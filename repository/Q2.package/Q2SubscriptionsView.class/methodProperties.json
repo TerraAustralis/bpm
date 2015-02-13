@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addSubscription:" : "gk 12/13/2007 04:27",
+		"collection" : "gk 12/13/2007 00:32",
+		"collectionLabel" : "gk 12/13/2007 00:32",
+		"collectionTooltip" : "gk 12/13/2007 00:33",
+		"deleteItem:" : "gk 12/19/2007 00:24",
+		"initialize" : "gk 12/13/2007 01:23",
+		"newObject" : "makl 5/29/2006 14:59",
+		"newObjectNamed:" : "gk 12/13/2007 00:30",
+		"renderContentOn:" : "gk 12/13/2007 01:22",
+		"renderIntroductionOn:" : "gk 6/25/2007 13:21",
+		"saveItem:" : "gk 12/13/2007 12:20",
+		"saveNewItem:" : "gk 12/19/2007 00:32" } }

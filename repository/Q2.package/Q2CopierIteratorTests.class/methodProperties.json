@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"runSimpleTestOn:shouldNotVisit:withExpectedResult:" : "ul 8/8/2007 16:38",
+		"runSimpleTestOn:withExpectedResult:" : "ul 8/8/2007 15:20",
+		"runStructureTestOn:" : "ul 8/8/2007 16:39",
+		"testRecursive" : "ul 8/8/2007 15:39",
+		"testRecursive2" : "ul 8/8/2007 15:39",
+		"testRecursive3" : "miki 11/6/2008 14:01",
+		"testRecursive4" : "ul 8/8/2007 15:40",
+		"testSimple" : "ul 8/8/2007 15:33",
+		"testSimple2" : "ul 8/8/2007 15:50",
+		"testStructureAnnouncements" : "ul 8/8/2007 16:45",
+		"testStructureAnnouncements1" : "ul 8/8/2007 16:44" } }

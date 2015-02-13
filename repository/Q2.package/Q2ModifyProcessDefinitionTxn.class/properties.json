@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process",
+		"definition",
+		"result",
+		"error" ],
+	"name" : "Q2ModifyProcessDefinitionTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2Txn",
+	"type" : "normal" }

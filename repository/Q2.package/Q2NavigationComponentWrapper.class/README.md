@@ -1,0 +1,1 @@
+I wrap either a component, a block that lazily instantiates a component, or an action block.

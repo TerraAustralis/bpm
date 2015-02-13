@@ -1,0 +1,14 @@
+{
+	"category" : "Q2GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"nesting" ],
+	"name" : "Q2GemStoneDBSession",
+	"pools" : [
+		 ],
+	"super" : "Q2DBSession",
+	"type" : "normal" }

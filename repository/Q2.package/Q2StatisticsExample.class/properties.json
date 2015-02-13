@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-Statistics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2StatisticsExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

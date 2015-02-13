@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Serialization-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kb 5/15/2007 04:11",
+	"instvars" : [
+		"serializedTransactions" ],
+	"name" : "Q2TransactionSerializationTestCase",
+	"pools" : [
+		 ],
+	"super" : "Q2TaskBasedTestCase",
+	"type" : "normal" }

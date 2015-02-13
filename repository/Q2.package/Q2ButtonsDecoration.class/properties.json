@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Seaside UI-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 2/23/2006 10:36",
+	"instvars" : [
+		"model",
+		"buttons",
+		"saveText",
+		"cancelText" ],
+	"name" : "Q2ButtonsDecoration",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

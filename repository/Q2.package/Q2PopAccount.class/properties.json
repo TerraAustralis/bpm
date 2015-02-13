@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2PopAccount",
+	"pools" : [
+		 ],
+	"super" : "Q2MailAccount",
+	"type" : "normal" }

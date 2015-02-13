@@ -1,0 +1,19 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default",
+		"UseTranscript" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"emitters",
+		"guard",
+		"transcriptMaxLevel",
+		"globalMaxLevel",
+		"notifierMaxLevel" ],
+	"name" : "Q2Log",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

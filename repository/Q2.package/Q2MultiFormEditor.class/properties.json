@@ -1,0 +1,21 @@
+{
+	"category" : "Q2-Seaside UI-base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tabBook",
+		"formValue",
+		"edit",
+		"buttons",
+		"toAdd",
+		"toRemove",
+		"editors",
+		"contentId" ],
+	"name" : "Q2MultiFormEditor",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

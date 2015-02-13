@@ -1,0 +1,3 @@
+evaluation
+definition
+	^globalDefinition

@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"definition",
+		"result",
+		"error" ],
+	"name" : "Q2ModifyGlobalDefinitionTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2Txn",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 8/24/2006 22:49",
+	"instvars" : [
+		"id",
+		"number",
+		"user",
+		"timestampCreated",
+		"timestampApplied",
+		"objects",
+		"transactions",
+		"parentTxn" ],
+	"name" : "Q2Txn",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"subscription:user:" : "gk 12/13/2007 04:09" },
+	"instance" : {
+		"apply" : "gk 12/13/2007 04:06",
+		"disconnect" : "gk 12/13/2007 04:06",
+		"displayForHistory" : "gk 12/13/2007 04:07",
+		"reconnectIn:" : "gk 12/13/2007 04:06",
+		"subscription:" : "gk 12/13/2007 04:07" } }

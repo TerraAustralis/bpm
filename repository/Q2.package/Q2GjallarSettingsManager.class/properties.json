@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Settings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Instances" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"iniFile",
+		"expireTime" ],
+	"name" : "Q2GjallarSettingsManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

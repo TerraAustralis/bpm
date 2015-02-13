@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subscription" ],
+	"name" : "Q2AddProcessSubscriptionTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessTxn",
+	"type" : "normal" }

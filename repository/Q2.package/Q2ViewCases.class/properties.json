@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"filterStackView" ],
+	"name" : "Q2ViewCases",
+	"pools" : [
+		 ],
+	"super" : "Q2FilteredCasesView",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"parent:" : "gk 4/3/2007 14:23" },
+	"instance" : {
+		"children" : "sig 5/15/2007 16:30",
+		"filteredCases" : "gk 9/27/2006 14:32",
+		"filteredCases:" : "gk 2/8/2007 14:59",
+		"initializeCaseTable" : "sig 3/30/2008 23:35",
+		"nonFilteredCases" : "gk 9/13/2006 11:20",
+		"numberOfCases" : "gk 5/14/2007 15:28",
+		"numberOfCases:" : "gk 5/14/2007 23:37",
+		"renderTableOn:" : "gk 3/14/2007 20:07",
+		"shownCases" : "gk 9/28/2006 13:54",
+		"tableCaseForm" : "gk 4/3/2007 14:06",
+		"userSettingsModified" : "gk 4/3/2007 14:23" } }

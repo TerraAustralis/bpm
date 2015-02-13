@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cancel" : "gk 5/3/2007 10:49",
+		"children" : "sig 5/15/2007 16:38",
+		"initialize" : "gk 5/3/2007 10:48",
+		"loadEditor" : "gk 5/3/2007 10:48",
+		"modifyUser:" : "gk 2/1/2006 22:37",
+		"renderContentOn:" : "gk 5/2/2007 10:40",
+		"renderIntroductionOn:" : "gk 5/2/2007 10:40",
+		"save" : "gk 5/3/2007 10:49" } }

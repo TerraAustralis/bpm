@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"atField:" : "sig 7/18/2007 11:02",
+		"atField:ifAbsent:" : "sig 8/22/2007 14:32",
+		"atField:put:" : "sig 6/20/2007 01:30",
+		"caseColor:" : "sig 3/30/2008 23:42",
+		"codes" : "sig 8/22/2007 14:34",
+		"colorAt:" : "sig 7/17/2007 16:24",
+		"defaultColor" : "sig 6/15/2007 13:35",
+		"fillForm:" : "gk 9/24/2007 02:10",
+		"initialize" : "sig 7/18/2007 10:46",
+		"name" : "sig 7/17/2007 16:14",
+		"updateDefaults" : "sig 7/17/2007 16:23" } }

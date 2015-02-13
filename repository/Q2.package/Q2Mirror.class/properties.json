@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Domain-mirroring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"processes",
+		"filters",
+		"prefix" ],
+	"name" : "Q2Mirror",
+	"pools" : [
+		 ],
+	"super" : "Q2NamedObject",
+	"type" : "normal" }

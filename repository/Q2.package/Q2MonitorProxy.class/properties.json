@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "miki 12/2/2008 11:39",
+	"instvars" : [
+		"monitor" ],
+	"name" : "Q2MonitorProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

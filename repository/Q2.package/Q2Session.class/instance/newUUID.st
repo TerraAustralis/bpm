@@ -1,0 +1,4 @@
+context
+newUUID
+
+	^UUID new

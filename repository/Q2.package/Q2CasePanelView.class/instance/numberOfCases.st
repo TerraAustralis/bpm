@@ -1,0 +1,4 @@
+accessing
+numberOfCases
+
+	^panel numberOfCases

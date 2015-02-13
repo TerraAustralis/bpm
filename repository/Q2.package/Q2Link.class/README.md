@@ -1,0 +1,1 @@
+A link of a specified type between two cases. The owner case is #from.

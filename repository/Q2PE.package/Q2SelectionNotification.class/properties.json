@@ -1,0 +1,14 @@
+{
+	"category" : "Q2PE-Transactions-Process Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selected" ],
+	"name" : "Q2SelectionNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

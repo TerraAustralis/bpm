@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Settings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2GjallarSettings",
+	"pools" : [
+		 ],
+	"super" : "Q2GjallarSettingsManager",
+	"type" : "normal" }

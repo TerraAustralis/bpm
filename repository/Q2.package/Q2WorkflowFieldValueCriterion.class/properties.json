@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 9/19/2006 10:59",
+	"instvars" : [
+		"value" ],
+	"name" : "Q2WorkflowFieldValueCriterion",
+	"pools" : [
+		 ],
+	"super" : "Q2WorkflowMandatoryFieldCriterion",
+	"type" : "normal" }

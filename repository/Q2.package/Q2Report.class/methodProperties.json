@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"formats" : "makl 6/28/2006 14:12",
+		"formatsClear" : "makl 6/28/2006 13:57",
+		"from:" : "makl 5/10/2006 10:30",
+		"from:with:" : "makl 5/10/2006 10:30" },
+	"instance" : {
+		"attributes" : "makl 5/11/2006 12:55",
+		"convertToCsv" : "gk 8/11/2006 00:28",
+		"convertToCsvSemiColon" : "gk 8/11/2006 00:29",
+		"convertToHtml" : "gk 8/11/2006 00:29",
+		"convertToXml" : "makl 6/28/2006 10:57",
+		"filter" : "makl 5/10/2006 10:28",
+		"filter:" : "makl 5/10/2006 10:28",
+		"generateReport" : "miki 12/11/2008 10:49",
+		"initialize" : "miki 12/10/2008 13:07",
+		"reportDefinition" : "makl 5/8/2006 11:05",
+		"reportDefinition:" : "makl 5/8/2006 11:05",
+		"reportExists:" : "gk 8/10/2006 14:24",
+		"storeXmlOn:" : "makl 5/10/2006 10:49",
+		"storeXmlOn:attributes:indent:" : "makl 5/8/2006 14:45",
+		"storeXmlOn:field:object:indent:" : "makl 5/9/2006 10:27",
+		"xmlTag" : "makl 5/8/2006 14:42" } }

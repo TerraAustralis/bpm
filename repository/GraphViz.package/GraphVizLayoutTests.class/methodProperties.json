@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testGetCoordinatesForEdges" : "jrp 3/26/2005 23:18",
+		"testGetCoordinatesForNodes" : "jrp 3/26/2005 22:34",
+		"testGetCoordinatesForNodesDefinedInSubgraph" : "jrp 3/26/2005 22:23" } }

@@ -1,0 +1,1 @@
+A button row Seaside component used primarily with Mewa to get more flexible buttons in viewers and editors.

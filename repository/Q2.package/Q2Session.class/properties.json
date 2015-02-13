@@ -1,0 +1,23 @@
+{
+	"category" : "Q2-Sessions",
+	"classinstvars" : [
+		"securityCode" ],
+	"classvars" : [
+		"MockModel",
+		"StatisticsSessionClass",
+		"UseMock" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"dbSession",
+		"currentUser",
+		"model",
+		"events",
+		"lastKnownTxn",
+		"localeId",
+		"translator",
+		"txnInProgress" ],
+	"name" : "Q2Session",
+	"pools" : [
+		 ],
+	"super" : "WASession",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"clearIndexDirectory" : "ul 7/23/2007 18:49",
+		"defaultWrapperClass" : "jupiter 09/12/2014 14:41",
+		"indexDirectory" : "kph 7/17/2007 17:23",
+		"new" : "ul 7/23/2007 18:49",
+		"tempIndexDirectory" : "kph 7/17/2007 17:23" },
+	"instance" : {
+		"basicSearch:in:" : "ul 7/24/2007 19:14",
+		"escape:" : "ul 7/25/2007 13:36",
+		"index:into:" : "ul 7/23/2007 18:48",
+		"index:with:appendTo:" : "miki 12/3/2008 15:13",
+		"index:with:into:" : "jupiter 10/22/2014 01:40",
+		"merge:with:" : "ul 7/23/2007 18:48",
+		"search:in:" : "gk 10/11/2007 01:29",
+		"temporaryFileName" : "jupiter 02/02/2015 16:47",
+		"version" : "ul 7/23/2007 18:45" } }

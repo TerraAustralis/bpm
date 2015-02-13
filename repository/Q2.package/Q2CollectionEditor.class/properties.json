@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Seaside UI-base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objects",
+		"editComponent",
+		"viewComponent",
+		"table" ],
+	"name" : "Q2CollectionEditor",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

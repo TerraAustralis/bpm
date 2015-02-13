@@ -1,0 +1,2 @@
+This is the personal customized view that each user sees first - the "home base" of the user. It is referred to as "My View" in the user interface.
+It mainly holds a collection of Q2CasePanelViews and a free text search UI that filters all case panels in parallell when used. At the bottom right corner we show a small icon allowing editing the view and how it is configured "in place".

@@ -1,0 +1,3 @@
+pseudo accessing
+aveTimeToResolution
+	^totalTimeToResolution / numResolvedCases

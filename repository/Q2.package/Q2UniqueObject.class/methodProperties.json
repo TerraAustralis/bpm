@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"disconnect" : "ul 6/25/2007 22:55",
+		"disconnected" : "gk 4/24/2007 10:17",
+		"id" : "gk 1/13/2006 14:24",
+		"initialize" : "jupiter 02/01/2015 01:50",
+		"isUnique" : "gk 8/24/2006 22:27",
+		"isUniqueObject" : "kb 6/26/2007 02:38",
+		"postCopy" : "jupiter 07/17/2014 15:07",
+		"process" : "gk 5/16/2006 13:10",
+		"setId:" : "jupiter 07/17/2014 15:07",
+		"veryDeepInner:" : "kb 5/22/2007 23:48" } }

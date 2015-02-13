@@ -1,0 +1,1 @@
+This criterion ensures that a specific field has a specific entered value. The field may be present in different forms.

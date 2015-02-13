@@ -1,0 +1,1 @@
+A temporary holder of a file - filename and content.

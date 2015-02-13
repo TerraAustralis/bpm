@@ -1,0 +1,3 @@
+magma
+newDBCollection
+	^Q2MockMagmaCollection new

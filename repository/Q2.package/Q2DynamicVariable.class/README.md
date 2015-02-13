@@ -1,0 +1,1 @@
+This class is a copy of WADynamicVariable, because we want this functionality in Q2, but we do not want to inherit and make this mechanism dependent on Seaside.

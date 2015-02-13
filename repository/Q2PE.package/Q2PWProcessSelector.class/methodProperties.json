@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"parent:" : "kph 6/27/2007 03:31" },
+	"instance" : {
+		"contentId" : "kph 6/27/2007 01:21",
+		"controller" : "kph 6/27/2007 01:50",
+		"controller:" : "kph 6/27/2007 01:50",
+		"doCopyProcess" : "kph 6/27/2007 04:52",
+		"doCreateProcess" : "kph 6/27/2007 05:06",
+		"doDeleteProcess" : "kph 6/27/2007 05:20",
+		"doRenameProcess" : "kph 6/27/2007 04:47",
+		"getProcesses" : "kph 6/27/2007 01:51",
+		"initialize" : "kph 6/27/2007 10:17",
+		"isNewProcessNameInvalid" : "kph 6/20/2007 04:22",
+		"newProcessName" : "kph 6/20/2007 17:13",
+		"newProcessName:" : "kph 6/20/2007 17:12",
+		"process" : "kph 6/27/2007 01:54",
+		"process:" : "kph 6/20/2007 16:57",
+		"processes" : "kph 6/26/2007 07:39",
+		"renderContentOn:" : "kph 6/27/2007 01:21",
+		"renderModifyProcessButtonsOn:" : "jupiter 09/05/2014 21:06",
+		"renderThereAreNoProcessesOn:" : "kph 6/20/2007 03:03",
+		"suFullUpdate:" : "kph 6/27/2007 03:26",
+		"updateContentOn:" : "jupiter 09/05/2014 20:49" } }

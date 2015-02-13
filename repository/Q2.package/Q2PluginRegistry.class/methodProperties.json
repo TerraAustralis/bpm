@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"owner:" : "sig 5/17/2007 15:17" },
+	"instance" : {
+		"addPlugin:" : "sig 6/1/2007 12:52",
+		"allPluginsDo:" : "sig 6/1/2007 16:14",
+		"do:" : "sig 6/1/2007 16:16",
+		"owner" : "sig 5/17/2007 15:21",
+		"owner:" : "sig 5/17/2007 15:18",
+		"plugins" : "sig 5/17/2007 15:21",
+		"plugins:" : "sig 5/17/2007 15:21",
+		"removePlugin:" : "sig 5/17/2007 15:22" } }

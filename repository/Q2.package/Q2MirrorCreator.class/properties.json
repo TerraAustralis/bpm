@@ -1,0 +1,19 @@
+{
+	"category" : "Q2-Domain-mirroring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kb 5/31/2007 02:42",
+	"instvars" : [
+		"mirrorDefinition",
+		"objectMap",
+		"shouldNotCopy",
+		"model",
+		"shouldNotVisitObjects",
+		"shouldNotVisitClasses" ],
+	"name" : "Q2MirrorCreator",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

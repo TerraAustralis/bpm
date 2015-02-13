@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"baseNameFor:" : "miki 11/14/2008 13:46",
+		"default" : "miki 12/4/2008 15:20",
+		"dot" : "miki 11/14/2008 14:20",
+		"isActiveDirectoryClass" : "miki 11/18/2008 10:58",
+		"onClient" : "miki 11/14/2008 13:37",
+		"pathNameDelimiter" : "miki 11/17/2008 10:35" },
+	"instance" : {
+		"entryAt:ifAbsent:" : "sig 01/23/2009 04:30",
+		"fileExists:" : "sig 01/12/2009 20:41",
+		"forceRename:toBe:" : "miki 11/14/2008 14:49",
+		"newFileNamed:" : "miki 11/14/2008 14:08",
+		"oldFileNamed:" : "miki 11/14/2008 14:07",
+		"oldFileOrNoneNamed:" : "miki 11/14/2008 14:02",
+		"rename:toBe:" : "sig 01/23/2009 05:18",
+		"splitNameVersionExtensionFor:" : "miki 11/14/2008 14:24" } }

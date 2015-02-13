@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Sessions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"indexes" ],
+	"name" : "Q2MockMagmaCollection",
+	"pools" : [
+		 ],
+	"super" : "SortedCollection",
+	"type" : "variable" }

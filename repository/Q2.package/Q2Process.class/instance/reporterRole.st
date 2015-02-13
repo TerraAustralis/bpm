@@ -1,0 +1,4 @@
+roles
+reporterRole
+
+	^reporterRole

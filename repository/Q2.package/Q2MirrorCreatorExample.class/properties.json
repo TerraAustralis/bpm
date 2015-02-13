@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-mirroring-tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2MirrorCreatorExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

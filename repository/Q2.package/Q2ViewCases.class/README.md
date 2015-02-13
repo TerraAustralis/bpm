@@ -1,0 +1,1 @@
+This is the standard single table, view and search cases component.

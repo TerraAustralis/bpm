@@ -1,0 +1,1 @@
+A field list field is a wrapper for another field enabling it to be rendered in a list with add and remove mechanisms.

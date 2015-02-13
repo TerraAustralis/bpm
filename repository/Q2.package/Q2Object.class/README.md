@@ -1,0 +1,1 @@
+Behavior easily accessed from any domain object.

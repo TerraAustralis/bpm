@@ -1,0 +1,1 @@
+This is a tailored tabular view of a filtered subset of cases. Currently it holds a name (as label), description (shown as tooltip), a table case form (defines the columns of the table) and a selected filter. Currently there isn't much of behavior here, which is a code smell, but it may come. See Q2CasePanelView.

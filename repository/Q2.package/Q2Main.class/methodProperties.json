@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"canBeRoot" : "gk 1/4/2006 12:33",
+		"description" : "jupiter 10/22/2014 02:01",
+		"initializeWithSettings:locationInitBlock:" : "jupiter 10/22/2014 02:10",
+		"isDeployed" : "kph 7/17/2007 10:00" },
+	"instance" : {
+		"children" : "sig 5/15/2007 16:35",
+		"initialRequest:" : "makl 10/3/2006 11:31",
+		"initialize" : "kph 7/5/2007 15:51",
+		"renderContentOn:" : "sig 7/20/2007 19:06",
+		"rendererClass" : "gk 6/20/2007 23:35",
+		"start:" : "miki 11/18/2008 13:24",
+		"updateRoot:" : "jupiter 09/25/2014 20:24" } }

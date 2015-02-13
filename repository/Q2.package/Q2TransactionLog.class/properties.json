@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"transactions",
+		"counter" ],
+	"name" : "Q2TransactionLog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

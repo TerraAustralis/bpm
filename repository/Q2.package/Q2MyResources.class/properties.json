@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Libraries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2MyResources",
+	"pools" : [
+		 ],
+	"super" : "Q2Resources",
+	"type" : "normal" }

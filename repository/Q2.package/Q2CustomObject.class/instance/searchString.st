@@ -1,0 +1,4 @@
+comparing
+searchString
+
+	^self name

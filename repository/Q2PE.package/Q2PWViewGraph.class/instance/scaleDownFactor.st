@@ -1,0 +1,4 @@
+calculating
+scaleDownFactor
+ 
+	^ scaleDownFactor asFloat

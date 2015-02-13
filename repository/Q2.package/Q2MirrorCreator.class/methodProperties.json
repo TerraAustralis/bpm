@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"with:from:" : "kb 6/25/2007 01:37" },
+	"instance" : {
+		"build" : "kb 5/29/2007 21:22",
+		"copyOf:" : "ul 6/22/2007 18:40",
+		"createDb" : "kph 6/12/2007 12:32",
+		"createMirrorModel" : "kb 6/26/2007 02:13",
+		"databaseFullPath" : "kb 5/27/2007 20:21",
+		"fillDb" : "ul 8/14/2007 13:50",
+		"initialize" : "kb 5/27/2007 19:56",
+		"initializeObjectMap" : "kb 5/27/2007 19:57",
+		"initializeShouldNotCopy" : "kb 5/27/2007 17:20",
+		"initializeShouldNotVisit" : "kb 6/25/2007 16:35",
+		"mirrorDefinition:" : "kb 5/25/2007 14:25",
+		"mirrorsDirectory" : "kph 7/17/2007 17:17",
+		"model:" : "kb 6/24/2007 21:01",
+		"shouldNotCopy:" : "kb 5/27/2007 17:16",
+		"shouldNotVisit:" : "kb 6/25/2007 14:27",
+		"zipDb" : "ul 8/15/2007 01:12",
+		"zipDbSqueak" : "kb 6/24/2007 22:02",
+		"zipDbWin32" : "ul 8/15/2007 01:10",
+		"zipFilePath" : "kb 6/24/2007 21:58" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"form",
+		"selectionList" ],
+	"name" : "Q2CollectionField",
+	"pools" : [
+		 ],
+	"super" : "Q2Field",
+	"type" : "normal" }

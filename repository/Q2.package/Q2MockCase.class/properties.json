@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Stats Mock Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RPB 9/26/2007 13:17",
+	"instvars" : [
+		"process",
+		"transactions" ],
+	"name" : "Q2MockCase",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

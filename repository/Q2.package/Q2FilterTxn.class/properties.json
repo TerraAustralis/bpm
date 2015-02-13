@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filter" ],
+	"name" : "Q2FilterTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2UserTxn",
+	"type" : "normal" }

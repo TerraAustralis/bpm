@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cancel" : "gk 2/1/2006 23:20",
+		"edit" : "gk 2/1/2006 20:36",
+		"initialize" : "kph 7/6/2007 03:03",
+		"isEditing" : "gk 2/1/2006 19:43",
+		"owner" : "gk 2/2/2006 01:34",
+		"owner:" : "gk 2/2/2006 01:34",
+		"page" : "gk 2/1/2006 19:53",
+		"page:" : "gk 2/1/2006 20:05",
+		"renderContentOn:" : "sig 5/14/2007 20:36",
+		"renderEditorOn:" : "sig 5/14/2007 20:26",
+		"renderEditorOn:id:" : "gk 9/24/2007 02:34",
+		"renderViewerOn:" : "sig 5/14/2007 18:54",
+		"renderViewerOn:id:" : "kph 5/24/2007 14:54",
+		"save" : "gk 4/26/2006 13:08" } }

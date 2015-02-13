@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"with:with:" : "kb 5/12/2007 13:16" },
+	"instance" : {
+		"actualObjectsAreComparable" : "kb 5/15/2007 22:37",
+		"actualObjectsAreEqual" : "kb 5/15/2007 22:45",
+		"actualObjectsAreUncomparableOrEquals" : "kb 5/15/2007 22:14",
+		"classesOfActualObjectsAreEqual" : "kb 5/15/2007 18:11",
+		"compare" : "kb 5/16/2007 02:00",
+		"haveNotSeenTheseObjectsOrTheyAreTheSame" : "kb 5/15/2007 22:43",
+		"initializeWith:with:" : "kb 5/27/2007 17:06",
+		"objectIterator1" : "kb 5/15/2007 15:04",
+		"objectIterator2" : "kb 5/15/2007 15:04",
+		"storeMappingIfNeeded" : "kb 5/15/2007 22:43" } }

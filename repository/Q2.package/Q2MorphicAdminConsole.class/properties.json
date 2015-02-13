@@ -1,0 +1,19 @@
+{
+	"category" : "Q2-MorphicTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"result",
+		"explorer",
+		"window",
+		"button",
+		"definitionMorph",
+		"rootProxy" ],
+	"name" : "Q2MorphicAdminConsole",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

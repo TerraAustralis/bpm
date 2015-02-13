@@ -1,0 +1,1 @@
+A visitor like object collecting the validation results when trying to perform a transition (or other operation?) on a case. It essentially holds collections of messages (explaining the reasons for rejection) associated with specific available transitions. It also holds generic denial messages and other alerts.

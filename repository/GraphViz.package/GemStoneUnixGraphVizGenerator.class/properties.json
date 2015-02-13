@@ -1,0 +1,14 @@
+{
+	"category" : "GraphViz-Generators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ProgramPath" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "GemStoneUnixGraphVizGenerator",
+	"pools" : [
+		 ],
+	"super" : "FileBasedGraphVizGenerator",
+	"type" : "normal" }

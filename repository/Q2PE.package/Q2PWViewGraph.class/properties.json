@@ -1,0 +1,25 @@
+{
+	"category" : "Q2PE-Seaside UI Process Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kph 6/22/2007 10:03",
+	"instvars" : [
+		"process",
+		"graph",
+		"graphForm",
+		"graphFormOriginX",
+		"graphFormOriginY",
+		"graphFormClickX",
+		"graphFormClickY",
+		"graphFormClickIsLeftClick",
+		"graphFormClickedItem",
+		"graphFormPreviousClickedItem",
+		"scaleDownFactor",
+		"usedForCaseEditing" ],
+	"name" : "Q2PWViewGraph",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

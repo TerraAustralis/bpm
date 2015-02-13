@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"clearNoReset" : "makl 3/13/2006 14:16",
+		"noReset" : "gk 3/9/2006 12:56",
+		"reset" : "gk 3/9/2006 13:08" },
+	"instance" : {
+		"model" : "gk 3/8/2006 01:13",
+		"setUp" : "gk 3/19/2007 21:38",
+		"tearDown" : "gk 3/8/2006 01:12" } }

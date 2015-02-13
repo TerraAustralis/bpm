@@ -1,0 +1,4 @@
+testing
+hasParent
+
+	^parent notNil

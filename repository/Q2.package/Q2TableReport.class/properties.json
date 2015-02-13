@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Seaside UI-base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"batchedList",
+		"currentRows" ],
+	"name" : "Q2TableReport",
+	"pools" : [
+		 ],
+	"super" : "WATableReport",
+	"type" : "normal" }

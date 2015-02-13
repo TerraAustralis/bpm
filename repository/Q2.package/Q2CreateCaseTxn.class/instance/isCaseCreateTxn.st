@@ -1,0 +1,3 @@
+testing (statistics)
+isCaseCreateTxn
+	^true

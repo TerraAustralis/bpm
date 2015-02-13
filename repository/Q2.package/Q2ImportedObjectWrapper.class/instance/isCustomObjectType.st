@@ -1,0 +1,4 @@
+wrapping
+isCustomObjectType
+
+	^wrappedObject isCustomObjectType

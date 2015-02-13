@@ -1,0 +1,1 @@
+A field list component is the corresponding component for Q2FieldListField. it has multiple child components, one for each instance of the field it is showing.

@@ -1,0 +1,4 @@
+tabs
+selectedTab
+
+	^tabBook selection

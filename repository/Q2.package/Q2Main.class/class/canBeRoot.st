@@ -1,0 +1,3 @@
+methods
+canBeRoot
+	^ true

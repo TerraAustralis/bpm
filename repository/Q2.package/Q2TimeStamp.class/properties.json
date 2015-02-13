@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "miki 12/11/2008 14:02",
+	"instvars" : [
+		 ],
+	"name" : "Q2TimeStamp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

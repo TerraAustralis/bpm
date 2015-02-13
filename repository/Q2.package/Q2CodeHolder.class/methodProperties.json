@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"code" : "gk 3/16/2006 13:23",
+		"code:" : "gk 3/16/2006 16:24",
+		"compileAndRunIn:" : "sig 01/06/2009 10:22",
+		"correctFrom:to:with:" : "gk 3/16/2006 13:30",
+		"error" : "gk 3/16/2006 16:37",
+		"executeIn:" : "gk 4/18/2006 09:22",
+		"nextTokenFrom:direction:" : "gk 3/16/2006 13:24",
+		"notify:at:in:" : "gk 8/28/2006 14:27",
+		"replaceSelectionWith:" : "gk 3/16/2006 16:23",
+		"result" : "gk 3/16/2006 16:40",
+		"select" : "gk 3/16/2006 13:43",
+		"selectFrom:to:" : "gk 3/16/2006 13:43",
+		"selectInvisiblyFrom:to:" : "gk 3/16/2006 16:23",
+		"selectionInterval" : "gk 3/16/2006 16:23",
+		"text" : "gk 10/3/2006 12:34",
+		"wasRun" : "gk 3/16/2006 16:41" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Tests",
+	"classinstvars" : [
+		"saveSession" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2LibrariesTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

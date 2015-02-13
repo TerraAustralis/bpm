@@ -1,0 +1,1 @@
+I generate Graphviz diagrams for GemStone running under Unix. The graph is written to a file that is used as input for dot, then System performOnServer: is used to run dot and generate the output file.

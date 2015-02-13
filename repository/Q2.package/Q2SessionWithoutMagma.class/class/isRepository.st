@@ -1,0 +1,4 @@
+spoof pool
+isRepository
+
+	^ true

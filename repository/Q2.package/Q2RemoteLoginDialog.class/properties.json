@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2RemoteLoginDialog",
+	"pools" : [
+		 ],
+	"super" : "Q2LoginDialog",
+	"type" : "normal" }

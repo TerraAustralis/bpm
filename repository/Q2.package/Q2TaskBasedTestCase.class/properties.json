@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Serialization-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kb 5/15/2007 04:01",
+	"instvars" : [
+		"tasks",
+		"testName" ],
+	"name" : "Q2TaskBasedTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

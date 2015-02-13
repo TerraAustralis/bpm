@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Sessions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"magmaSession" ],
+	"name" : "Q2MagmaDBSession",
+	"pools" : [
+		 ],
+	"super" : "Q2DBSession",
+	"type" : "normal" }

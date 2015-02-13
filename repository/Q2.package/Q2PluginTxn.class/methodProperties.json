@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"plugin:owner:" : "sig 6/1/2007 16:56" },
+	"instance" : {
+		"apply" : "sig 6/1/2007 12:45",
+		"disconnect" : "sig 6/1/2007 17:00",
+		"plugin" : "sig 6/1/2007 14:45",
+		"plugin:" : "sig 6/1/2007 14:45",
+		"process" : "sig 6/4/2007 13:05",
+		"reconnectIn:" : "sig 6/1/2007 17:01",
+		"registryOwner" : "sig 6/1/2007 16:51",
+		"registryOwner:" : "sig 6/1/2007 16:51",
+		"validInMirror:" : "kb 6/25/2007 19:15" } }

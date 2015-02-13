@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"fromMailItem:attributes:case:" : "gk 10/7/2008 10:28",
+		"parseAttributes:" : "gk 10/6/2008 23:33",
+		"parseBody:do:" : "gk 10/7/2008 10:32" },
+	"instance" : {
+		"attributeAt:" : "gk 10/7/2008 11:08",
+		"fromMailItem:attributes:case:" : "gk 10/8/2008 01:29",
+		"initialize" : "gk 10/7/2008 10:19",
+		"renderObjectIn:on:" : "gk 10/7/2008 10:59" } }

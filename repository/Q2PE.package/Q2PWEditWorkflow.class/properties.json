@@ -1,0 +1,27 @@
+{
+	"category" : "Q2PE-Seaside UI Process Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kph 6/22/2007 11:54",
+	"instvars" : [
+		"process",
+		"stages",
+		"transitions",
+		"tellUserSelection",
+		"selectedStageOrTransition",
+		"previousSelectedStageOrTransition",
+		"editor",
+		"script",
+		"mulitFormEditor",
+		"itemEditor",
+		"tabBook",
+		"buttons",
+		"controller",
+		"criteria" ],
+	"name" : "Q2PWEditWorkflow",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+targets
+	self subclassResponsibility

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCasePanelView:" : "gk 4/3/2007 14:24",
+		"applyFreeText" : "gk 5/14/2007 23:24",
+		"calculate" : "gk 5/14/2007 23:25",
+		"cancel" : "gk 4/2/2007 15:33",
+		"casePanelViews" : "gk 4/3/2007 11:17",
+		"central" : "gk 4/3/2007 09:54",
+		"children" : "sig 5/15/2007 16:37",
+		"clear" : "gk 5/14/2007 23:20",
+		"initialize" : "gk 4/3/2007 11:25",
+		"initializeCasePanelViews" : "gk 4/3/2007 11:25",
+		"movePanelViewDown:" : "gk 4/3/2007 11:13",
+		"movePanelViewUp:" : "gk 4/3/2007 11:13",
+		"newPanelView" : "gk 4/3/2007 11:26",
+		"removePanelView:" : "gk 4/3/2007 11:22",
+		"renderContentOn:" : "gk 12/19/2007 11:19",
+		"renderIntroductionOn:" : "gk 6/25/2007 13:12",
+		"save" : "gk 4/3/2007 11:52",
+		"style" : "jupiter 07/24/2014 06:56",
+		"toggleMode" : "gk 4/3/2007 12:04" } }

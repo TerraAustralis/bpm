@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Seaside UI-base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"plugin",
+		"values" ],
+	"name" : "Q2PluginComponent",
+	"pools" : [
+		 ],
+	"super" : "Q2ChildComponent",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addComponent" : "gk 6/11/2007 23:38",
+		"addComponentWithCache:" : "gk 5/9/2006 09:57",
+		"childComponentClass" : "gk 4/27/2006 23:16",
+		"children" : "gk 4/27/2006 14:46",
+		"initialize" : "gk 6/11/2007 23:41",
+		"refreshCache" : "gk 6/12/2007 11:31",
+		"removeComponent:" : "gk 4/28/2006 00:11" } }

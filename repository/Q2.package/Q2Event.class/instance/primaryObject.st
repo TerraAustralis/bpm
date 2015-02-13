@@ -1,0 +1,3 @@
+evaluating
+primaryObject
+	self subclassResponsibility

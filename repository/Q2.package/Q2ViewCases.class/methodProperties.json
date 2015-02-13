@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"calculate" : "gk 4/11/2007 14:39",
+		"children" : "sig 5/15/2007 16:39",
+		"initialize" : "jupiter 07/25/2014 07:49",
+		"renderContentOn:" : "gk 6/25/2007 20:35",
+		"renderIntroductionOn:" : "gk 6/25/2007 13:12" } }

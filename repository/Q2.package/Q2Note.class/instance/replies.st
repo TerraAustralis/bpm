@@ -1,0 +1,3 @@
+accessing
+replies
+	^replies ifNil: [#()]

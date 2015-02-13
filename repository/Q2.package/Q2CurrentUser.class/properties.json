@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions-Notifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kb 5/31/2007 22:37",
+	"instvars" : [
+		 ],
+	"name" : "Q2CurrentUser",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

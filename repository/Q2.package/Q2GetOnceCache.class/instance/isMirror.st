@@ -1,0 +1,4 @@
+accessing
+isMirror
+
+	^ modelMirrorOwnerFullName notNil

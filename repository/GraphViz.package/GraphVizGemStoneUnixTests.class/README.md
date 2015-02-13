@@ -1,0 +1,1 @@
+I test that GraphViz works under GemStone.

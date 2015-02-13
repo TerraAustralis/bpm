@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"fieldTypeName" : "sig 6/25/2007 15:18" },
+	"instance" : {
+		"cacheValueFrom:component:" : "gk 11/8/2006 14:30",
+		"formatValueFrom:" : "makl 5/9/2006 09:46",
+		"initialize" : "gk 5/5/2006 10:32",
+		"keysForFieldComponent:" : "sig 8/21/2007 15:54",
+		"keysProvider" : "gk 3/30/2006 14:15",
+		"keysProvider:" : "gk 3/30/2006 14:15",
+		"labelForKey:" : "gk 5/5/2006 10:31",
+		"nilItemStringKeys" : "gk 5/5/2006 10:30",
+		"nilItemStringKeys:" : "gk 5/5/2006 10:30",
+		"renderEditControlOn:component:" : "gk 9/7/2006 15:07",
+		"renderKeysOn:component:" : "jupiter 09/05/2014 12:24",
+		"renderListKeysOn:component:" : "gk 5/5/2006 10:45",
+		"renderValuesOn:component:" : "jupiter 09/05/2014 12:24",
+		"renderViewControlOn:component:" : "gk 6/26/2007 23:11",
+		"searchKey:component:" : "miki 11/6/2008 13:57",
+		"searchKeysForFieldComponent:" : "sig 8/2/2007 03:19",
+		"storeXmlValue:on:" : "makl 5/9/2006 10:53",
+		"tableValueFromTarget:" : "gk 6/20/2006 14:59",
+		"useCompletionKeys" : "gk 5/5/2006 10:31",
+		"useCompletionKeys:" : "gk 5/5/2006 10:31",
+		"valueLabel" : "gk 4/6/2006 11:16",
+		"valueLabel:" : "gk 4/6/2006 11:16" } }

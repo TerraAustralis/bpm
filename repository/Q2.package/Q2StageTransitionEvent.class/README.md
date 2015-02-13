@@ -1,0 +1,1 @@
+I represent the event when a case has changed its stage.

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 10/30/2006 11:31",
+	"instvars" : [
+		 ],
+	"name" : "Q2MantisMigrationService",
+	"pools" : [
+		 ],
+	"super" : "Q2MigrationService",
+	"type" : "normal" }

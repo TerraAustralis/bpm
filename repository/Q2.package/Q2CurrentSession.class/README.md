@@ -1,0 +1,1 @@
+I am a process variable that refers to the session of the current process.

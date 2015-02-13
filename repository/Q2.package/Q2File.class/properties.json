@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"fileName",
+		"content" ],
+	"name" : "Q2File",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

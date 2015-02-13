@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"for:" : "makl 5/16/2006 07:12",
+		"for:with:" : "makl 8/28/2006 13:07" },
+	"instance" : {
+		"addEvent:" : "makl 5/16/2006 07:15",
+		"case" : "gk 1/29/2008 14:32",
+		"descriptionOn:" : "gk 10/7/2008 23:38",
+		"events" : "makl 8/28/2006 13:35",
+		"events:" : "makl 9/4/2006 09:50",
+		"isCaseEvent" : "gk 1/29/2008 14:27",
+		"mailSubject" : "kph 7/12/2007 06:22",
+		"process" : "gk 1/29/2008 14:32",
+		"subscription" : "makl 5/16/2006 09:05",
+		"subscription:" : "makl 5/16/2006 07:12" } }

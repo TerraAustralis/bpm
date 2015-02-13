@@ -1,0 +1,3 @@
+error handler
+seasideErrorHandlerClass
+	^ self current seasideErrorHandlerClass

@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Plugins",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"label",
+		"text",
+		"tooltip" ],
+	"name" : "Q2ScriptableButtonsPlugin",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessPlugin",
+	"type" : "normal" }

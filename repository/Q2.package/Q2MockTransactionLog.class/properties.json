@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions-Serialization-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2MockTransactionLog",
+	"pools" : [
+		 ],
+	"super" : "OrderedCollection",
+	"type" : "variable" }

@@ -1,0 +1,1 @@
+A composite criterion used to express the fact that at least one of my criteria should be met, in other words logical disjunctions (OR).

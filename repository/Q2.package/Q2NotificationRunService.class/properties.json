@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2NotificationRunService",
+	"pools" : [
+		 ],
+	"super" : "Q2QueueHandlerService",
+	"type" : "normal" }

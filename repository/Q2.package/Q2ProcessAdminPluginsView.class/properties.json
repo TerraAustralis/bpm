@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pluginsView" ],
+	"name" : "Q2ProcessAdminPluginsView",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessAdminView",
+	"type" : "normal" }

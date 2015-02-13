@@ -1,0 +1,1 @@
+Clicking on the graph should put the clicked GraphViz item in graphVizClickedItem, a second click on the same object deselects.

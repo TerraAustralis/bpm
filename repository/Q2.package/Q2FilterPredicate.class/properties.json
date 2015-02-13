@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Domain-filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"operator",
+		"value",
+		"rank",
+		"filter",
+		"field" ],
+	"name" : "Q2FilterPredicate",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

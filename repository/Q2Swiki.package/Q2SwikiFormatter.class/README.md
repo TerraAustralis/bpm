@@ -1,0 +1,1 @@
+This is a Swiki syntax parser and HTML generator. It is copied from another project and is not yet fully integrated into Gjallar.

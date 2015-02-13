@@ -1,0 +1,4 @@
+methods
+languageTranslator
+
+	^Q2GemStoneNaturalLanguageTranslator

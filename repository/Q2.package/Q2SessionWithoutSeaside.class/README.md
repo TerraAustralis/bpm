@@ -1,0 +1,1 @@
+This session class is used for doing work in Q2 outside of Seaside - for example when called through SOAP or when running scheduled jobs like popping email etc.

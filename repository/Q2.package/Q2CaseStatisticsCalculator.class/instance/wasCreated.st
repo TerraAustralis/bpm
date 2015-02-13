@@ -1,0 +1,3 @@
+accessing
+wasCreated
+	^wasCreated

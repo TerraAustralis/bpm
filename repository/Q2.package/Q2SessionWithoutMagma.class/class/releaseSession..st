@@ -1,0 +1,2 @@
+spoof pool
+releaseSession: s

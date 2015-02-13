@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"model:" : "gk 1/27/2006 12:26" },
+	"instance" : {
+		"addCancelButton" : "gk 5/3/2007 13:05",
+		"addSaveButton" : "gk 5/3/2007 13:04",
+		"button:callback:tooltip:" : "gk 5/3/2007 11:33",
+		"buttons" : "gk 5/3/2007 13:05",
+		"cancelText" : "gk 1/27/2006 12:25",
+		"cancelText:" : "gk 1/27/2006 12:25",
+		"initialize" : "gk 1/27/2006 12:26",
+		"model" : "gk 1/27/2006 12:26",
+		"model:" : "gk 1/27/2006 12:26",
+		"renderButtonsOn:" : "sig 5/15/2007 12:16",
+		"rendererClass" : "gk 1/28/2006 13:51",
+		"saveText" : "gk 1/27/2006 12:25",
+		"saveText:" : "gk 1/27/2006 12:25" } }

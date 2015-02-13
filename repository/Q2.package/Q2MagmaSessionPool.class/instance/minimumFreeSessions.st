@@ -1,0 +1,4 @@
+constants
+minimumFreeSessions
+
+	^4

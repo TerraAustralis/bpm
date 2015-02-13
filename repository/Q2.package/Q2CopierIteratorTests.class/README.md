@@ -1,0 +1,1 @@
+I'm here to test Q2CopierIterator. I'm a pseudo-test, i just spam the transcript, count some objects, etc.

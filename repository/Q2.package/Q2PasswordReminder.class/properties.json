@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"userName" ],
+	"name" : "Q2PasswordReminder",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

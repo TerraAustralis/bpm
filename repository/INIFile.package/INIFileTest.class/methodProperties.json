@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBatchAddition" : "jf 2/9/2004 18:54",
+		"testComplexRead" : "jf 2/9/2004 18:10",
+		"testEmptyValueOnRead" : "jf 2/9/2004 19:29",
+		"testHasSection" : "jf 2/9/2004 19:44",
+		"testIteration" : "jf 2/9/2004 18:43",
+		"testMultipleSections" : "jf 2/9/2004 18:16",
+		"testNilValueOnWrite" : "jf 2/9/2004 19:34",
+		"testSectionIsEmpty" : "jf 2/9/2004 19:41",
+		"testSingleSection" : "jf 2/9/2004 17:49" } }

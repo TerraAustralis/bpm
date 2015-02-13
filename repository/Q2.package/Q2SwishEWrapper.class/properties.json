@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Utilities-SwishE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2SwishEWrapper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

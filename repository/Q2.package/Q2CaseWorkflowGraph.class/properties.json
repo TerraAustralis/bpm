@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Visualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"availableTransitions",
+		"unAvailableTransitions" ],
+	"name" : "Q2CaseWorkflowGraph",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessWorkflowGraph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions-Process Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2RemoveAccessTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessAndUsersTxn",
+	"type" : "normal" }

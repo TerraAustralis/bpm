@@ -1,0 +1,3 @@
+wrapping
+hash
+	^wrappedObject hash

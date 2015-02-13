@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Utilities-SwishE-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"swishEWrapper",
+		"index" ],
+	"name" : "Q2SwishEWrapperTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

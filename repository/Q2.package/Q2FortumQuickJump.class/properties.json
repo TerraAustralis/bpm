@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Plugins",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2FortumQuickJump",
+	"pools" : [
+		 ],
+	"super" : "Q2GlobalPlugin",
+	"type" : "normal" }

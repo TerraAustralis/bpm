@@ -1,0 +1,4 @@
+printing
+printString
+
+	^wrappedObject printString

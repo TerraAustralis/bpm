@@ -1,0 +1,4 @@
+accessing
+freetext
+
+	^freetextFilter freetext

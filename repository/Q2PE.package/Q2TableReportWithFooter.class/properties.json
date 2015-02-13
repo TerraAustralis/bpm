@@ -1,0 +1,15 @@
+{
+	"category" : "Q2PE-Seaside UI Process Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kph 6/26/2007 01:05",
+	"instvars" : [
+		"editor",
+		"buttons" ],
+	"name" : "Q2TableReportWithFooter",
+	"pools" : [
+		 ],
+	"super" : "Q2TableReport",
+	"type" : "normal" }

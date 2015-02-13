@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"fieldTypeName" : "sig 6/25/2007 15:18" },
+	"instance" : {
+		"cacheValueFrom:component:" : "gk 4/28/2006 00:02",
+		"cancelCacheComponent:" : "gk 4/24/2006 11:12",
+		"performExtraTxnsFor:" : "sig 8/21/2007 13:34",
+		"renderAttachments:on:" : "jupiter 09/06/2014 17:56",
+		"renderEditControlOn:component:" : "gk 6/21/2006 21:33",
+		"renderUploaderOn:component:" : "sig 01/14/2009 06:28",
+		"renderViewControlOn:component:" : "gk 6/21/2006 21:30",
+		"storeXmlValue:on:" : "makl 5/9/2006 10:45",
+		"tableValueFromTarget:" : "makl 6/1/2006 15:20" } }

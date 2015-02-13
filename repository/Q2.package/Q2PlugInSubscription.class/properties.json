@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain-events",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"plugIn",
+		"process" ],
+	"name" : "Q2PlugInSubscription",
+	"pools" : [
+		 ],
+	"super" : "Q2Subscription",
+	"type" : "normal" }

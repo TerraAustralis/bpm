@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"new:" : "rpb 6/13/2007 08:20" },
+	"instance" : {
+		"alternateComputeCaseStats:periodStart:periodEnd:" : "miki 11/6/2008 13:56",
+		"computeCaseStats:" : "RPB 9/24/2007 16:20",
+		"isOpen" : "rpb 6/12/2007 18:06",
+		"periodOpen" : "rpb 6/12/2007 18:08",
+		"printOn:" : "rpb 6/20/2007 18:08",
+		"resetStatistics" : "rpb 6/20/2007 17:35",
+		"responsibleWasSet" : "rpb 6/19/2007 08:18",
+		"timeToClose" : "rpb 6/12/2007 18:08",
+		"timeToOpen" : "rpb 6/12/2007 18:07",
+		"timeToResolve" : "rpb 6/12/2007 18:11",
+		"timeToSetResponsible" : "rpb 6/12/2007 18:10",
+		"timeToValidateResolution" : "rpb 6/12/2007 18:11",
+		"wasClosed" : "rpb 6/12/2007 18:05",
+		"wasCreated" : "rpb 6/22/2007 15:46",
+		"wasOpened" : "rpb 6/12/2007 18:19",
+		"wasOpenedForFirstTime" : "rpb 6/19/2007 10:40",
+		"wasReopened" : "rpb 6/12/2007 18:06",
+		"wasResolved" : "rpb 6/19/2007 08:17",
+		"wasResponsibleSet" : "rpb 6/19/2007 10:42" } }

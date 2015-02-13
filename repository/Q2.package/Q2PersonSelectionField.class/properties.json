@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"canAdd" ],
+	"name" : "Q2PersonSelectionField",
+	"pools" : [
+		 ],
+	"super" : "Q2SelectionField",
+	"type" : "normal" }

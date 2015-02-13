@@ -1,0 +1,1 @@
+I'm an abstract class. My subclasses used for Q2Model global settings

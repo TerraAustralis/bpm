@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aSnapshotName" : "kb 5/16/2007 10:52",
+		"doWithModel:" : "kb 5/16/2007 11:02",
+		"snapshotDirectory" : "kb 5/16/2007 11:01",
+		"testAQ2ModelEqualsItself" : "kb 5/16/2007 10:45",
+		"testArrays" : "kb 5/16/2007 10:29",
+		"testInteger" : "kb 5/16/2007 10:27" } }

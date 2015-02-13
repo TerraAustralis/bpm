@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		"EditForm",
+		"AdminEditForm" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 1/13/2006 08:57",
+	"instvars" : [
+		 ],
+	"name" : "Q2Object",
+	"pools" : [
+		 ],
+	"super" : "FWAPIModel",
+	"type" : "normal" }

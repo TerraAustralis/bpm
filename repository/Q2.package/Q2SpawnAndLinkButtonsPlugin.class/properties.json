@@ -1,0 +1,23 @@
+{
+	"category" : "Q2-Plugins",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"text",
+		"tooltip",
+		"destProcess",
+		"linkType",
+		"createOnly",
+		"forms",
+		"subjectField",
+		"subjectPrefix",
+		"descriptionField" ],
+	"name" : "Q2SpawnAndLinkButtonsPlugin",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessPlugin",
+	"type" : "normal" }

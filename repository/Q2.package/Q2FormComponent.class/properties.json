@@ -1,0 +1,22 @@
+{
+	"category" : "Q2-Seaside UI-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model",
+		"isBuffered",
+		"renderer",
+		"fieldComponents",
+		"children",
+		"wikiViewers",
+		"formHelpId",
+		"cacheRefreshed",
+		"rowcnt" ],
+	"name" : "Q2FormComponent",
+	"pools" : [
+		 ],
+	"super" : "Q2EditableChildComponent",
+	"type" : "normal" }

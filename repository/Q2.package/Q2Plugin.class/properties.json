@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Plugins",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"subscriptions" ],
+	"name" : "Q2Plugin",
+	"pools" : [
+		 ],
+	"super" : "Q2UniqueObject",
+	"type" : "normal" }

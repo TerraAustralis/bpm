@@ -1,0 +1,1 @@
+No Mac specific support is needed at the moment. See the Gjallar Readme.txt file for how to install Graphviz on the Mac.

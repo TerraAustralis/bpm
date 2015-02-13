@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fileName",
+		"separator" ],
+	"name" : "Q2CustomObjectFileLoader",
+	"pools" : [
+		 ],
+	"super" : "Q2CustomObjectLoader",
+	"type" : "normal" }

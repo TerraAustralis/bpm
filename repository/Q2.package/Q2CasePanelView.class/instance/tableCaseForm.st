@@ -1,0 +1,3 @@
+private
+tableCaseForm
+	^panel tableCaseForm

@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"note",
+		"files" ],
+	"name" : "Q2CaseNoteTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2CaseTxn",
+	"type" : "normal" }

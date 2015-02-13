@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"addSettingFrom:to:" : "gk 6/27/2006 12:38",
+		"newSectionIn:from:" : "jf 2/9/2004 19:00",
+		"readFrom:" : "jupiter 8/23/2014 10:13" },
+	"instance" : {
+		"at:ifAbsent:" : "gk 8/4/2006 16:05",
+		"ensureSectionDictionary:" : "jf 2/9/2004 18:36",
+		"includesSection:" : "jf 2/9/2004 19:44",
+		"section:" : "jf 2/9/2004 17:49",
+		"section:associationsDo:" : "gk 8/4/2006 15:56",
+		"section:at:ifAbsent:" : "gk 8/7/2006 08:56",
+		"section:at:put:" : "jf 2/9/2004 18:36",
+		"sectionDictionaries" : "jf 2/9/2004 18:29",
+		"sections" : "jf 2/9/2004 18:44",
+		"sectionsDo:" : "jf 2/9/2004 18:46",
+		"writeOn:" : "jf 2/9/2004 19:21" } }

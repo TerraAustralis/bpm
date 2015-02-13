@@ -1,0 +1,3 @@
+accessing
+wasResponsibleSet
+	^setResponsibleTxn notNil

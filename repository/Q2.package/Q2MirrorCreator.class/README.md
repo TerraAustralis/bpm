@@ -1,0 +1,1 @@
+I'm a mirror creator. I can copy the part of a model defined by a Q2MirrorDefinition. 

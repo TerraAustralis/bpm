@@ -1,0 +1,30 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"name",
+		"subject",
+		"description",
+		"stage",
+		"notebook",
+		"forms",
+		"fieldValues",
+		"links",
+		"attachments",
+		"owner",
+		"reporter",
+		"responsible",
+		"source",
+		"roles",
+		"origin",
+		"transactions",
+		"alarms" ],
+	"name" : "Q2Case",
+	"pools" : [
+		 ],
+	"super" : "Q2CategorizableObject",
+	"type" : "normal" }

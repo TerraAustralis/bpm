@@ -1,0 +1,1 @@
+This class only to show usage of statistics classes, nothing more

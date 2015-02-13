@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"availForEditing" : "sig 7/11/2007 11:57",
+		"fieldTypeName" : "sig 7/11/2007 11:58" },
+	"instance" : {
+		"fillForm:" : "sig 7/11/2007 11:42",
+		"renderEditOn:component:" : "sig 7/11/2007 16:39",
+		"renderViewOn:component:" : "sig 7/11/2007 16:39",
+		"storeValue:target:" : "sig 8/22/2007 14:37",
+		"valueFromTarget:ifAbsent:" : "sig 8/22/2007 14:37" } }

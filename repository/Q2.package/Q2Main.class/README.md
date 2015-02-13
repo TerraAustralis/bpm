@@ -1,0 +1,1 @@
+This is the component that is registered as the Gjallar application in Seaside in the class side initialize method. There we also set the session class to use for Gjallar - Q2Session. Q2Main has two child components; the left side panel and the right side content. It asks the left side panel about its selection to know what to show as the content.

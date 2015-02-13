@@ -1,0 +1,4 @@
+start/stop
+startServerWithRemoteMagma
+
+	Q2Platform current startServerWithRemoteMagma.

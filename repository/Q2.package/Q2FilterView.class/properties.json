@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 6/24/2007 21:22",
+	"instvars" : [
+		"subForm",
+		"buttons",
+		"editName",
+		"editDescription" ],
+	"name" : "Q2FilterView",
+	"pools" : [
+		 ],
+	"super" : "Q2FormComponent",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Soap",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2SoapService",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"rank" : "gk 4/27/2006 14:17" },
+	"instance" : {
+		"addEventsForUser:case:" : "gk 1/9/2008 01:43",
+		"addEventsRemovingUser:case:" : "gk 1/9/2008 01:43",
+		"initialize" : "gk 4/6/2006 11:06",
+		"isSingular" : "gk 5/3/2006 09:10" } }

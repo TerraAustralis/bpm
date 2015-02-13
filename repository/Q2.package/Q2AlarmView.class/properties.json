@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"case",
+		"editors",
+		"newalarms" ],
+	"name" : "Q2AlarmView",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

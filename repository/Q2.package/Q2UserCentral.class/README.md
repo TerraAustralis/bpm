@@ -1,0 +1,1 @@
+This is the domain object representing the personal case central for each user which is shown in Q2UserCentralView, or as it is called in the UI - My View. It does not contain object with identities - or in other words - it is safe to serialize and deserialize.

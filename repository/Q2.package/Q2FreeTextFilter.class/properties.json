@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain-filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"freetext",
+		"errorMessage" ],
+	"name" : "Q2FreeTextFilter",
+	"pools" : [
+		 ],
+	"super" : "Q2Filter",
+	"type" : "normal" }

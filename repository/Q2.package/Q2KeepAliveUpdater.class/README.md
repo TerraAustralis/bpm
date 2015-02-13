@@ -1,0 +1,1 @@
+When I'm active, I render a periodical updater typically in Q2LeftPanel, so your seaside session won't timeout until you close your window. I can be activated with the #useKeepAliveUpdater setting in the globals section in the ini file.

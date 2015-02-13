@@ -1,0 +1,15 @@
+{
+	"category" : "Q2PE-Transactions-Process Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"newStatus",
+		"oldStatus" ],
+	"name" : "Q2GraphStageSetStatusTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessItemTxn",
+	"type" : "normal" }

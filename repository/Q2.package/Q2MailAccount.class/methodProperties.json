@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"blacklistSender:" : "makl 2/12/2008 12:50",
+		"blacklistedSenders" : "makl 2/12/2008 12:50",
+		"blacklistedSenders:" : "makl 2/12/2008 12:50",
+		"from:model:" : "makl 2/13/2008 14:16",
+		"handleRawMailItem:in:" : "miki 10/16/2008 13:21",
+		"initialize" : "makl 2/12/2008 12:50",
+		"messagesDo:" : "makl 2/12/2008 12:53",
+		"password" : "makl 2/12/2008 12:50",
+		"password:" : "makl 2/12/2008 12:50",
+		"rejectsEmail:" : "makl 2/12/2008 12:50",
+		"server" : "makl 2/12/2008 12:50",
+		"server:" : "makl 2/12/2008 12:50",
+		"username" : "makl 2/12/2008 12:50",
+		"username:" : "makl 2/12/2008 12:50" } }

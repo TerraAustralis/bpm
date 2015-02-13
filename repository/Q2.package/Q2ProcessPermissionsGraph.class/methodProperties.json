@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"accepts:" : "makl 5/23/2007 21:51",
+		"tooltip" : "makl 5/23/2007 22:31" },
+	"instance" : {
+		"addAccessLevelsFor:fullName:" : "makl 5/23/2007 22:18",
+		"addPermissions" : "miki 11/6/2008 10:22",
+		"addProcessCategories" : "makl 5/23/2007 22:00",
+		"addUserCategories" : "makl 5/23/2007 22:00",
+		"allowedToSeeAll" : "makl 5/23/2007 22:23",
+		"clean:" : "makl 5/23/2007 21:58",
+		"colorFor:" : "makl 5/23/2007 21:20",
+		"currentProcess:" : "makl 5/23/2007 21:12",
+		"makeGraph" : "kph 7/14/2007 13:02" } }

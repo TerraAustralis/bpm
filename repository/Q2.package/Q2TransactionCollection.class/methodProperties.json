@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"buildReadStrategyBeAcquirable:" : "kph 6/14/2007 15:44" },
+	"instance" : {
+		"add:" : "gk 6/27/2007 02:26",
+		"errorImproperStore" : "kph 6/14/2007 15:14",
+		"firstAgeInSeconds" : "miki 12/10/2008 13:13",
+		"firstCreatedSeconds" : "gk 6/27/2007 02:15",
+		"lastAgeInSeconds" : "miki 12/10/2008 13:13",
+		"lastCreatedSeconds" : "gk 6/27/2007 02:16" } }

@@ -1,0 +1,1 @@
+This criterion declares that we require a form to be present in the case.

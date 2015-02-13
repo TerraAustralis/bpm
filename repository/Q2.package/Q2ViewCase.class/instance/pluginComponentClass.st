@@ -1,0 +1,3 @@
+plugins support
+pluginComponentClass
+	^ Q2ViewCasePluginSpot

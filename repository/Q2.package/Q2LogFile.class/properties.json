@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 11/15/2006 12:37",
+	"instvars" : [
+		"file",
+		"block",
+		"uuid" ],
+	"name" : "Q2LogFile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

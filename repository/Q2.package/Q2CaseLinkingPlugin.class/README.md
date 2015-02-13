@@ -1,0 +1,1 @@
+Plugin for fast case linking in case view

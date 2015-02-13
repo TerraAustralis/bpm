@@ -1,0 +1,1 @@
+This is the service that regularly asks the model to load custom objects from external sources (like ODBC). Each CustomObjectType then decides if it thinks it is time to load. The loaders typically work incrementally only deleting, adding and changing the already loaded custom objects.

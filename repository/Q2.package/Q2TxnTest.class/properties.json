@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model" ],
+	"name" : "Q2TxnTest",
+	"pools" : [
+		 ],
+	"super" : "Q2TaskBasedTestCase",
+	"type" : "normal" }

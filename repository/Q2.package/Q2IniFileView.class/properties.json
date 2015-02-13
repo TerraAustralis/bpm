@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"editor",
+		"count" ],
+	"name" : "Q2IniFileView",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Plugins",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2RandomMovePlugin",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessPlugin",
+	"type" : "normal" }

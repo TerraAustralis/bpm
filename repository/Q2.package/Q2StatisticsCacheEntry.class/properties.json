@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain-Statistics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"kind",
+		"statistic" ],
+	"name" : "Q2StatisticsCacheEntry",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"collectMinutes" : "gk 11/16/2006 10:49",
+		"initialize" : "gk 11/16/2006 10:48",
+		"level:name:sender:message:" : "miki 12/10/2008 12:29",
+		"reInitialize" : "gk 11/14/2006 23:17",
+		"sendBuffer" : "miki 12/10/2008 13:04",
+		"sendMessage:" : "kph 7/17/2007 17:38",
+		"start" : "gk 11/14/2006 19:36",
+		"stop" : "gk 11/14/2006 19:36" },
+	"instance" : {
+		 } }

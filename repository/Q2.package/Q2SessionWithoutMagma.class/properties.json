@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Sessions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GetOnceCache",
+		"Root" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2SessionWithoutMagma",
+	"pools" : [
+		 ],
+	"super" : "Q2Session",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+wrapping
+value
+
+	^wrappedObject value

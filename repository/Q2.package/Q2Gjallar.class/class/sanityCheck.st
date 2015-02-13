@@ -1,0 +1,4 @@
+utilities
+sanityCheck
+
+	self checkExternalProgramPaths.

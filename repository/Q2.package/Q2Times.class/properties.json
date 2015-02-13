@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Times" ],
+	"commentStamp" : "gk 8/7/2006 23:10",
+	"instvars" : [
+		 ],
+	"name" : "Q2Times",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

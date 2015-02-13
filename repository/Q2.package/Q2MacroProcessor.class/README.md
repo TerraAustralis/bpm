@@ -1,0 +1,1 @@
+This is a simple macro processor used to extend the Swiki formatter with ASPish functionality, and also for making advanced boolean expression substitutions in Q2Filter.

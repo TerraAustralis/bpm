@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alarm" ],
+	"name" : "Q2CaseAlarmTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2CaseTxn",
+	"type" : "normal" }

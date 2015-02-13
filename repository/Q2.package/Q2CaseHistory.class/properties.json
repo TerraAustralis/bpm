@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TableForm" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"case",
+		"table" ],
+	"name" : "Q2CaseHistory",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

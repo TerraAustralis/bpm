@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"case" : "gk 3/29/2006 10:55",
+		"children" : "sig 5/15/2007 16:36",
+		"closeEditor:" : "gk 4/10/2006 14:26",
+		"initialize" : "kph 7/6/2007 03:05",
+		"openEditorFor:" : "gk 4/18/2006 13:09",
+		"renderCommitNote:on:" : "gk 10/8/2008 01:40",
+		"renderContentOn:" : "kph 7/10/2007 08:06",
+		"renderEditorFor:on:" : "kph 5/24/2007 14:55",
+		"renderNote:on:" : "gk 10/7/2008 11:00",
+		"renderNote:on:level:" : "jupiter 02/02/2015 16:46",
+		"renderPrintViewOn:" : "kph 7/20/2007 13:19",
+		"view:" : "gk 3/29/2006 10:55" } }

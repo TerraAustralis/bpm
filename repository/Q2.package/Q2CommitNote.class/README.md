@@ -1,0 +1,1 @@
+A note added to a case automatically as a result of a commit-mail coming in from an SCM system like Mercurial.

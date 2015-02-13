@@ -1,0 +1,15 @@
+{
+	"category" : "Q2GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isoLanguage",
+		"isoCountry" ],
+	"name" : "Q2GemStoneLocaleID",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

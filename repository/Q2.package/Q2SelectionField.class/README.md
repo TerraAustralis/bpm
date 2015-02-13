@@ -1,0 +1,1 @@
+A selection is a single or multi selection from a list of values. It can be presented as a drop down list, a number of checkboxes or radio buttons.

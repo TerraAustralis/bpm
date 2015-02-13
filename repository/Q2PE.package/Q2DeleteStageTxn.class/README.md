@@ -1,0 +1,1 @@
+Deletes a stage and all of its incoming transitions, it must not have any outgoing transitions left

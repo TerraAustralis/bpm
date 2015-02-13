@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedWithoutAccess",
+		"selectedWithAccess",
+		"selectedAdministrators" ],
+	"name" : "Q2ProcessAdminUsersView",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessAdminView",
+	"type" : "normal" }

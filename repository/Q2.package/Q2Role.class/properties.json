@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2Role",
+	"pools" : [
+		 ],
+	"super" : "Q2NamedObject",
+	"type" : "normal" }

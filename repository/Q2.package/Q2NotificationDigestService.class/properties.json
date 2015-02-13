@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NotificationQueue" ],
+	"commentStamp" : "gk 8/7/2006 23:59",
+	"instvars" : [
+		 ],
+	"name" : "Q2NotificationDigestService",
+	"pools" : [
+		 ],
+	"super" : "Q2Service",
+	"type" : "normal" }

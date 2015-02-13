@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"object" ],
+	"name" : "Q2PermissionNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

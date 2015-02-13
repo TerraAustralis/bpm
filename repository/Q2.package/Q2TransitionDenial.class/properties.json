@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"transition",
+		"criterion",
+		"msg" ],
+	"name" : "Q2TransitionDenial",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

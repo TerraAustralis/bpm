@@ -1,0 +1,3 @@
+printing
+displayForHistory
+	^'Case created'

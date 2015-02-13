@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Translation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2CurrentTranslator",
+	"pools" : [
+		 ],
+	"super" : "Q2DynamicVariable",
+	"type" : "normal" }

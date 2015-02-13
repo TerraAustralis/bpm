@@ -1,0 +1,14 @@
+{
+	"category" : "Q2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ServerStarted" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2Gjallar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

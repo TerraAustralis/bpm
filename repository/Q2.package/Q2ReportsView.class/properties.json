@@ -1,0 +1,22 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"current",
+		"reportName",
+		"selector",
+		"processes",
+		"filter",
+		"fields",
+		"format",
+		"exportName",
+		"exportFields" ],
+	"name" : "Q2ReportsView",
+	"pools" : [
+		 ],
+	"super" : "Q2CollectionComponent",
+	"type" : "normal" }

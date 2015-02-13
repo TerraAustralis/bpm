@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"description",
+		"wikiPage" ],
+	"name" : "Q2NamedObject",
+	"pools" : [
+		 ],
+	"super" : "Q2CategorizableObject",
+	"type" : "normal" }

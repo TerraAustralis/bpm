@@ -1,0 +1,28 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"password",
+		"processes",
+		"person",
+		"signature",
+		"subscriptions",
+		"userLists",
+		"caseLists",
+		"settings",
+		"filters",
+		"defaultFilterStack",
+		"reportDefinitions",
+		"userCentral",
+		"canLogin",
+		"ldapId",
+		"reporterOnly" ],
+	"name" : "Q2User",
+	"pools" : [
+		 ],
+	"super" : "Q2NamedObject",
+	"type" : "normal" }

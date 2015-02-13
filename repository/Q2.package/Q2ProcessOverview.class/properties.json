@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process",
+		"graph",
+		"graphProcess",
+		"txnMarker",
+		"permissionsGraph" ],
+	"name" : "Q2ProcessOverview",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

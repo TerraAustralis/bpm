@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"case:" : "rpb 6/18/2007 13:35" },
+	"instance" : {
+		"case" : "gk 3/21/2006 11:24",
+		"case:" : "gk 3/21/2006 11:24",
+		"isCaseCreateOrTransitionTxn" : "rpb 6/22/2007 13:02",
+		"isCaseCreateTxn" : "rpb 6/22/2007 16:23",
+		"isSetResponsibleTxn" : "rpb 6/22/2007 16:12",
+		"isTransitionTxn" : "rpb 6/18/2007 10:19",
+		"printOn:" : "rpb 6/19/2007 12:58",
+		"printTailOn:" : "rpb 6/25/2007 15:19",
+		"process" : "rpb 6/22/2007 13:00",
+		"timeStamp" : "rpb 6/22/2007 13:01",
+		"timestamp" : "rpb 6/25/2007 14:41",
+		"timestampCreated" : "rpb 6/22/2007 12:33",
+		"timestampCreated:" : "rpb 6/22/2007 12:32" } }

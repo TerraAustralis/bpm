@@ -1,0 +1,1 @@
+I'm a stack based graph iterator, I can iterate Objects. I'm used to copy an object like veryDeepCopy. I've got announcement hooks, so my behaviour can be changed by other objects, like Q2MirrorCreator. I depend on the announcement framework which can be found here: http://squeaksource.com/AXAnnouncements.html 

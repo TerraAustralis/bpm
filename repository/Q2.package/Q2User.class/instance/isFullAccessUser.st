@@ -1,0 +1,3 @@
+testing
+isFullAccessUser
+	^false

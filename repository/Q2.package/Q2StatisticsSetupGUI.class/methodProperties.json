@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"new:" : "rpb 6/23/2007 17:42" },
+	"instance" : {
+		"children" : "rpb 6/23/2007 17:42",
+		"initialize" : "kph 7/6/2007 03:10",
+		"numUnits" : "rpb 6/25/2007 06:47",
+		"process" : "rpb 6/24/2007 22:21",
+		"processName" : "rpb 6/25/2007 10:41",
+		"processName:" : "sig 8/20/2007 19:34",
+		"processNames" : "rpb 6/25/2007 08:08",
+		"processes:" : "rpb 6/23/2007 17:42",
+		"renderContentOn:" : "jupiter 12/09/2014 15:26",
+		"renderProcessSelection:" : "rpb 6/25/2007 08:06",
+		"renderResolutionSelection:" : "rpb 6/24/2007 22:10",
+		"resolution" : "rpb 6/24/2007 22:21",
+		"resolution:" : "rpb 6/24/2007 22:11",
+		"resolutions" : "rpb 6/23/2007 17:55" } }

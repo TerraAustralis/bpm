@@ -1,0 +1,1 @@
+Q2Component corresponds to a "functional part" of Gjallar that can be selected using the left side navigation panel. It has a label (showed as title and in toc) and a description (showed as tooltip). 

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2PE-Transactions-Process Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kph 6/26/2007 07:13",
+	"instvars" : [
+		"transitions" ],
+	"name" : "Q2DeleteStageTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessItemTxn",
+	"type" : "normal" }

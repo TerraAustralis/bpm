@@ -1,0 +1,3 @@
+testing
+isCaseCreateOrTransitionTxn
+	^false

@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain-mirroring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mirrorDefinition",
+		"lastMasterTxnNumber" ],
+	"name" : "Q2MirrorModel",
+	"pools" : [
+		 ],
+	"super" : "Q2Model",
+	"type" : "normal" }

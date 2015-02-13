@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"case:" : "mhs 6/24/2008 14:53" },
+	"instance" : {
+		"alarmSeconds" : "mhs 6/27/2008 11:24",
+		"case" : "mhs 6/18/2008 16:01",
+		"case:" : "mhs 6/18/2008 16:01",
+		"copyForTxn" : "jupiter 07/17/2014 15:24",
+		"copyValuesTo:" : "mhs 6/23/2008 11:22",
+		"date" : "mhs 6/27/2008 13:21",
+		"date:" : "jupiter 07/26/2014 12:07",
+		"datedescription" : "mhs 6/24/2008 12:03",
+		"disable" : "mhs 6/23/2008 09:56",
+		"enable" : "mhs 6/19/2008 13:05",
+		"enabled" : "mhs 6/19/2008 13:04",
+		"postCopy" : "mhs 6/24/2008 11:50",
+		"reconnectIn:" : "mhs 6/18/2008 15:57",
+		"repeat:" : "mhs 6/24/2008 13:19",
+		"repeatDays" : "jupiter 07/26/2014 11:57",
+		"repeatString" : "mhs 6/24/2008 13:49",
+		"subject" : "mhs 6/18/2008 10:25",
+		"subject:" : "mhs 6/18/2008 10:25" } }

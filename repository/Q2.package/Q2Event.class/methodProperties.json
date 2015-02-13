@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"allEventClasses" : "gk 12/13/2007 00:58" },
+	"instance" : {
+		"asString" : "gk 11/15/2006 09:13",
+		"descriptionOn:" : "makl 5/16/2006 08:57",
+		"getTriggeredFrom:" : "gk 12/17/2007 22:40",
+		"getTriggeredFromProcess" : "gk 12/17/2007 22:21",
+		"getTriggeredSubscriptions" : "makl 8/28/2006 12:31",
+		"isCaseEvent" : "gk 1/29/2008 13:45",
+		"isTriggeredSubscription:" : "makl 5/24/2006 08:40",
+		"linkOn:" : "gk 11/15/2006 09:24",
+		"longDescriptionOn:" : "gk 10/7/2008 23:38",
+		"primaryObject" : "makl 5/16/2006 13:48",
+		"process" : "makl 5/24/2006 08:34",
+		"putNotificationsIn:" : "makl 8/31/2006 12:36",
+		"signal" : "gk 1/9/2008 00:29",
+		"users" : "gk 11/10/2006 12:50" } }

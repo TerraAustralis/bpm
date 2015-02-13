@@ -1,0 +1,1 @@
+I'm a stack based graph iterator. I can iterate objects with cyclic-references. Q2ObjectComparator uses me to compare objects. I sort unordered collections (and MagmaCollection) for easier comparsion.

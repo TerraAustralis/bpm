@@ -1,0 +1,21 @@
+{
+	"category" : "Q2-Domain-filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"filters",
+		"compiledBlock",
+		"values",
+		"lastValues",
+		"filtersChanged",
+		"useQueries",
+		"freetextIds",
+		"freetextFilter" ],
+	"name" : "Q2FilterStack",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

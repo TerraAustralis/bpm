@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 8/7/2006 23:59",
+	"instvars" : [
+		 ],
+	"name" : "Q2PopService",
+	"pools" : [
+		 ],
+	"super" : "Q2Service",
+	"type" : "normal" }

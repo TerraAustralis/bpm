@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI-base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 6/20/2007 11:04",
+	"instvars" : [
+		 ],
+	"name" : "Q2BoxoverTooltip",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+For any #message or #message: sent to my instance i translate them to dict at: and dict at:put:

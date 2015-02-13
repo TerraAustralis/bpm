@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Domain-reports",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selector",
+		"fields",
+		"filter" ],
+	"name" : "Q2ReportDefinition",
+	"pools" : [
+		 ],
+	"super" : "Q2NamedObject",
+	"type" : "normal" }

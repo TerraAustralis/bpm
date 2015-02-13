@@ -1,0 +1,20 @@
+{
+	"category" : "Q2PE-Seaside UI Process Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"processSelectorComponent",
+		"workflowGraphComponent",
+		"workflowEditorComponent",
+		"controller",
+		"process",
+		"editors",
+		"graphs" ],
+	"name" : "Q2PWTop",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

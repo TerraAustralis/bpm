@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"new:" : "rpb 6/24/2007 08:38" },
+	"instance" : {
+		"computeCaseStatsFrom:to:" : "RPB 10/3/2007 15:26",
+		"initialize" : "rpb 6/24/2007 08:30",
+		"initialize:" : "rpb 6/24/2007 08:38",
+		"partitionTxnsFrom:to:" : "RPB 9/26/2007 14:56",
+		"verifyCaseStatsFrom:to:" : "rpb 6/20/2007 20:38",
+		"verifyCaseStatsFrom:to:skip:" : "RPB 10/3/2007 15:23" } }

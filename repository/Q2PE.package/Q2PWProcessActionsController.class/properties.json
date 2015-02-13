@@ -1,0 +1,17 @@
+{
+	"category" : "Q2PE-Seaside UI Process Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"history",
+		"message",
+		"isComplete",
+		"ui" ],
+	"name" : "Q2PWProcessActionsController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"formsModel" ],
+	"name" : "Q2FormsView",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

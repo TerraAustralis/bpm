@@ -1,0 +1,25 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RPB 9/24/2007 14:57",
+	"instvars" : [
+		"setResponsibleTxn",
+		"wasCreated",
+		"wasOpened",
+		"wasClosed",
+		"wasReopened",
+		"isOpen",
+		"timeToOpen",
+		"periodOpen",
+		"timeToClose",
+		"timeToSetResponsible",
+		"timeToResolve",
+		"timeToValidateResolution" ],
+	"name" : "Q2CaseStatisticsCalculator",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

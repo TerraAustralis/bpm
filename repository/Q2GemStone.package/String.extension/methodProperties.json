@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"evaluateExpression:parameters:" : "sig 01/14/2009 05:05",
+		"format:" : "sig 01/14/2009 05:04",
+		"getEnclosedExpressionFrom:" : "sig 01/14/2009 05:05",
+		"isoToUtf8" : "sig 01/17/2009 00:52",
+		"truncateWithElipsisTo:" : "sig 01/15/2009 05:52",
+		"utf8ToIso" : "sig 01/13/2009 02:31" } }

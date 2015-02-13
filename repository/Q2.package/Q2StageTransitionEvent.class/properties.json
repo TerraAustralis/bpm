@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-events",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"newStage" ],
+	"name" : "Q2StageTransitionEvent",
+	"pools" : [
+		 ],
+	"super" : "Q2CaseEvent",
+	"type" : "normal" }

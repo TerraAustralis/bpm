@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkAndRenderIntroductionOn:" : "gk 5/2/2007 09:42",
+		"children" : "kph 6/12/2007 03:32",
+		"description" : "gk 1/17/2006 23:16",
+		"description:" : "gk 1/17/2006 23:16",
+		"initialize" : "sig 5/15/2007 20:30",
+		"initializePluginComponents" : "ul 6/24/2007 14:45",
+		"isLoggedIn" : "gk 1/11/2006 15:01",
+		"label" : "gk 1/18/2006 11:25",
+		"label:" : "gk 1/18/2006 11:25",
+		"pluginComponentClass" : "sig 5/15/2007 15:37",
+		"renderContentOn:" : "gk 10/10/2007 14:59",
+		"renderIntroductionOn:" : "gk 5/2/2007 09:29",
+		"renderNavigationOn:action:label:description:selected:" : "kph 5/24/2007 14:53",
+		"renderNavigationOn:action:selected:" : "gk 1/18/2006 13:51",
+		"renderPluginsOn:" : "sig 5/29/2007 21:50",
+		"validationMessagesFor:" : "makl 6/14/2006 11:34" } }

@@ -1,0 +1,1 @@
+My instances are components for encapsulation of plugins showed at case view.

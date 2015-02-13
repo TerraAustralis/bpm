@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Stats Mock Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RPB 9/26/2007 13:25",
+	"instvars" : [
+		 ],
+	"name" : "Q2MockCreateCaseTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2MockCaseTxn",
+	"type" : "normal" }

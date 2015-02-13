@@ -1,0 +1,1 @@
+Links between cases can be of different types.

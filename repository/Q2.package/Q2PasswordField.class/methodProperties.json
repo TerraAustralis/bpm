@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"availForEditing" : "sig 6/26/2007 12:26",
+		"fieldTypeName" : "sig 6/25/2007 15:20" },
+	"instance" : {
+		"cacheConfirmation:component:" : "gk 4/27/2006 09:17",
+		"cacheConfirmationComponent:" : "gk 4/25/2006 13:00",
+		"cacheValueFrom:component:" : "gk 4/25/2006 13:02",
+		"multiline:" : "gk 4/26/2006 15:39",
+		"renderEditControlOn:component:" : "jupiter 07/26/2014 11:49",
+		"renderViewControlOn:component:" : "gk 4/27/2006 15:15",
+		"validateCacheComponent:" : "gk 4/28/2006 00:01" } }

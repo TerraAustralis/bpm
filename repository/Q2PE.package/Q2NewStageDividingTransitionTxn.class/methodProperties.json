@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"apply" : "kph 6/26/2007 21:16",
+		"newStageName" : "kph 6/26/2007 22:04",
+		"newTransitionName" : "kph 6/26/2007 22:04",
+		"transition" : "kph 6/26/2007 20:42",
+		"transition:" : "kph 6/26/2007 20:42",
+		"undo" : "kph 6/26/2007 21:19",
+		"validate" : "kph 6/26/2007 20:48",
+		"validateUndo" : "kph 6/26/2007 20:48" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kph 6/14/2007 21:19",
+	"instvars" : [
+		"firstCreatedSeconds",
+		"lastCreatedSeconds" ],
+	"name" : "Q2TransactionCollection",
+	"pools" : [
+		 ],
+	"super" : "OrderedCollection",
+	"type" : "variable" }

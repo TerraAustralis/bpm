@@ -1,0 +1,3 @@
+rendering
+messageIconFileName
+	^nil

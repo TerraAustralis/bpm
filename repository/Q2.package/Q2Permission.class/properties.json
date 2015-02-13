@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"defaultLevel",
+		"categoriesForClass",
+		"accessLevels" ],
+	"name" : "Q2Permission",
+	"pools" : [
+		 ],
+	"super" : "Q2NamedObject",
+	"type" : "normal" }

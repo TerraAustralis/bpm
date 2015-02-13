@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Stats Mock Utilities",
+	"classinstvars" : [
+		"processes",
+		"rng",
+		"dailyStatsHolders",
+		"weeklyStatsHolders",
+		"monthlyStatsHolders" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2MockStatsSession",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

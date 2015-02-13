@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside-addons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key" ],
+	"name" : "Q2Canvas",
+	"pools" : [
+		 ],
+	"super" : "WAHtmlCanvas",
+	"type" : "normal" }

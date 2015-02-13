@@ -1,0 +1,1 @@
+My subclasses can define different ways how field can read and store its value

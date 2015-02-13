@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"named:on:" : "jf 2/9/2004 18:08",
+		"on:label:" : "jf 2/9/2004 18:08" },
+	"instance" : {
+		"addAll:" : "jf 2/9/2004 18:54",
+		"associations" : "jf 2/9/2004 18:40",
+		"associationsDo:" : "jf 2/9/2004 18:23",
+		"at:" : "jf 2/9/2004 18:25",
+		"at:ifAbsent:" : "jf 2/9/2004 18:25",
+		"at:put:" : "jf 2/9/2004 18:08",
+		"iniFile" : "jf 2/9/2004 17:52",
+		"initializeWithINIFile:label:" : "jf 2/9/2004 18:03",
+		"isEmpty" : "jf 2/9/2004 19:42",
+		"label" : "jf 2/9/2004 18:02",
+		"writeOn:" : "gk 6/27/2006 12:33" } }

@@ -1,0 +1,3 @@
+private
+owner
+	^self process

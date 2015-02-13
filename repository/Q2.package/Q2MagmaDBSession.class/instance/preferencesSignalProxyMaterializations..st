@@ -1,0 +1,4 @@
+magma
+preferencesSignalProxyMaterializations: trueOrFalse
+
+	^self magmaSession preferences signalProxyMaterializations: trueOrFalse

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RPB 10/3/2007 15:38",
+	"instvars" : [
+		"statisticsHolder" ],
+	"name" : "Q2ProcessStatisticsCalculator",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

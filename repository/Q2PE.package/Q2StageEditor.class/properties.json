@@ -1,0 +1,14 @@
+{
+	"category" : "Q2PE-Seaside UI Process Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"criteria" ],
+	"name" : "Q2StageEditor",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

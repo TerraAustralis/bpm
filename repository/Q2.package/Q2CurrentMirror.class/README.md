@@ -1,0 +1,1 @@
+I'm a notification. When i'm signaled, i can return with the actual Q2Mirror object.

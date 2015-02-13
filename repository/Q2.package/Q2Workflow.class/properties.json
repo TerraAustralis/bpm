@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"StatusColors" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process",
+		"stages",
+		"scratchStage" ],
+	"name" : "Q2Workflow",
+	"pools" : [
+		 ],
+	"super" : "Q2NamedObject",
+	"type" : "normal" }

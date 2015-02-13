@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"printMode" ],
+	"name" : "Q2FormViewer",
+	"pools" : [
+		 ],
+	"super" : "Q2FormComponent",
+	"type" : "normal" }

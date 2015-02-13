@@ -1,0 +1,14 @@
+{
+	"category" : "Q2GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "miki 12/11/2008 13:45",
+	"instvars" : [
+		"posixSeconds" ],
+	"name" : "Q2GemStoneTimeStamp",
+	"pools" : [
+		 ],
+	"super" : "Q2TimeStamp",
+	"type" : "normal" }

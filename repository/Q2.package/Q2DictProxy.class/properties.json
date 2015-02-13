@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-settings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"dict" ],
+	"name" : "Q2DictProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

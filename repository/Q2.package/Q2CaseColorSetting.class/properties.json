@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-settings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"codes" ],
+	"name" : "Q2CaseColorSetting",
+	"pools" : [
+		 ],
+	"super" : "Q2ModelSetting",
+	"type" : "normal" }

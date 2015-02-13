@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Seaside UI-base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectionWillChangeBlock",
+		"selectionChangedBlock",
+		"parent",
+		"contentId",
+		"formId" ],
+	"name" : "Q2TabBook",
+	"pools" : [
+		 ],
+	"super" : "WASimpleNavigation",
+	"type" : "normal" }

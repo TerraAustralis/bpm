@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI-errorhandling",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2ErrorHandler",
+	"pools" : [
+		 ],
+	"super" : "WAWalkbackErrorHandler",
+	"type" : "normal" }

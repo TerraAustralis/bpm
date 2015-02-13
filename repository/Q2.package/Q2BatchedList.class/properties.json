@@ -1,0 +1,22 @@
+{
+	"category" : "Q2-Seaside-addons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Cases" ],
+	"commentStamp" : "gk 9/27/2006 10:51",
+	"instvars" : [
+		"position",
+		"maxPages",
+		"pages",
+		"reader",
+		"filterBlock",
+		"items",
+		"batchSize",
+		"currentPage",
+		"readerSize" ],
+	"name" : "Q2BatchedList",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

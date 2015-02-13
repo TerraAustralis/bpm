@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addIndex:" : "miki 11/14/2008 10:25",
+		"initialize" : "miki 11/14/2008 10:25",
+		"pop" : "miki 11/14/2008 10:25",
+		"push:" : "miki 11/14/2008 10:25",
+		"read:" : "miki 11/14/2008 10:25",
+		"read:at:" : "miki 11/14/2008 10:25",
+		"read:from:to:" : "miki 11/14/2008 10:25",
+		"readUnique:at:" : "sig 01/05/2009 16:44",
+		"speciesForSelect" : "sig 01/07/2009 09:56",
+		"subset:read:" : "miki 11/14/2008 10:25",
+		"visitSelector" : "miki 11/14/2008 10:27",
+		"where:" : "miki 11/14/2008 10:25",
+		"where:orSelect:" : "miki 11/14/2008 10:25" } }

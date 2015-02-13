@@ -1,0 +1,3 @@
+testing
+isCaseComponent
+	^true

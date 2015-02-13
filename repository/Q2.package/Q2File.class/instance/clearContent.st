@@ -1,0 +1,3 @@
+accessing
+clearContent
+	content := nil

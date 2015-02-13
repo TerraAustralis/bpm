@@ -1,0 +1,3 @@
+rendering
+pageStop
+	^currentPage * batchSize

@@ -1,0 +1,3 @@
+pseudo accessing
+aveTimeToSetResponsible
+	^totalTimeToSetResponsible / numResponsibleSetCases

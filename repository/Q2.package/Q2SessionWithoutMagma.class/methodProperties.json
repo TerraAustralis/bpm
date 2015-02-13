@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"cleanUp" : "kph 6/25/2007 23:45",
+		"createDatabase" : "kph 6/24/2007 03:30",
+		"deleteDatabase" : "kph 6/25/2007 23:36",
+		"isLocal" : "gk 11/18/2008 15:34",
+		"isRepository" : "kph 6/24/2007 03:26",
+		"location" : "kph 6/24/2007 03:26",
+		"releaseSession:" : "kph 6/24/2007 03:25",
+		"setUp" : "miki 11/18/2008 15:29" },
+	"instance" : {
+		"info" : "kph 6/24/2007 03:23",
+		"location" : "kph 6/24/2007 15:31",
+		"magmaSession" : "kph 6/24/2007 03:15",
+		"newDBCollection" : "miki 11/11/2008 11:22",
+		"obtainMagmaSession" : "kph 6/24/2007 02:52",
+		"performRequest:" : "miki 11/18/2008 15:27",
+		"pool" : "miki 12/4/2008 12:25" } }

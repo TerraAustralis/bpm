@@ -1,0 +1,4 @@
+private
+endOfLine
+
+	^String crlf

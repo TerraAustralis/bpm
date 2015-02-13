@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptIterator:" : "kb 5/31/2007 01:22",
+		"basicMirrorCopy" : "ul 6/22/2007 18:40",
+		"equals:" : "gk 8/10/2006 14:39",
+		"install:atIvar:" : "kb 6/25/2007 14:16",
+		"isCustomObjectType" : "gk 11/8/2006 23:23",
+		"isImported" : "makl 5/5/2006 09:00",
+		"isUniqueObject" : "gk 8/24/2006 22:29",
+		"renderDefault:on:" : "gk 12/18/2007 22:12",
+		"renderObjectIn:on:" : "gk 6/27/2006 02:01",
+		"searchString" : "gk 11/6/2006 19:24",
+		"visitSelector" : "kb 5/31/2007 01:20" } }

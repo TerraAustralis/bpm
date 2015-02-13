@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"on:" : "kb 5/15/2007 16:18" },
+	"instance" : {
+		"actualObject" : "kb 5/12/2007 18:02",
+		"atEnd" : "ul 5/12/2007 01:24",
+		"initializeComparableClasses" : "ul 8/9/2007 12:21",
+		"initializeOn:" : "ul 8/9/2007 12:21",
+		"isActualComparable" : "ul 5/12/2007 01:47",
+		"isComparable:" : "ul 8/9/2007 12:20",
+		"next" : "ul 5/12/2007 00:43",
+		"stack" : "ul 5/12/2007 01:27",
+		"visit:" : "kb 5/17/2007 14:10",
+		"visitCollection:" : "kb 5/12/2007 18:15",
+		"visitIvarsOf:" : "kb 5/12/2007 18:37",
+		"visitIvarsOf:named:" : "kb 5/27/2007 19:19",
+		"visitMagmaCollection:" : "kb 5/27/2007 19:22",
+		"visitModel:" : "kb 5/27/2007 19:20",
+		"visitSequenceableCollection:" : "kb 5/15/2007 16:44",
+		"visitedObjects" : "kb 5/15/2007 15:05" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"frequency" ],
+	"name" : "Q2KeepAliveUpdater",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

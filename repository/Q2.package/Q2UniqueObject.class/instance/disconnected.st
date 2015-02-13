@@ -1,0 +1,3 @@
+synch
+disconnected
+	^id copy

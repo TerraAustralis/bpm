@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2MacroProcessorTests",
+	"pools" : [
+		 ],
+	"super" : "Q2TestCase",
+	"type" : "normal" }

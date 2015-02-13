@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Transactions-Serialization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"byteArray",
+		"decompress" ],
+	"name" : "Q2TxnDeserializer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+session without seaside
+gjallarEntryPoints
+
+	^ Q2SessionWithoutSeaside gjallarEntryPoints

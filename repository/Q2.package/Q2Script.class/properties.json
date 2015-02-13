@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"compiledBlock",
+		"source",
+		"header" ],
+	"name" : "Q2Script",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

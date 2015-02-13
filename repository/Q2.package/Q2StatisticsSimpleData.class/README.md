@@ -1,0 +1,1 @@
+I am a simplest way how stats can be stored: a date and associated value

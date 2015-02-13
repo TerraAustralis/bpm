@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2DuplicateOfLink",
+	"pools" : [
+		 ],
+	"super" : "Q2LinkType",
+	"type" : "normal" }

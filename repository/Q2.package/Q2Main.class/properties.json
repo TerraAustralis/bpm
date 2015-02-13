@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		"securityCode" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 8/8/2006 09:48",
+	"instvars" : [
+		"content",
+		"left" ],
+	"name" : "Q2Main",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

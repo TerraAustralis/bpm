@@ -1,0 +1,14 @@
+{
+	"category" : "Q2GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2GemStoneLanguageTranslator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

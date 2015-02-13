@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"linkType" ],
+	"name" : "Q2WorkflowLinkedCasesClosedCriterion",
+	"pools" : [
+		 ],
+	"super" : "Q2WorkflowCriterion",
+	"type" : "normal" }

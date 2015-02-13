@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"fieldTypeName" : "sig 6/25/2007 15:19" },
+	"instance" : {
+		"cacheForField:component:" : "gk 6/26/2007 13:20",
+		"cacheValueFrom:component:" : "gk 6/26/2007 12:12",
+		"emptyForDefault" : "gk 6/26/2007 12:05",
+		"emptyForDefault:" : "gk 6/26/2007 12:05",
+		"fieldForCache:component:" : "gk 6/26/2007 11:56",
+		"initialize" : "gk 6/26/2007 13:22" } }

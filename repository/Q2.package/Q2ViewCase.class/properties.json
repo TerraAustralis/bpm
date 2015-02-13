@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2ViewCase",
+	"pools" : [
+		 ],
+	"super" : "Q2CaseComponent",
+	"type" : "normal" }

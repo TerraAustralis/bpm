@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"from",
+		"to",
+		"type" ],
+	"name" : "Q2Link",
+	"pools" : [
+		 ],
+	"super" : "Q2CategorizableObject",
+	"type" : "normal" }

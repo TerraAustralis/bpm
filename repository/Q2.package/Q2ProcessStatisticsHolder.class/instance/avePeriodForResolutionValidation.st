@@ -1,0 +1,3 @@
+pseudo accessing
+avePeriodForResolutionValidation
+	^totalPeriodForResolutionValidation / numResolvedCases

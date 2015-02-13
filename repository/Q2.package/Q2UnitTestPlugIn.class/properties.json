@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Plugins",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2UnitTestPlugIn",
+	"pools" : [
+		 ],
+	"super" : "Q2Plugin",
+	"type" : "normal" }

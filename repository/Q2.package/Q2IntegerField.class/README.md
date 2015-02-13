@@ -1,0 +1,1 @@
+An integer field is like a text field but will convert to an Integer. It can be configured to allow '' as input for the default value and it can treat the value nil as being representative as the default value.

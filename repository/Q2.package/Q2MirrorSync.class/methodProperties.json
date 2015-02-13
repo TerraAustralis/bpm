@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"createLocalSnapshot" : "ul 8/17/2007 16:12",
+		"localSnapshotDirectory" : "kph 7/17/2007 17:18",
+		"restoreLocalSnapshot" : "miki 12/4/2008 12:34" },
+	"instance" : {
+		"initialize" : "kph 7/6/2007 03:03",
+		"renderContentOn:" : "kph 7/10/2007 08:06",
+		"synch" : "ul 6/27/2007 02:08",
+		"update" : "ul 6/27/2007 02:08" } }

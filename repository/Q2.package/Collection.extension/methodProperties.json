@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptIterator:" : "kb 5/31/2007 01:21",
+		"and:do:" : "kph 6/11/2007 15:35",
+		"basicMirrorCopy" : "ul 6/22/2007 18:40",
+		"disconnect" : "gk 4/24/2007 10:16",
+		"disconnected" : "gk 4/24/2007 10:16",
+		"findNamed:" : "gk 3/16/2006 11:20",
+		"reconnectIn:" : "gk 4/24/2007 10:18",
+		"visitSelector" : "kb 5/31/2007 01:20" } }

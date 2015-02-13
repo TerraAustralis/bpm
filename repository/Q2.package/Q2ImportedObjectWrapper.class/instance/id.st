@@ -1,0 +1,3 @@
+wrapping
+id
+	^wrappedObject id

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addComponentsIn:" : "gk 6/14/2006 13:31",
+		"collectValuesFor:" : "gk 6/20/2006 13:13",
+		"compileOn:stack:" : "gk 6/20/2006 13:06",
+		"disconnect" : "gk 4/17/2007 13:00",
+		"expression" : "gk 3/7/2006 13:31",
+		"expression:" : "gk 2/28/2006 13:13",
+		"filterProcesses:" : "gk 6/12/2006 13:13",
+		"initialize" : "gk 6/12/2006 09:08",
+		"newProcessPredicate" : "gk 6/15/2006 10:44",
+		"newResponsiblePredicate" : "gk 3/13/2007 23:39",
+		"newSelectorPredicate" : "gk 6/14/2006 13:54",
+		"newStagePredicate" : "gk 6/19/2006 13:52",
+		"newStatusPredicate" : "gk 10/6/2006 10:43",
+		"predicates" : "gk 2/27/2006 13:45",
+		"predicates:" : "gk 6/8/2006 15:19",
+		"predicatesRanked" : "gk 3/7/2006 09:12",
+		"processExpression:" : "gk 6/20/2006 13:11",
+		"reconnectIn:" : "gk 4/17/2007 13:00" } }

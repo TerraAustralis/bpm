@@ -1,0 +1,4 @@
+building
+childComponentClass
+
+	^Q2FieldListItemComponent

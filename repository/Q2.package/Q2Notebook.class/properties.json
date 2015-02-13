@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"notes" ],
+	"name" : "Q2Notebook",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

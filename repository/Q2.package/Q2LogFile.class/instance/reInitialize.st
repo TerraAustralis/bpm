@@ -1,0 +1,3 @@
+logProtocol
+reInitialize
+	"Do nothing"

@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Domain-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"multiline",
+		"maxLength",
+		"rows",
+		"cols" ],
+	"name" : "Q2TextField",
+	"pools" : [
+		 ],
+	"super" : "Q2Field",
+	"type" : "normal" }

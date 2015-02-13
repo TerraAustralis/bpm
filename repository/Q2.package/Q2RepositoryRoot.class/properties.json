@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Sessions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model",
+		"environment" ],
+	"name" : "Q2RepositoryRoot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subject",
+		"date",
+		"case",
+		"enabled",
+		"repeat" ],
+	"name" : "Q2Alarm",
+	"pools" : [
+		 ],
+	"super" : "Q2CategorizableObject",
+	"type" : "normal" }

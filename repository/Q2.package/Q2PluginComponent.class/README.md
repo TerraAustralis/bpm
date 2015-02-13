@@ -1,0 +1,1 @@
+A component, which encapsulates plugins. Plugin can use values inst var for holding temporary values for UI.

@@ -1,0 +1,3 @@
+methods
+defaultAction
+	^Q2Platform current languageTranslator current

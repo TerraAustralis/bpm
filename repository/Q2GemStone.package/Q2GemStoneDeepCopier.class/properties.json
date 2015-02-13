@@ -1,0 +1,14 @@
+{
+	"category" : "Q2GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"references" ],
+	"name" : "Q2GemStoneDeepCopier",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

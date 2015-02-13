@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 1/18/2006 09:46",
+	"instvars" : [
+		"formValues" ],
+	"name" : "Q2MultiFormValue",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

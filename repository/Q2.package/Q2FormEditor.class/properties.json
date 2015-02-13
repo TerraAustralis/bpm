@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Seaside UI-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subForm",
+		"buttons" ],
+	"name" : "Q2FormEditor",
+	"pools" : [
+		 ],
+	"super" : "Q2FormComponent",
+	"type" : "normal" }

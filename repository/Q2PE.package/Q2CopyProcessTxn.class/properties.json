@@ -1,0 +1,14 @@
+{
+	"category" : "Q2PE-Transactions-Process Editing",
+	"classinstvars" : [
+		"oldProcess" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"oldProcess" ],
+	"name" : "Q2CopyProcessTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2CreateProcessTxn",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 6/24/2007 21:19",
+	"instvars" : [
+		"filterViews",
+		"stack" ],
+	"name" : "Q2FilterStackView",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

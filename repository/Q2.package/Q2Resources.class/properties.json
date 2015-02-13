@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Libraries",
+	"classinstvars" : [
+		"deployedDir" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2Resources",
+	"pools" : [
+		 ],
+	"super" : "Q2FileBasedResources",
+	"type" : "normal" }

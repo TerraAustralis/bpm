@@ -1,0 +1,4 @@
+methods
+isActiveDirectoryClass
+
+	^false

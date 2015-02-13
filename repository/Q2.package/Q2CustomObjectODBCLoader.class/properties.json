@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dsn",
+		"user",
+		"password",
+		"query" ],
+	"name" : "Q2CustomObjectODBCLoader",
+	"pools" : [
+		 ],
+	"super" : "Q2CustomObjectLoader",
+	"type" : "normal" }

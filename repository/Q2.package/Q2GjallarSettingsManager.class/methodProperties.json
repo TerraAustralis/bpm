@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"clear" : "gk 8/7/2007 12:44",
+		"file:" : "kph 7/13/2007 08:11",
+		"instances" : "kph 7/12/2007 05:49",
+		"new" : "kph 7/12/2007 05:51",
+		"newOnFileNamed:" : "kph 7/12/2007 05:50" },
+	"instance" : {
+		"at:" : "kph 7/12/2007 05:34",
+		"at:section:" : "kph 7/12/2007 05:35",
+		"at:section:ifAbsent:" : "kph 7/12/2007 05:36",
+		"atAnySection:" : "kph 7/12/2007 05:37",
+		"atAnySection:ifAbsent:" : "kph 7/12/2007 05:37",
+		"doesNotUnderstand:" : "kph 7/12/2007 08:08",
+		"expireTime" : "kph 7/12/2007 06:56",
+		"iniFile" : "kph 7/15/2007 16:12",
+		"inifileSeconds" : "kph 7/14/2007 09:20",
+		"initializeMissingDefaultSettings" : "jupiter 09/16/2014 17:52",
+		"initializeWithIniFileNamed:" : "kph 7/12/2007 05:31",
+		"loadOrCreateIniFileNamed:" : "sig 01/23/2009 09:26",
+		"setExpireTime" : "kph 7/13/2007 08:10" } }

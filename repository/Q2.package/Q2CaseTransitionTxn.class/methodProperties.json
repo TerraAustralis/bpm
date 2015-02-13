@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"case:transition:" : "gk 3/1/2006 11:31" },
+	"instance" : {
+		"apply" : "gk 4/13/2006 09:28",
+		"case:transition:" : "gk 2/13/2006 13:45",
+		"disconnect" : "gk 3/21/2006 11:25",
+		"displayForHistory" : "makl 6/2/2006 10:32",
+		"isCaseCreateOrTransitionTxn" : "rpb 6/22/2007 22:08",
+		"isClosed" : "rpb 6/22/2007 22:09",
+		"isOpen" : "rpb 6/22/2007 22:10",
+		"isStatsNew" : "rpb 6/22/2007 22:18",
+		"isTransitionTxn" : "rpb 6/22/2007 22:10",
+		"isUsefulForCaseStatistics" : "rpb 6/22/2007 22:11",
+		"postMasterOutsideTransaction" : "gk 1/9/2008 00:41",
+		"reconnectIn:" : "gk 3/21/2006 11:26",
+		"validate" : "makl 5/2/2006 10:18" } }

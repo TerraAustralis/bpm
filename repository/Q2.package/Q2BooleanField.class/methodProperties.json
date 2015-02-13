@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"availForEditing" : "sig 6/25/2007 15:06",
+		"fieldTypeName" : "sig 6/25/2007 15:19" },
+	"instance" : {
+		"fillForm:" : "sig 6/25/2007 15:45",
+		"initialize" : "makl 3/7/2006 10:15",
+		"renderEditControlOn:component:" : "makl 5/5/2006 14:43",
+		"renderViewControlOn:component:" : "makl 5/5/2006 14:44" } }

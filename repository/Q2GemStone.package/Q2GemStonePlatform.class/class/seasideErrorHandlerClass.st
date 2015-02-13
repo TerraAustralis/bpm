@@ -1,0 +1,3 @@
+error handling
+seasideErrorHandlerClass
+	^ Q2GemStoneErrorHandler

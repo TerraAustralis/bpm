@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process" ],
+	"name" : "Q2ProcessPluginTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2PluginTxn",
+	"type" : "normal" }

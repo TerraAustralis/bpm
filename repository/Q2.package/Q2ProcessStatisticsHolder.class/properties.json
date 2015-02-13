@@ -1,0 +1,28 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RPB 10/3/2007 15:39",
+	"instvars" : [
+		"startTime",
+		"endTime",
+		"numCreatedCases",
+		"numOpenCases",
+		"numOpenedCases",
+		"numClosedCases",
+		"numReopenedCases",
+		"numResolvedCases",
+		"numResponsibleSetCases",
+		"totalTimeToOpen",
+		"totalTimeToSetResponsible",
+		"totalTimeToClose",
+		"totalPeriodOpen",
+		"totalTimeToResolution",
+		"totalPeriodForResolutionValidation" ],
+	"name" : "Q2ProcessStatisticsHolder",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

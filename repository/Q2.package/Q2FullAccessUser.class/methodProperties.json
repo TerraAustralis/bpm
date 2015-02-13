@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"adminEditForm" : "gk 1/8/2008 23:57",
+		"editForm" : "makl 9/5/2006 10:48" },
+	"instance" : {
+		"canAccess:" : "gk 8/9/2006 11:30",
+		"canRead:" : "gk 8/9/2006 11:30",
+		"canWrite:" : "gk 8/9/2006 11:30",
+		"isFullAccessUser" : "gk 4/2/2007 15:24",
+		"isPersonalUser" : "gk 5/2/2007 09:58",
+		"isRealUser" : "gk 8/29/2006 12:44",
+		"processes" : "gk 8/9/2006 11:30" } }

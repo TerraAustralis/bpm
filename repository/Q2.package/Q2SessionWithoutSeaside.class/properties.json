@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Sessions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ReadStrategyClass" ],
+	"commentStamp" : "kph 6/12/2007 19:48",
+	"instvars" : [
+		 ],
+	"name" : "Q2SessionWithoutSeaside",
+	"pools" : [
+		 ],
+	"super" : "Q2Session",
+	"type" : "normal" }

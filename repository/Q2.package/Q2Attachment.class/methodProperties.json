@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"content:case:" : "gk 3/24/2006 09:55" },
+	"instance" : {
+		"addedToCase:" : "ul 7/28/2007 16:36",
+		"calculateLocalFileName" : "miki 12/3/2008 15:14",
+		"case" : "makl 3/7/2006 14:29",
+		"content:case:" : "gk 3/24/2006 09:39",
+		"deleteOnDisk" : "gk 3/24/2006 10:33",
+		"directory" : "gk 3/24/2006 10:00",
+		"disconnect" : "gk 8/24/2006 22:24",
+		"downloadInSession:" : "gk 3/22/2006 13:42",
+		"entry" : "gk 3/24/2006 12:49",
+		"localFileName" : "makl 3/7/2006 14:29",
+		"localFileName:" : "makl 3/7/2006 14:29",
+		"moveOnDisk" : "gk 4/27/2006 09:15",
+		"originalFileName" : "makl 3/6/2006 20:52",
+		"originalFileName:" : "makl 3/6/2006 20:52",
+		"readStream" : "sig 01/23/2009 08:49",
+		"reconnectIn:" : "gk 8/24/2006 22:06",
+		"release" : "gk 3/24/2006 13:01",
+		"releaseExternal" : "gk 3/29/2006 18:22",
+		"save:" : "sig 01/15/2009 06:34",
+		"size" : "gk 3/24/2006 12:50",
+		"sizeString" : "gk 3/24/2006 13:22" } }

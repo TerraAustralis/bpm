@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"target" ],
+	"name" : "Q2WorkflowMandatoryCriterion",
+	"pools" : [
+		 ],
+	"super" : "Q2WorkflowCriterion",
+	"type" : "normal" }

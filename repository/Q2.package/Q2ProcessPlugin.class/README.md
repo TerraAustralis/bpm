@@ -1,0 +1,1 @@
+My subclasses are plugins which are registered on a per Process basis.

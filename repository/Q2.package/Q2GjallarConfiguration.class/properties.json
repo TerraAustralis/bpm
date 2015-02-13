@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Settings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kph 7/12/2007 05:16",
+	"instvars" : [
+		 ],
+	"name" : "Q2GjallarConfiguration",
+	"pools" : [
+		 ],
+	"super" : "WASystemConfiguration",
+	"type" : "normal" }

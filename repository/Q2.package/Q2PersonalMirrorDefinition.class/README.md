@@ -1,0 +1,1 @@
+I'm a mirrordefinition. I allow to copy all objects, which can be read by my owner.

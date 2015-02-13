@@ -1,0 +1,1 @@
+I am a source for a Q2Report. The Q2ReportDefinition asks me for all objects to use in the report. All subclasses should override the class-side methods to implement the specific kind of objects they will return,

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activateSelectedUser" : "gk 5/3/2007 11:44",
+		"cancel" : "gk 5/3/2007 10:47",
+		"children" : "sig 5/15/2007 16:27",
+		"deactivateSelectedUser" : "gk 5/3/2007 11:45",
+		"initialize" : "gk 5/3/2007 15:07",
+		"loadEditor" : "gk 1/9/2008 00:08",
+		"renderContentOn:" : "jupiter 09/05/2014 12:25",
+		"renderIntroductionOn:" : "gk 5/2/2007 10:36",
+		"save" : "gk 5/3/2007 11:42",
+		"saveAsNewUser" : "gk 5/3/2007 11:26",
+		"selectedUser:" : "gk 5/2/2007 11:16",
+		"userList" : "gk 5/3/2007 15:10" } }

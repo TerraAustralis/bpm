@@ -1,0 +1,1 @@
+This is a view for a table of filtered cases. The domain model is a Q2CasePanel. This component is typically embedded inside some other component, like the Q2UserCentralView which has multiple case panel views with a single free text search field for all.

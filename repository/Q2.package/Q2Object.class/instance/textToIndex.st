@@ -1,0 +1,3 @@
+indexing
+textToIndex
+	self subclassResponsibility

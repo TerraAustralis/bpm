@@ -1,0 +1,1 @@
+I represent an object with a path of references. The path is for debugging purposes only. I'm used by Q2ComparatorIterator.

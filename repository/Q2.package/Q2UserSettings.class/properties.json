@@ -1,0 +1,28 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"maxCasesInTable",
+		"maxRecentCases",
+		"showToolTips",
+		"showIntroTexts",
+		"showIntegratedHelp",
+		"showNotesThreaded",
+		"showEditMode",
+		"showNewNotesFirst",
+		"showNotesOptions",
+		"showLinkedWeavingOption",
+		"formatDateAndTime",
+		"timeZone",
+		"digestSubscriptions",
+		"digestTime",
+		"digestNextSend" ],
+	"name" : "Q2UserSettings",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

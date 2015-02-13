@@ -1,0 +1,1 @@
+A custom object instance is typically a value (from a list) or a tuple of values (from a list of tuples) from either a statically specified value domain or from an external value domain (ODBC).

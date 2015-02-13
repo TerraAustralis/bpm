@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"clearPath" : "sig 01/13/2009 03:17",
+		"initialize" : "sig 01/13/2009 03:17" },
+	"instance" : {
+		"commandLineForFormat:" : "miki 11/5/2008 16:24",
+		"createMorph" : "miki 11/5/2008 10:55",
+		"findDotCommand" : "sig 01/13/2009 03:17",
+		"make:" : "miki 11/5/2008 10:58",
+		"outputCommandLineFileNameFor:" : "miki 11/5/2008 16:16",
+		"outputPath" : "miki 11/5/2008 14:04",
+		"programPath" : "sig 01/13/2009 03:11",
+		"runOSProcess:with:" : "miki 11/5/2008 16:13" } }

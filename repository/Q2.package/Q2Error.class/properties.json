@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2Error",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

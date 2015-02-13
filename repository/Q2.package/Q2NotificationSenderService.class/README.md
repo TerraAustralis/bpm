@@ -1,0 +1,1 @@
+This service wakes up and handles the items stored in the queue.

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"date:time:" : "miki 12/12/2008 12:30",
+		"fromAbsoluteSeconds:" : "miki 12/12/2008 12:31",
+		"now" : "miki 12/12/2008 12:31" },
+	"instance" : {
+		"<=" : "sig 01/20/2009 11:18",
+		"absoluteSeconds" : "sig 01/20/2009 11:13",
+		"absoluteSeconds:" : "miki 12/11/2008 14:27",
+		"asDateAndTime" : "miki 12/11/2008 14:31",
+		"asDateAndTimeString" : "miki 12/11/2008 14:51",
+		"asFormattedString:" : "miki 12/11/2008 14:52",
+		"asFormattedString:forTimeZone:" : "miki 12/11/2008 14:52",
+		"asInteger" : "miki 12/11/2008 13:55",
+		"asTimeString" : "miki 12/11/2008 14:53",
+		"date:time:" : "miki 12/11/2008 15:32",
+		"privateAsFormattedString:withTimeZoneOffset:" : "miki 12/11/2008 14:48",
+		"setTimeToThisInstant" : "miki 12/11/2008 13:55" } }

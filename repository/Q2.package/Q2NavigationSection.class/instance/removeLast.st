@@ -1,0 +1,4 @@
+building
+removeLast
+
+	^children removeLast

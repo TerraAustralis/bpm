@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"download:" : "kb 7/14/2007 20:31" },
+	"instance" : {
+		"cleanUp" : "kb 7/14/2007 20:48",
+		"databaseDirectory" : "ul 8/17/2007 12:59",
+		"download" : "kb 7/14/2007 20:32",
+		"downloadDb" : "kb 7/19/2007 19:34",
+		"downloadDbSqueak" : "kb 7/19/2007 14:30",
+		"downloadDbUnix" : "kb 7/14/2007 20:47",
+		"downloadDbWin32" : "ul 7/23/2007 18:39",
+		"downloadUrl" : "gk 8/7/2007 13:44",
+		"mirrorsDirectory" : "gk 8/7/2007 13:46",
+		"name" : "kb 7/14/2007 20:32",
+		"name:" : "kb 7/14/2007 20:32",
+		"targetPath" : "kb 7/19/2007 14:32",
+		"timeOutInMilliseconds" : "kb 7/22/2007 16:06",
+		"timeOutMilliseconds" : "kb 7/19/2007 19:06",
+		"unzipDb" : "miki 12/4/2008 12:32",
+		"waitForFile" : "kb 7/14/2007 20:53" } }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"guessDateString" : "makl 8/18/2006 08:04",
+		"guessDateStringAsDate" : "gk 11/6/2006 00:01",
+		"left:" : "makl 8/18/2006 06:57",
+		"onlyDigits" : "makl 8/18/2006 07:25",
+		"right:" : "makl 8/18/2006 06:57",
+		"translated" : "miki 11/18/2008 13:26",
+		"untranslated" : "kb 10/30/2006 15:28",
+		"utf8ToIndexCompatible" : "ul 7/23/2007 16:29",
+		"withLineBreaks" : "gk 6/21/2007 00:37" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Visualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2ProcessWorkflowGraph",
+	"pools" : [
+		 ],
+	"super" : "Q2WorkflowGraph",
+	"type" : "normal" }

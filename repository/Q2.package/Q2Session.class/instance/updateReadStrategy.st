@@ -1,0 +1,3 @@
+seaside
+updateReadStrategy
+	self dbSession updateReadStrategy.

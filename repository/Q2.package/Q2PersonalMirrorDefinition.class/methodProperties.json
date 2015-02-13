@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"for:prefix:processes:" : "kb 6/24/2007 23:03" },
+	"instance" : {
+		"canAccess:" : "kb 6/25/2007 18:42",
+		"canRead:" : "kb 6/25/2007 18:43",
+		"disconnect" : "kb 6/24/2007 17:35",
+		"processes" : "kb 6/24/2007 17:30",
+		"processes:" : "kb 6/24/2007 17:30",
+		"reconnectIn:" : "kb 6/24/2007 17:14",
+		"seesUser:" : "kb 6/25/2007 18:48",
+		"shouldAdd:" : "kb 6/25/2007 15:14" } }

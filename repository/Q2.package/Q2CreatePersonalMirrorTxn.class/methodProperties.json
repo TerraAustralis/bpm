@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"for:prefix:processes:" : "kb 6/24/2007 23:05" },
+	"instance" : {
+		"apply" : "kb 6/24/2007 21:24",
+		"disonnect" : "kb 6/24/2007 17:00",
+		"mirrorDefinition:" : "kb 6/24/2007 17:08",
+		"postMasterOutsideTransaction" : "ul 8/17/2007 17:41",
+		"process" : "kb 6/24/2007 17:00",
+		"reconnectIn:" : "kb 6/24/2007 17:01",
+		"validInMirror:" : "kb 6/25/2007 18:52",
+		"validate" : "kb 6/25/2007 18:56" } }

@@ -1,0 +1,1 @@
+This is a "doit wrapper" for running doits uninteractively in the server and still handle exceptions, syntax errors, autocorrections etc.

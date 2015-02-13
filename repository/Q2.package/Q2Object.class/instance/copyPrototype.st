@@ -1,0 +1,4 @@
+copying
+copyPrototype
+
+	self subclassResponsibility

@@ -1,0 +1,19 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "miki 11/19/2008 15:52",
+	"instvars" : [
+		"mutex",
+		"ownerProcess",
+		"nestingLevel",
+		"defaultQueue",
+		"queueDict",
+		"queuesMutex" ],
+	"name" : "Q2Monitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

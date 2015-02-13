@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2FilterStatusPredicate",
+	"pools" : [
+		 ],
+	"super" : "Q2FilterPredicate",
+	"type" : "normal" }

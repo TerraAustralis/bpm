@@ -1,0 +1,2 @@
+A field component is a non persistent field instance that can hold a value and associated runtime state while filling out the form.
+Rendering the field is mainly done through the field instance in order to not duplicate state nor behavior too much. Instead of mirroring the Q2Field hierarchy we use a Dictionary in instvar #state to dynamically hold the runtime state needed.

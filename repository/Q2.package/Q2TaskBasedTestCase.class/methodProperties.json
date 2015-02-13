@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addTask:named:" : "kb 5/15/2007 01:52",
+		"defaultTestName" : "kb 5/15/2007 03:43",
+		"go" : "kb 5/24/2007 01:43",
+		"printResultsFrom:" : "kb 5/24/2007 15:29",
+		"setUp" : "kb 5/15/2007 01:52",
+		"tearDown" : "kb 5/15/2007 02:24",
+		"useDefaultTestName" : "kb 5/15/2007 03:35" } }

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"on:" : "ul 6/24/2007 23:14" },
+	"instance" : {
+		"doesNotUnderstand:" : "sig 01/07/2009 17:10",
+		"modifyDefinitionTo:" : "gk 4/24/2007 10:14",
+		"printString" : "gk 4/24/2007 10:14",
+		"resultOf:" : "kb 10/1/2006 23:55",
+		"target" : "gk 4/24/2007 10:14",
+		"targetClass" : "gk 4/24/2007 10:15" } }

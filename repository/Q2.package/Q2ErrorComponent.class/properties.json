@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Seaside UI-errorhandling",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"error" ],
+	"name" : "Q2ErrorComponent",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

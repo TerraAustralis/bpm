@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"editing",
+		"page",
+		"owner",
+		"newSource" ],
+	"name" : "Q2MiniWikiViewer",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

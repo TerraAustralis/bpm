@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"accepts:" : "kb 11/26/2006 21:06",
+		"for:" : "kph 7/20/2007 12:15",
+		"graphFor:" : "kph 7/14/2007 12:58" },
+	"instance" : {
+		"doLayout" : "kph 7/23/2007 15:05",
+		"document" : "kph 7/14/2007 12:05",
+		"document:" : "kph 7/14/2007 12:05",
+		"generateDocument:type:" : "jupiter 09/05/2014 17:27",
+		"generateType:" : "kph 7/23/2007 15:04",
+		"graphviz" : "kph 7/14/2007 12:45",
+		"initialize" : "sig 01/23/2009 07:46",
+		"makeGraph" : "kph 7/14/2007 12:59",
+		"model:" : "kb 11/26/2006 20:53",
+		"outputPath" : "jupiter 09/05/2014 14:50",
+		"stageStyle" : "kb 11/26/2006 20:54",
+		"styleForStage:" : "kb 11/26/2006 21:30",
+		"styleForTransition:" : "kb 11/26/2006 21:30",
+		"transitionStyle" : "kb 11/26/2006 20:53" } }

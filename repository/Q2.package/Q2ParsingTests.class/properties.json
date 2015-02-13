@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2ParsingTests",
+	"pools" : [
+		 ],
+	"super" : "Q2TestCase",
+	"type" : "normal" }

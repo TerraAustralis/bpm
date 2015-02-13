@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beClean" : "jrp 3/25/2005 20:14",
+		"beMessy" : "jrp 3/25/2005 20:14",
+		"cleanUpIntermediateFilesAsAppropriate" : "jupiter 09/05/2014 22:31",
+		"commandLineForFormat:" : "jrp 3/27/2005 18:53",
+		"do:blockUntilFileUpdated:waitingNoMoreThan:" : "kph 6/22/2007 08:55",
+		"durationToWaitForGenerating" : "jrp 3/25/2005 20:13",
+		"durationToWaitForGenerating:" : "jrp 3/25/2005 20:13",
+		"evaluateUsing:forType:" : "jrp 3/25/2005 20:28",
+		"generateType:" : "jupiter 09/06/2014 15:55",
+		"initialize" : "jrp 3/25/2005 20:29",
+		"make:" : "jrp 3/27/2005 17:57",
+		"makeNoWait:" : "miki 11/5/2008 11:17",
+		"modificationTimeOf:" : "jrp 3/25/2005 20:14",
+		"runOSProcess:with:" : "jrp 3/25/2005 20:30" } }

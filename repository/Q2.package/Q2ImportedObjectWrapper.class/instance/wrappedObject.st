@@ -1,0 +1,3 @@
+wrapping
+wrappedObject
+	^wrappedObject

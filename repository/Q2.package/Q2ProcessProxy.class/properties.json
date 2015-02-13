@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-MorphicTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kb 10/2/2006 21:42",
+	"instvars" : [
+		"processName" ],
+	"name" : "Q2ProcessProxy",
+	"pools" : [
+		 ],
+	"super" : "Q2RootProxy",
+	"type" : "normal" }

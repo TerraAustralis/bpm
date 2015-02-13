@@ -1,0 +1,2 @@
+A base component for viewing cases adding a table component and services for maintaining a filtered subset.
+This component is written to use the shared Magma session and model and must take care to call sharedModelDo: and also make sure it looks up any objects from the "real" user session when it communicates with other components - like when opening a case for viewing, see the click block in #buildCaseTable.

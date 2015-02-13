@@ -1,0 +1,15 @@
+{
+	"category" : "Q2-Domain-filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"predicates",
+		"expression" ],
+	"name" : "Q2QueryFilter",
+	"pools" : [
+		 ],
+	"super" : "Q2Filter",
+	"type" : "normal" }

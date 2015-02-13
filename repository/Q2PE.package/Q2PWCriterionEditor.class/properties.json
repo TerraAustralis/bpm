@@ -1,0 +1,18 @@
+{
+	"category" : "Q2PE-Seaside UI Process Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stageOrTransition",
+		"menu",
+		"enter",
+		"transition",
+		"exit" ],
+	"name" : "Q2PWCriterionEditor",
+	"pools" : [
+		 ],
+	"super" : "Q2ChildComponent",
+	"type" : "normal" }

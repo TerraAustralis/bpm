@@ -1,0 +1,1 @@
+My subclasses are plugins which installed in model. And thus having global visibility.

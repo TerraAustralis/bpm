@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2CustomObjectSyncService",
+	"pools" : [
+		 ],
+	"super" : "Q2Service",
+	"type" : "normal" }

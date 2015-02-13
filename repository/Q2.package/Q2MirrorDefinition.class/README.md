@@ -1,0 +1,1 @@
+I define a part of a model that should be copied into a mirror. I'm used by Q2MirrorCreator. I decide which objects should be copied with my #shouldAdd: method.

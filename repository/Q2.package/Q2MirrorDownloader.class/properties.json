@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-mirroring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name" ],
+	"name" : "Q2MirrorDownloader",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

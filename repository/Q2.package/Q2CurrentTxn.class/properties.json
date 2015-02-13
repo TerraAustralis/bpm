@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions-Notifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2CurrentTxn",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

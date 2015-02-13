@@ -1,0 +1,22 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RPB 10/3/2007 14:41",
+	"instvars" : [
+		"caseTotalsByType",
+		"caseTotalsByResolution",
+		"caseTotalsChartByType",
+		"caseTotalsChartByResolution",
+		"caseAveTimeChartByType",
+		"caseAveTimeChartByResolution",
+		"setupControls",
+		"tabBook",
+		"statisticsHolder" ],
+	"name" : "Q2StatisticsView",
+	"pools" : [
+		"ChronologyConstants" ],
+	"super" : "Q2Component",
+	"type" : "normal" }

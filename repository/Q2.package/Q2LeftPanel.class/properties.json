@@ -1,0 +1,19 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"navigation",
+		"casesSection",
+		"formatter",
+		"viewProcesses",
+		"initialRequest",
+		"keepAliveUpdater" ],
+	"name" : "Q2LeftPanel",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

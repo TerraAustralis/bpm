@@ -1,0 +1,3 @@
+cases
+numberOfCases
+	^cases size

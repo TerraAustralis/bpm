@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-events",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process" ],
+	"name" : "Q2ProcessSubscription",
+	"pools" : [
+		 ],
+	"super" : "Q2MailSubscription",
+	"type" : "normal" }

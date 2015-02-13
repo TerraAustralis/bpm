@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"baseName" : "jupiter 10/22/2014 21:13",
+		"extension" : "gk 11/13/2006 14:38",
+		"filename" : "gk 11/13/2006 14:47",
+		"maxSize" : "gk 11/13/2006 15:03",
+		"named:with:" : "gk 8/2/2006 09:39",
+		"open" : "jupiter 09/04/2014 14:40" },
+	"instance" : {
+		"block:" : "makl 6/2/2006 14:16",
+		"deleteOldLogFilesFromNumber:" : "gk 11/13/2006 15:02",
+		"flush" : "jupiter 09/04/2014 14:51",
+		"level:name:sender:message:" : "kph 7/17/2007 17:16",
+		"open:" : "jupiter 07/15/2014 00:07",
+		"reInitialize" : "makl 8/11/2006 10:01",
+		"reset" : "gk 8/7/2006 11:13",
+		"rotate" : "kph 7/17/2007 17:16",
+		"start" : "gk 8/2/2006 09:32",
+		"stop" : "gk 8/2/2006 09:32",
+		"writeLine:" : "jupiter 07/15/2014 00:09" } }

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"children" : "sig 6/24/2007 23:43",
+		"initialize" : "kph 7/6/2007 03:05",
+		"process:" : "sig 6/24/2007 23:42",
+		"processTooltip" : "sig 6/24/2007 23:28",
+		"renderIntroductionOn:" : "sig 6/24/2007 23:32",
+		"renderViewOn:" : "sig 6/24/2007 23:46" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2PE-Transactions-Process Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2ReverseTransitionTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2ProcessItemTxn",
+	"type" : "normal" }

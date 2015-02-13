@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-events",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"case" ],
+	"name" : "Q2CaseEvent",
+	"pools" : [
+		 ],
+	"super" : "Q2Event",
+	"type" : "normal" }

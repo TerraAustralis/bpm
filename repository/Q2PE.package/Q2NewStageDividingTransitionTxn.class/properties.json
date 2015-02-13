@@ -1,0 +1,15 @@
+{
+	"category" : "Q2PE-Transactions-Process Editing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"newTransition",
+		"middleStage" ],
+	"name" : "Q2NewStageDividingTransitionTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2NewStageFollowingStageTxn",
+	"type" : "normal" }

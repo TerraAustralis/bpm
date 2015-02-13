@@ -1,0 +1,3 @@
+accessing
+wasResolved
+	^timeToResolve notNil

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"abortTransaction" : "miki 12/3/2008 15:26",
+		"beginTransaction" : "miki 12/3/2008 15:24",
+		"cleanImage" : "sig 01/23/2009 10:30",
+		"clearDefaults" : "sig 01/23/2009 10:30",
+		"commitTransaction" : "miki 12/3/2008 15:24",
+		"current" : "miki 12/2/2008 12:32",
+		"current:" : "miki 11/12/2008 16:27",
+		"displayPlatformInformationOn:" : "sig 01/12/2009 23:30",
+		"evaluate:inContext:notifying:" : "sig 01/06/2009 10:18",
+		"fileDirectoryClass" : "miki 12/3/2008 15:15",
+		"ifGemStone:" : "sig 01/13/2009 02:18",
+		"initializePlatform" : "sig 01/23/2009 10:28",
+		"localeIdForIsoLanguage:" : "sig 01/08/2009 23:34",
+		"platformIsGemStone" : "miki 12/2/2008 12:30",
+		"seasideErrorHandlerClass" : "sig 01/14/2009 20:49",
+		"semaphoreClass" : "miki 12/3/2008 15:23",
+		"tempDirectory" : "sig 01/23/2009 10:14",
+		"timeStampClass" : "miki 12/10/2008 12:31",
+		"timeZoneClass" : "miki 12/10/2008 15:28",
+		"useGemStone" : "miki 12/12/2008 12:55",
+		"workingDirectory" : "sig 01/23/2009 10:15" },
+	"instance" : {
+		"seeClassSide" : "miki 12/2/2008 12:28" } }

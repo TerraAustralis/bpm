@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"email",
+		"replyToEmail",
+		"casePrototype" ],
+	"name" : "Q2PopReceiver",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

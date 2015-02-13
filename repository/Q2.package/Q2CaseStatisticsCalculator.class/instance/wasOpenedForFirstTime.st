@@ -1,0 +1,4 @@
+accessing
+wasOpenedForFirstTime
+
+	^timeToOpen notNil

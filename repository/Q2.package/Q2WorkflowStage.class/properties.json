@@ -1,0 +1,21 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"workflow",
+		"isClosed",
+		"isNew",
+		"transitions",
+		"enterCriteria",
+		"exitCriteria",
+		"gatekeepers",
+		"allowedForms" ],
+	"name" : "Q2WorkflowStage",
+	"pools" : [
+		 ],
+	"super" : "Q2NamedObject",
+	"type" : "normal" }

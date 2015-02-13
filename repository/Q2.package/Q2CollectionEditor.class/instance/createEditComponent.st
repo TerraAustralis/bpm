@@ -1,0 +1,4 @@
+initialize-release
+createEditComponent
+
+	self subclassResponsibility

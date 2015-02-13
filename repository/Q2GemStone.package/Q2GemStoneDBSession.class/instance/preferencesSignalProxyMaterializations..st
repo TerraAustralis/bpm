@@ -1,0 +1,2 @@
+gemstone
+preferencesSignalProxyMaterializations: trueOrFalse

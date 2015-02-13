@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"filter:user:" : "gk 12/13/2007 04:09" },
+	"instance" : {
+		"apply" : "gk 4/17/2007 12:41",
+		"disconnect" : "gk 4/17/2007 12:49",
+		"displayForHistory" : "gk 4/17/2007 12:44",
+		"filter:" : "gk 4/17/2007 12:43",
+		"reconnectIn:" : "gk 4/17/2007 12:49" } }

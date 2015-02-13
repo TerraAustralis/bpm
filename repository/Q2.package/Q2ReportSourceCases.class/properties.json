@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-reports",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2ReportSourceCases",
+	"pools" : [
+		 ],
+	"super" : "Q2ReportSource",
+	"type" : "normal" }

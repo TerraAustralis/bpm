@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"note:case:files:" : "gk 8/29/2006 13:23" },
+	"instance" : {
+		"apply" : "ul 7/28/2007 16:25",
+		"disconnect" : "gk 8/28/2006 10:02",
+		"displayForHistory" : "makl 6/2/2006 10:25",
+		"do" : "makl 8/30/2006 09:59",
+		"note:case:files:" : "miki 12/11/2008 13:23",
+		"postApply" : "gk 6/21/2006 23:13",
+		"postCopy" : "gk 8/30/2006 09:27",
+		"postMasterOutsideTransaction" : "gk 1/9/2008 00:42",
+		"reconnectIn:" : "gk 8/28/2006 10:02" } }

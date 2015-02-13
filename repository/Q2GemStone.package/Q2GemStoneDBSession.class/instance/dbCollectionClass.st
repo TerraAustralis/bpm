@@ -1,0 +1,3 @@
+gemstone
+dbCollectionClass
+	^ Q2GemStoneCollection

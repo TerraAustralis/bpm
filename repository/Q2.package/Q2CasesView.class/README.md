@@ -1,0 +1,1 @@
+A base component for viewing cases in a table.

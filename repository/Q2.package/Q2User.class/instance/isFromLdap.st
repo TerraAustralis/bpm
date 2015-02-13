@@ -1,0 +1,3 @@
+testing
+isFromLdap
+	^ldapId notNil

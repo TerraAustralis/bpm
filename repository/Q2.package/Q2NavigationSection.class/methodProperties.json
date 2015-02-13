@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"label:" : "gk 1/18/2006 12:42",
+		"label:description:" : "gk 1/18/2006 13:02" },
+	"instance" : {
+		"add:" : "gk 1/18/2006 12:29",
+		"add:afterIndex:" : "gk 8/31/2006 12:11",
+		"add:label:description:" : "gk 9/12/2006 14:56",
+		"addAction:label:description:" : "gk 9/12/2006 14:56",
+		"children" : "sig 5/15/2007 20:00",
+		"removeLast" : "gk 8/31/2006 12:11",
+		"renderNavigationOn:action:selected:" : "sig 5/12/2007 19:00",
+		"userSettingsModified" : "gk 8/31/2006 13:51" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"username",
+		"password",
+		"msg" ],
+	"name" : "Q2LoginDialog",
+	"pools" : [
+		 ],
+	"super" : "Q2Component",
+	"type" : "normal" }

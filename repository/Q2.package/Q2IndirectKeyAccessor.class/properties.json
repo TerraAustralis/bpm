@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-forms-accessors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"key" ],
+	"name" : "Q2IndirectKeyAccessor",
+	"pools" : [
+		 ],
+	"super" : "Q2SelectorAccessor",
+	"type" : "normal" }

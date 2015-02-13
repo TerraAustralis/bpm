@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-settings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Q2ModelSetting",
+	"pools" : [
+		 ],
+	"super" : "Q2Setting",
+	"type" : "normal" }

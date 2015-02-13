@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"apply" : "kph 6/27/2007 03:00",
+		"newStatus" : "kph 6/27/2007 02:51",
+		"newStatus:" : "kph 6/27/2007 02:51",
+		"oldStatus" : "kph 6/27/2007 02:51",
+		"oldStatus:" : "kph 6/27/2007 02:51",
+		"stage" : "kph 6/27/2007 02:52",
+		"stage:" : "kph 6/27/2007 03:49",
+		"undo" : "kph 6/27/2007 03:00",
+		"validate" : "kph 6/27/2007 03:00",
+		"validateUndo" : "kph 6/27/2007 03:00" } }

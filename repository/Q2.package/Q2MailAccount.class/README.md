@@ -1,0 +1,1 @@
+I represent a mail account and keep track of username, password, etc.

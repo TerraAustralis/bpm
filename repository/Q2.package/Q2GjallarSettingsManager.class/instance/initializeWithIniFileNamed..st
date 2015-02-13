@@ -1,0 +1,4 @@
+initialize-release
+initializeWithIniFileNamed: iniFileName
+
+	self loadOrCreateIniFileNamed: iniFileName

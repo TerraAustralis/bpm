@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "miki 12/10/2008 11:39",
+	"instvars" : [
+		 ],
+	"name" : "Q2TimeZone",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "INIFile-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "INIFileTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

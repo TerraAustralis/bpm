@@ -1,0 +1,4 @@
+methods
+fileDirectoryClass
+
+	^Q2GemStoneFileDirectory

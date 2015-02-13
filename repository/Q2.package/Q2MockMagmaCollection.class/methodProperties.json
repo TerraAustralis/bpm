@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"new" : "gk 11/19/2008 16:42" },
+	"instance" : {
+		"addIndex:" : "gk 4/5/2006 11:26",
+		"at:ifOutOfBounds:" : "kph 6/24/2007 17:22",
+		"hasIndexNamed:" : "gk 4/5/2006 11:26",
+		"initialize" : "gk 4/5/2006 11:26",
+		"pop" : "makl 8/31/2006 12:33",
+		"push:" : "makl 8/31/2006 12:33",
+		"read:" : "gk 4/5/2006 14:23",
+		"read:at:" : "gk 8/10/2006 13:31",
+		"read:from:to:" : "gk 4/5/2006 13:06",
+		"readUnique:at:" : "gk 10/5/2006 00:36",
+		"subset:read:" : "gk 4/6/2006 09:23",
+		"visitSelector" : "kb 6/6/2007 21:02",
+		"where:" : "gk 8/10/2006 13:30",
+		"where:orSelect:" : "kph 6/24/2007 17:38" } }

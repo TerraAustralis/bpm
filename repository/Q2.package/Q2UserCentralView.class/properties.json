@@ -1,0 +1,17 @@
+{
+	"category" : "Q2-Seaside UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"casePanelViews",
+		"central",
+		"oldCentral",
+		"freetextFilter" ],
+	"name" : "Q2UserCentralView",
+	"pools" : [
+		 ],
+	"super" : "Q2CasesView",
+	"type" : "normal" }

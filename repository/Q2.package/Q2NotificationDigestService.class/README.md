@@ -1,0 +1,1 @@
+This service collects digests according to users digest settings. If a digest should be sent it is queued for sending by the Q2NotificationSenderService.

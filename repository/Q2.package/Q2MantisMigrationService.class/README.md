@@ -1,0 +1,1 @@
+This service is not yet working but is meant to turn onto a migrator service from Mantis that can import cases/issues from there into Gjallar.

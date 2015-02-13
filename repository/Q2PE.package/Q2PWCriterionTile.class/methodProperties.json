@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"criterion:" : "kph 6/27/2007 14:56" },
+	"instance" : {
+		"criterion:" : "kph 6/27/2007 09:12",
+		"renderCriterion:on:" : "kph 6/27/2007 14:54",
+		"renderSubCriteriaOf:on:" : "kph 6/27/2007 14:54" } }

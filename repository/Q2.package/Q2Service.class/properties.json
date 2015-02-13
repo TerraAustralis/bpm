@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Scheduler",
+	"classinstvars" : [
+		"nextRun",
+		"debugFlag",
+		"session" ],
+	"classvars" : [
+		"Now" ],
+	"commentStamp" : "gk 8/2/2006 11:01",
+	"instvars" : [
+		 ],
+	"name" : "Q2Service",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Q2PE-Seaside UI Process Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"criterion" ],
+	"name" : "Q2PWCriterionTile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

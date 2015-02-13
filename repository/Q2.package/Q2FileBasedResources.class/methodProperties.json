@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"/" : "jupiter 09/04/2014 17:41",
+		"clear" : "kph 7/12/2007 08:04",
+		"default" : "kph 7/19/2007 19:10",
+		"instances" : "kph 7/12/2007 08:04",
+		"libraryAt:" : "kph 7/12/2007 21:06",
+		"newFor:" : "kph 7/12/2007 17:15" },
+	"instance" : {
+		"documentAt:ifAbsent:" : "miki 12/3/2008 15:11",
+		"initialize" : "kph 9/24/2007 04:24",
+		"libraryDirectory" : "sig 01/23/2009 09:33",
+		"libraryName" : "kph 7/12/2007 11:18",
+		"name" : "gk 3/28/2008 16:50",
+		"nonFileSelectors" : "gk 3/28/2008 13:37",
+		"setLibraryName:" : "kph 7/12/2007 11:11",
+		"urlOf:using:" : "jupiter 09/04/2014 16:10" } }

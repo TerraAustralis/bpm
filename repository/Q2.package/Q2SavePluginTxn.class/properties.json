@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Transactions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"formBuffer" ],
+	"name" : "Q2SavePluginTxn",
+	"pools" : [
+		 ],
+	"super" : "Q2PluginTxn",
+	"type" : "normal" }

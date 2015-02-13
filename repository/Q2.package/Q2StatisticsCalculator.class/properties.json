@@ -1,0 +1,16 @@
+{
+	"category" : "Q2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RPB 10/3/2007 14:07",
+	"instvars" : [
+		"sessionClass",
+		"description",
+		"label" ],
+	"name" : "Q2StatisticsCalculator",
+	"pools" : [
+		 ],
+	"super" : "Q2Object",
+	"type" : "normal" }

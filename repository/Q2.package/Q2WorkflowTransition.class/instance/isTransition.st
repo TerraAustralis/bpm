@@ -1,0 +1,4 @@
+accessing
+isTransition
+
+	^ true
