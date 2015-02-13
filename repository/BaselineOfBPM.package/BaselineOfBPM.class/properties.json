@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBPM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 02/13/2015 19:48",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBPM",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
