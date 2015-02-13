@@ -1,1 +1,1 @@
-(name 'BaselineOfBPM-jupiter.1' message '''initial' id 'feb40830-2bf9-40e9-9996-ffb8b1f5caa2' date '02/13/2015' time '20:01:28' author 'jupiter' ancestors () stepChildren ())
+(name 'BaselineOfBPM-jupiter.2' message '''validated''' id 'b2f21732-3239-4e66-884f-13a7ce2933a0' date '02/13/2015' time '00:39:48' author 'jupiter' ancestors ((name 'BaselineOfBPM-jupiter.1' message '''initial' id 'feb40830-2bf9-40e9-9996-ffb8b1f5caa2' date '02/13/2015' time '20:01:28' author 'jupiter' ancestors () stepChildren ())) stepChildren ())
