@@ -13,12 +13,16 @@ baseline: spec
                 repository: 'github://GsDevKit/Seaside31:gs_master/repository' ];
         yourself.
       spec
+        baseline: 'Flow'
+          with: [ spec repository: 'filetree:///opt/git/ta/flow/backend/repository' ];
+        yourself.
+      spec
         package: 'Graphics-Files';
         package: 'GraphViz';
         package: 'INIFile';
         package: 'Q2Swiki';
         package: 'Q2'
-          with: [ spec requires: #('Seaside3' 'GraphViz' 'INIFile' 'Q2Swiki') ];
+          with: [ spec requires: #('Flow' 'Seaside3' 'GraphViz' 'INIFile' 'Q2Swiki') ];
         package: 'Q2GemStone' with: [ spec requires: #('Q2') ];
         package: 'Q2PE'
           with: [ spec requires: #('Q2' 'Q2GemStone' 'Graphics-Files') ];
