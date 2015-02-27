@@ -1,6 +1,7 @@
 {
 	"class" : {
 		"adminEditForm" : "gk 1/8/2008 23:49",
+		"find:" : "jupiter 02/26/2015 12:19",
 		"initialize" : "sig 8/21/2007 01:46",
 		"name:" : "gk 10/4/2006 23:40" },
 	"instance" : {
@@ -37,6 +38,7 @@
 		"initialize" : "gk 4/17/2007 14:15",
 		"initializeReportDefinitions" : "gk 9/22/2006 10:06",
 		"initializeUserCentral" : "gk 4/10/2007 11:26",
+		"insert" : "jupiter 02/26/2015 12:24",
 		"isAdmin" : "gk 5/2/2007 11:26",
 		"isAdmin:" : "gk 5/3/2007 13:14",
 		"isAnybody" : "gk 5/3/2007 10:52",
