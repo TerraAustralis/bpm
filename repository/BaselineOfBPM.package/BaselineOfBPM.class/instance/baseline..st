@@ -14,7 +14,7 @@ baseline: spec
         yourself.
       spec
         baseline: 'Flow'
-          with: [ spec repository: 'filetree:///opt/git/ta/flow/backend/repository' ];
+          with: [ spec repository: 'filetree:///opt/git/ta/flow/backend/src' ];
         yourself.
       spec
         package: 'Graphics-Files';
