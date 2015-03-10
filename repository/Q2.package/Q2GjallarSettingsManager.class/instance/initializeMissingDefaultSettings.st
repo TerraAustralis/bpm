@@ -7,7 +7,7 @@ initializeMissingDefaultSettings
   | section |
   {('globals'
     ->
-      {(#'systemName' -> 'NextRound').
+      {(#'systemName' -> 'Nextround').
       (#'logo' -> 'nextRound.png').
       (#'serverHost' -> 'localhost').
       (#'serverPort' -> '8081').	"This is the server's web UI listener port."

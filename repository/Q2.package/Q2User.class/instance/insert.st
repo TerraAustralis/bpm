@@ -7,5 +7,7 @@ insert
   self username: (self at: 'firstName').
   self password: (self at: 'password').
   self email: (self at: 'email').
+  self name: (self at: 'email').
   self bpmModel addUser: self.
-  super insert
+  super insert.
+  self halt

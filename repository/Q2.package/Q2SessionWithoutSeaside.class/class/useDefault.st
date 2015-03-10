@@ -7,4 +7,4 @@ useDefault
 	because the dictionary used in GemStone for registering Seaside 
 	apps requires keys to be strings."
 
-  ^ self use: 'NextRound'
+  ^ self use: 'Nextround'
