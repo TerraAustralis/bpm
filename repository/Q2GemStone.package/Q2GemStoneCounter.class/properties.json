@@ -3,10 +3,10 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"Counters" ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
+		"counterNumber" ],
 	"name" : "Q2GemStoneCounter",
 	"pools" : [
 		 ],

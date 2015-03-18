@@ -5,9 +5,8 @@ renderContentOn: html
   html div
     with: [ 
       html image
-        url: Q2DefaultResources / Q2Object settings logo;
-        style: 'width:100%;padding-top:10px;';
-        altText: 'logo'.
+        url: NextroundBPMFileLibrary / 'imageslogoPng';
+        altText: 'logo'.	"style: 'width:100%;padding-top:10px;';"
       self noDb
         ifTrue: [ 
           "this is a local installation without a downloaded mirror"

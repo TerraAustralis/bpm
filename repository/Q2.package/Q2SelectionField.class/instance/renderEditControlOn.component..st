@@ -22,12 +22,15 @@ renderEditControlOn: html component: fieldComponent
       html text: ' (type first letters)' ]
     ifFalse: [ 
       items := self valuesForFieldComponent: fieldComponent.
-      select := multiple
-        ifTrue: [ html multiSelect ]
-        ifFalse: [ html select ].
-      html key ifNotNil: [ select id: html key ].
-      select
-        list: items;
-        selected: fieldComponent getCache;
-        callback: [ :val | fieldComponent setCache: val ];
-        labels: [ :each | self labelFor: each ] ]
+      useRadio
+        ifTrue: [ self renderEditUsingRadiosOn: html component: fieldComponent items: items ]
+        ifFalse: [ 
+          select := multiple
+            ifTrue: [ html multiSelect ]
+            ifFalse: [ html select ].
+          html key ifNotNil: [ select id: html key ].
+          select
+            list: items;
+            selected: fieldComponent getCache;
+            callback: [ :val | fieldComponent setCache: val ];
+            labels: [ :each | self labelFor: each ] ] ]

@@ -23,8 +23,7 @@ IE 6 understands the first line but not the second other browsers should underst
     		_width: 100%;
     		_overflow: auto;
 	}
-'.
-  anHtmlRoot addStyle: css.	"Enable below if you want login from cookie."	"self isLoggedIn
+'.	"anHtmlRoot addStyle: css."	"Enable below if you want login from cookie."	"self isLoggedIn
 		ifFalse: [
 			self session loginFromCookie.
 			self isLoggedIn ifTrue: [left loggedInNavigation]]."	"Make sure we show the selected component"

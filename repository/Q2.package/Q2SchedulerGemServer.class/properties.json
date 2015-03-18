@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Q2SchedulerGemServer",
+	"pools" : [
+		 ],
+	"super" : "GemServer",
+	"type" : "normal" }

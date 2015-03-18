@@ -1,10 +1,5 @@
 initialize-release
 initialize
-
-	super initialize.
-	
-	"System beginTransaction.
-	UserGlobals at: #MyCounter put: RcCounter new.
-	System commitTransaction."
-	
-	System persistentCounterAt: 1 put: 0.
+  super initialize.
+  System persistentCounterAt: counterNumber put: 0.
+  ^ self

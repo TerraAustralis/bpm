@@ -1,11 +1,8 @@
 initialize-release
 initialize
-
-	super initialize.
-	description := 'Your personal case center in the system'.
-	label := 'My view'.
-
-	central := self currentUser userCentral.
-
-	self initializeCasePanelViews.
-	freetextFilter := Q2FreeTextFilter new.
+  super initialize.
+  description := 'Your personal view of the Nextround system'.
+  label := 'My Dashboard'.
+  central := self currentUser userCentral.
+  self initializeCasePanelViews.
+  freetextFilter := Q2FreeTextFilter new

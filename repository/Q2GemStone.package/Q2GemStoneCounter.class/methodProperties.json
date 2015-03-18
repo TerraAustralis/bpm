@@ -1,7 +1,12 @@
 {
 	"class" : {
-		 },
+		"Counters" : "jupiter 03/15/2015 18:24",
+		"new" : "jupiter 03/15/2015 18:33",
+		"reset" : "jupiter 03/15/2015 18:24" },
 	"instance" : {
-		"initialize" : "miki 11/18/2008 17:08",
-		"next" : "miki 11/18/2008 17:08",
-		"value" : "miki 11/18/2008 17:07" } }
+		"counterNumber:" : "jupiter 03/12/2015 15:58",
+		"initialize" : "jupiter 03/15/2015 18:28",
+		"next" : "jupiter 03/12/2015 15:57",
+		"printString" : "jupiter 03/15/2015 18:33",
+		"value" : "jupiter 03/12/2015 15:57",
+		"value:" : "jupiter 03/15/2015 04:44" } }

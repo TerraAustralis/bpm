@@ -1,5 +1,5 @@
 initialize-release
 initialize
-	super initialize.
-	nilItemString := '<none>'.
-	multiple := useCompletion := false
+  super initialize.
+  nilItemString := '<none>'.
+  multiple := useCompletion := useRadio := false

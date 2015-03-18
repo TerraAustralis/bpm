@@ -1,3 +1,5 @@
 accessing
 selectorsToInclude
-	^ super selectorsToInclude , #(basicsCss calendarCss calendarJs calendarSetupJs  calendarEnJs  coolmenuCss filterCss formCss mainCss notesCss behaviourJs boxoverJs)
+  ^ super selectorsToInclude
+    ,
+      #(#'calendarCss' #'calendarJs' #'calendarSetupJs' #'calendarEnJs' #'notesCss' #'behaviourJs' #'boxoverJs')

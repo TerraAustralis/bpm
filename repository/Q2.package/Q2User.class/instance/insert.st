@@ -9,5 +9,4 @@ insert
   self email: (self at: 'email').
   self name: (self at: 'email').
   self bpmModel addUser: self.
-  super insert.
-  self halt
+  super insert

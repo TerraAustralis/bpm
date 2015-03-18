@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 03/16/2015 15:19",
+	"instvars" : [
+		 ],
+	"name" : "Q2FilterOwnerPredicate",
+	"pools" : [
+		 ],
+	"super" : "Q2FilterPredicate",
+	"type" : "normal" }

@@ -7,7 +7,7 @@ loggedInNavigation
   self currentUser isReporter
     ifTrue: [ 
       userSection := navigation
-        heading: [ 'User ' , self currentUser name ]
+        heading: [ 'Member: ' , self currentUser name ]
         description: 'The user you are logged in as'.
       userSection add: (createCase := Q2CreateCase parent: self).
       userSection add: (Q2Information parent: self).
@@ -18,7 +18,7 @@ loggedInNavigation
       navigation default: createCase ]
     ifFalse: [ 
       userSection := navigation
-        heading: [ 'User ' , self currentUser name ]
+        heading: [ 'Member: ' , self currentUser name ]
         description: 'Personal view, filters, subscriptions and settings'.
       userSection
         add: (myview := Q2UserCentralView parent: self);
@@ -33,11 +33,10 @@ loggedInNavigation
           description: 'Personal settings for using the system';
         add: [ Q2ReportsView parent: self ]
           label: 'Reports'
-          description: 'Create and view reports.'.
-      userSection
+          description: 'Create and view reports.'.	"userSection
         add: [ Q2StatisticsView parent: self ]
         label: 'Statistics'
-        description: 'Display usage statistics'.	"self isMirrorOwner
+        description: 'Display usage statistics'."	"self isMirrorOwner
           ifTrue: [ 
              userSection
               add: [ Q2MirrorSync parent: self ]

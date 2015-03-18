@@ -8,6 +8,7 @@ initialize
   mirrors := OrderedCollection new.
   processPrototypes := OrderedCollection new.
   caseCounter := Q2Platform current newCounter.
+  caseCounter value: 10000.
   definedCategories := OrderedCollection new.
   customObjectTypes := OrderedCollection new.
   forms := OrderedCollection new.

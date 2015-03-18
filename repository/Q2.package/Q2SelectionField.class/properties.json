@@ -9,7 +9,9 @@
 		"valuesProvider",
 		"nilItemString",
 		"useCompletion",
-		"multiple" ],
+		"multiple",
+		"useRadio",
+		"radioGroup" ],
 	"name" : "Q2SelectionField",
 	"pools" : [
 		 ],
