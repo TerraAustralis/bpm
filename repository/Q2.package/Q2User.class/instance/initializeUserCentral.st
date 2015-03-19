@@ -1,22 +1,16 @@
 initialize-release
 initializeUserCentral
-  | responsibleCases f newCases |
+  | ownerCases f responsibleCases |
   userCentral := Q2UserCentral new.
-  f := Q2QueryFilter named: 'My cases'.
-  f newOwnerPredicate value: self.
-  f newStatusPredicate
-    value:
-      {#'new'.
-      #'open'}.
-  responsibleCases := Q2CasePanel named: 'My open cases'.
+  f := self filterNamed: 'Owner filter'.
+  ownerCases := Q2CasePanel named: 'My Stuff'.
+  ownerCases
+    filter: f;
+    description: 'All cases I own.'.
+  userCentral addCasePanel: ownerCases.
+  f := self filterNamed: 'Responsible filter'.
+  responsibleCases := Q2CasePanel named: 'My Tasks'.
   responsibleCases
     filter: f;
-    description: 'The open cases I currently own.'.
-  userCentral addCasePanel: responsibleCases.
-  f := Q2QueryFilter named: 'New cases'.
-  f newStatusPredicate value: {#'new'}.
-  newCases := Q2CasePanel named: 'New cases'.
-  newCases
-    filter: f;
-    description: 'All new cases in all processes I have access to.'.
-  userCentral addCasePanel: newCases
+    description: 'All open cases that I am currently responsible for.'.
+  userCentral addCasePanel: responsibleCases

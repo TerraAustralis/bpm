@@ -4,6 +4,7 @@
 	"instance" : {
 		"compileOn:stack:" : "gk 6/19/2007 10:18",
 		"description" : "gk 10/6/2006 10:36",
+		"filterBlock" : "jupiter 03/19/2015 16:44",
 		"initialize" : "gk 10/6/2006 10:42",
 		"label" : "gk 10/6/2006 10:36",
 		"renderEditControlOn:component:" : "sig 01/14/2009 01:46" } }

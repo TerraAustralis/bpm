@@ -6,5 +6,8 @@ renderEditUsingRadiosOn: html component: fieldComponent items: items
     callback: [ :val | fieldComponent setCache: val ].
   items
     do: [ :item | 
-      radioGroup radioButton value: item.
-      html text: item ]
+      html div
+        class: 'radioOption';
+        with: [ 
+              radioGroup radioButton value: item.
+              html text: item ] ]

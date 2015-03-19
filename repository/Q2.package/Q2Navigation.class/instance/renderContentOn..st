@@ -11,7 +11,7 @@ renderContentOn: html
           components
             do: [ :each | 
               html div
-                class: 'layout u-p u-pr0 u-pt0';
+                class: 'layout';
                 with: [ 
                       each
                         renderNavigationOn: html

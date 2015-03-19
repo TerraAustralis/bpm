@@ -54,7 +54,7 @@ loggedInNavigation
           label: 'Create case'
           description: 'Add a case to the system';
         add: [ Q2ViewCases parent: self ]
-          label: 'View cases'
+          label: 'Explore'
           description: 'View, search and edit all available cases'.	"
 		add: [Q2CaseLists parent: self]."	"	(navigation heading: 'Analysis'
 				description: 'Reports and statistics')
