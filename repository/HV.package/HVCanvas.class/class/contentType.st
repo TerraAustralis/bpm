@@ -1,0 +1,3 @@
+constants
+contentType
+	^ 'application/xml'

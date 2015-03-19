@@ -1,0 +1,15 @@
+{
+	"category" : "HV-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"class",
+		"id" ],
+	"name" : "HVHtmlDiv",
+	"pools" : [
+		 ],
+	"super" : "HVHtmlElement",
+	"type" : "normal" }

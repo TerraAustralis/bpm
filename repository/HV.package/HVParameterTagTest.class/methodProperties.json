@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBeData" : "gc 7/24/2007 16:30",
+		"testBeObject" : "gc 7/24/2007 16:31",
+		"testBeReference" : "gc 7/24/2007 16:31",
+		"testClass" : "gc 7/30/2007 18:40",
+		"testId" : "gc 7/30/2007 18:51",
+		"testName" : "gc 7/24/2007 16:26",
+		"testType" : "gc 7/24/2007 16:32",
+		"testValue" : "gc 7/24/2007 16:27",
+		"testValueType" : "gc 7/24/2007 16:29",
+		"testWith" : "gc 7/31/2007 12:27" } }

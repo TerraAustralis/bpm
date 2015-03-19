@@ -1,0 +1,1 @@
+Renders a HVTOC as an expandable/collapsable tree view in HTML. It only uses HTML (no Javascript) but does rely on a cookie for knowing which of the entries that are expanded.

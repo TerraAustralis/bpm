@@ -1,0 +1,1 @@
+This is a special table of contents entry model representing the normally invisible root entry. It is owned by an instance of HVTOC.

@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Extras-Swiki",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HVSwikiView",
+	"pools" : [
+		 ],
+	"super" : "HVTransientView",
+	"type" : "normal" }

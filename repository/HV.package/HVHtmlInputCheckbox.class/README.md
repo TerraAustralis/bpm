@@ -1,0 +1,1 @@
+A Form checkbox. Simply a method for rendering.

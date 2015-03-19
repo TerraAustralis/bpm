@@ -1,0 +1,3 @@
+attributes
+declareOnly
+	self declare

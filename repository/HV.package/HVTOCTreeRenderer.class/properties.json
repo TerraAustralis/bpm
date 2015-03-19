@@ -1,0 +1,16 @@
+{
+	"category" : "HV-Extras-TOCs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 3/31/2004 16:27",
+	"instvars" : [
+		"openImageUrl",
+		"closedImageUrl",
+		"leafImageUrl" ],
+	"name" : "HVTOCTreeRenderer",
+	"pools" : [
+		 ],
+	"super" : "HVTOCTopRenderer",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+rendering
+render
+	^ stream contents

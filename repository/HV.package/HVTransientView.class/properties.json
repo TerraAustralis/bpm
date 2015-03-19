@@ -1,0 +1,20 @@
+{
+	"category" : "HV-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jlh 12/19/2003 10:30",
+	"instvars" : [
+		"parent",
+		"title",
+		"urlStream",
+		"urlOriginalPosition",
+		"request",
+		"response",
+		"currentCanvas" ],
+	"name" : "HVTransientView",
+	"pools" : [
+		 ],
+	"super" : "HVHttpView",
+	"type" : "normal" }

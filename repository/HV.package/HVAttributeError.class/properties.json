@@ -1,0 +1,14 @@
+{
+	"category" : "HV-XHTMLCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HVAttributeError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

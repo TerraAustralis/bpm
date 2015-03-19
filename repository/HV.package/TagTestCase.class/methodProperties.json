@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"isAbstract" : "gc 2/9/2007 14:30" },
+	"instance" : {
+		"assertTagName:" : "gc 11/3/2007 17:38",
+		"canvas" : "gc 2/9/2007 13:17",
+		"canvas:" : "gc 2/9/2007 13:17",
+		"classToTest" : "gc 7/24/2007 20:17",
+		"firstElement" : "gc 11/3/2007 17:38",
+		"setUp" : "gc 7/24/2007 20:16",
+		"should:addAttribute:withValue:" : "gc 11/3/2007 17:38",
+		"shouldnt:understandAttribute:" : "gc 2/12/2007 11:08",
+		"tag" : "gc 2/9/2007 13:52",
+		"tag:" : "gc 2/9/2007 13:52" } }

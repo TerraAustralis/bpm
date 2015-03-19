@@ -1,0 +1,3 @@
+rendering
+closedImageUrl
+	^parent closedImageUrl

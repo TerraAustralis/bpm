@@ -1,0 +1,18 @@
+{
+	"category" : "HV-Extras-TOCs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 4/1/2004 16:42",
+	"instvars" : [
+		"toc",
+		"builder",
+		"baseUrl",
+		"rootEntry",
+		"vertical" ],
+	"name" : "HVTOCTopRenderer",
+	"pools" : [
+		 ],
+	"super" : "HVSimpleVariable",
+	"type" : "normal" }

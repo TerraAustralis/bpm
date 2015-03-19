@@ -1,0 +1,15 @@
+{
+	"category" : "HV-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gh 6/12/2002 10:51",
+	"instvars" : [
+		"rows",
+		"cols" ],
+	"name" : "HVHtmlTextArea",
+	"pools" : [
+		 ],
+	"super" : "HVHtmlFormElement",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+This is the model of a hierarchical table of contents. It holds a root entry which typically is invisible and which in turns holds the top level entries.

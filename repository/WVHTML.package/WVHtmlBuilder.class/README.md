@@ -1,0 +1,1 @@
+This builder can construct a WVHtmlDocument using a much richer sets of methods than WVHtmlDocument has. The builder has an attribute buffer which collects attributes with values for the upcoming HTML element to be produced.

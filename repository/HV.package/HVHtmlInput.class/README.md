@@ -1,0 +1,1 @@
+Base class for all input elements, inherits the ability to carry a "value" and a "name" from HVHtmlVariable. Basic rendering.

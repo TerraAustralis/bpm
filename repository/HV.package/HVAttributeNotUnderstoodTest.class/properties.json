@@ -1,0 +1,15 @@
+{
+	"category" : "HV-XHTMLCanvas-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"error",
+		"tag" ],
+	"name" : "HVAttributeNotUnderstoodTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

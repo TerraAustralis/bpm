@@ -1,0 +1,18 @@
+{
+	"category" : "HV-Extras-Swiki",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"start",
+		"end",
+		"block",
+		"deep",
+		"recurse" ],
+	"name" : "MacroProcessor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

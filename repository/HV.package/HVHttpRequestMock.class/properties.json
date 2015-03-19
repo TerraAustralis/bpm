@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HVHttpRequestMock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

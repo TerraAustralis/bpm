@@ -1,0 +1,16 @@
+{
+	"category" : "HV-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gh 6/12/2002 10:50",
+	"instvars" : [
+		"size",
+		"multiple",
+		"autoSubmit" ],
+	"name" : "HVHtmlSelect",
+	"pools" : [
+		 ],
+	"super" : "HVHtmlSelection",
+	"type" : "normal" }

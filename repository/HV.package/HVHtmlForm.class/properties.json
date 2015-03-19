@@ -1,0 +1,18 @@
+{
+	"category" : "HV-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 10/31/2003 13:12",
+	"instvars" : [
+		"action",
+		"enctype",
+		"method",
+		"elements",
+		"id" ],
+	"name" : "HVHtmlForm",
+	"pools" : [
+		 ],
+	"super" : "HVHtmlElement",
+	"type" : "normal" }

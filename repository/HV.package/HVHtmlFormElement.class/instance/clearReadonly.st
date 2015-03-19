@@ -1,0 +1,3 @@
+decorations
+clearReadonly
+	readonly := nil

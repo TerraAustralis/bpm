@@ -1,0 +1,3 @@
+accessing
+setReadonly
+	readonly := true

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"contentType" : "gc 8/1/2007 12:53",
+		"doctype" : "gc 8/1/2007 11:39",
+		"request:view:" : "gc 8/1/2007 12:33",
+		"xmlTag" : "gc 8/1/2007 11:38",
+		"xmlns" : "gc 8/1/2007 11:38" },
+	"instance" : {
+		"asHttpResponseTo:" : "gc 8/1/2007 13:06",
+		"doctype" : "gc 7/31/2007 21:26",
+		"initialize" : "gc 7/31/2007 21:26",
+		"isEmpty" : "gc 7/31/2007 21:26",
+		"nextPut:" : "gc 7/31/2007 21:26",
+		"nextPutAll:" : "gc 7/31/2007 21:27",
+		"preamble" : "gc 7/31/2007 21:27",
+		"render" : "gc 7/31/2007 21:27",
+		"request" : "gc 8/1/2007 12:32",
+		"request:" : "gc 8/1/2007 12:32",
+		"stream" : "gc 7/31/2007 21:27",
+		"tag:" : "gc 8/1/2007 12:17",
+		"text:" : "gc 8/1/2007 12:02",
+		"view" : "gc 8/1/2007 12:32",
+		"view:" : "gc 8/1/2007 12:32",
+		"xmlTag" : "gc 7/31/2007 21:26",
+		"xmlns" : "gc 7/31/2007 21:26" } }

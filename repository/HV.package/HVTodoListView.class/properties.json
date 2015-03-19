@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 12/10/2003 14:21",
+	"instvars" : [
+		 ],
+	"name" : "HVTodoListView",
+	"pools" : [
+		 ],
+	"super" : "HVTransientView",
+	"type" : "normal" }

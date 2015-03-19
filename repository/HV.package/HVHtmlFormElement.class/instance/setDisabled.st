@@ -1,0 +1,3 @@
+decorations
+setDisabled
+	disabled := true

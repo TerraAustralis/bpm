@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBeButton" : "gc 7/24/2007 18:02",
+		"testBeReset" : "gc 7/24/2007 18:02",
+		"testBeSubmit" : "gc 7/24/2007 18:07",
+		"testOnBlur" : "gc 7/31/2007 20:00",
+		"testOnFocus" : "gc 7/31/2007 20:00",
+		"testType" : "gc 7/24/2007 18:01",
+		"testValue" : "gc 7/24/2007 18:08",
+		"testWith" : "gc 11/3/2007 17:37" } }

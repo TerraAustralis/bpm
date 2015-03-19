@@ -1,0 +1,1 @@
+The concrete subclass of HVHtmlVariable that is used for embedding simple variables in HTML pages.

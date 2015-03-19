@@ -1,0 +1,3 @@
+decorations
+clearDisabled
+	disabled := nil

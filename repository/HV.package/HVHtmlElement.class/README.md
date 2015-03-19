@@ -1,0 +1,1 @@
+Base class for all HV elements, adds a few noncrucial facilities.

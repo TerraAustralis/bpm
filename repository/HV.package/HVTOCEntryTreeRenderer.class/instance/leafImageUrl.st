@@ -1,0 +1,3 @@
+rendering
+leafImageUrl
+	^parent leafImageUrl

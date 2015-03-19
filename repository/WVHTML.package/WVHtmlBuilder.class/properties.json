@@ -1,0 +1,15 @@
+{
+	"category" : "WVHTML-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"HtmlCharacters" ],
+	"commentStamp" : "gk 12/16/2003 15:48",
+	"instvars" : [
+		"document",
+		"attributeBuffer" ],
+	"name" : "WVHtmlBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

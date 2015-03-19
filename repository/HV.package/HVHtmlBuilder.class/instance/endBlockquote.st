@@ -1,0 +1,3 @@
+html
+endBlockquote
+	^self close

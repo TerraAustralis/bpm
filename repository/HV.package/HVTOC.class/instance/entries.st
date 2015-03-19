@@ -1,0 +1,3 @@
+accessing
+entries
+	^rootEntry children

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"name:value:pressed:" : "gk 10/29/2003 15:19" },
+	"instance" : {
+		"ifPressed:" : "gk 10/29/2003 15:37",
+		"ifPressed:ifNot:" : "gk 10/31/2003 10:09",
+		"isPressed" : "gk 5/5/2004 15:01",
+		"pressed" : "gk 10/29/2003 15:37",
+		"pressed:" : "gk 10/29/2003 15:36",
+		"renderType" : "gh 5/14/2002 10:40" } }

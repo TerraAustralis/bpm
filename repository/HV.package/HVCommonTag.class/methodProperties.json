@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"class:" : "gc 7/23/2007 15:06",
+		"classes:" : "gc 7/23/2007 15:06",
+		"defaultSpace" : "gc 7/30/2007 15:00",
+		"onClick:" : "gc 2/10/2007 15:07",
+		"onDoubleClick:" : "gc 2/10/2007 15:07",
+		"onEvent:do:" : "gc 7/23/2007 15:07",
+		"onKeyDown:" : "gc 2/10/2007 15:07",
+		"onKeyPress:" : "gc 2/10/2007 15:07",
+		"onKeyUp:" : "gc 2/10/2007 15:07",
+		"onMouseDown:" : "gc 2/10/2007 15:07",
+		"onMouseMove:" : "gc 2/10/2007 15:07",
+		"onMouseOut:" : "gc 2/10/2007 15:07",
+		"onMouseOver:" : "gc 2/10/2007 15:07",
+		"onMouseUp:" : "gc 2/10/2007 15:07",
+		"preserveSpace" : "gc 7/30/2007 15:00",
+		"title:" : "gc 7/23/2007 15:07",
+		"xmlSpace:" : "gc 7/30/2007 15:00" } }

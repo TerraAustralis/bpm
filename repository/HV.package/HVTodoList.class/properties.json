@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 10/24/2003 10:58",
+	"instvars" : [
+		"items" ],
+	"name" : "HVTodoList",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

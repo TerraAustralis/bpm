@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aboveFrame" : "gc 7/24/2007 18:44",
+		"allRules" : "gc 7/24/2007 18:58",
+		"belowFrame" : "gc 7/24/2007 18:45",
+		"border:" : "gc 7/24/2007 20:57",
+		"borderFrame" : "gc 7/24/2007 18:45",
+		"boxFrame" : "gc 7/24/2007 18:46",
+		"cellPadding:" : "gc 7/24/2007 20:58",
+		"cellSpacing:" : "gc 7/24/2007 18:41",
+		"columnRules" : "gc 7/24/2007 18:57",
+		"frame:" : "gc 7/24/2007 18:43",
+		"groupRules" : "gc 7/24/2007 18:57",
+		"horizontalFrame" : "gc 7/24/2007 18:49",
+		"leftSideFrame" : "gc 7/24/2007 18:51",
+		"noRules" : "gc 7/24/2007 18:58",
+		"rightSideFrame" : "gc 7/24/2007 18:51",
+		"rowRules" : "gc 7/24/2007 18:56",
+		"rules:" : "gc 7/24/2007 18:54",
+		"summary:" : "gc 7/24/2007 19:01",
+		"tag" : "gc 7/24/2007 18:37",
+		"verticalFrame" : "gc 7/24/2007 18:53",
+		"voidFrame" : "gc 7/24/2007 18:52",
+		"width:" : "gc 7/24/2007 20:58" } }

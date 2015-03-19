@@ -1,0 +1,3 @@
+html
+nbsp
+	^self space

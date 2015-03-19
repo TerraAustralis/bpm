@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAboveFrame" : "gc 7/24/2007 20:03",
+		"testAllRules" : "gc 7/24/2007 18:58",
+		"testBelowFrame" : "gc 7/24/2007 18:44",
+		"testBorder" : "gc 7/31/2007 12:30",
+		"testBorderFrame" : "gc 7/24/2007 18:45",
+		"testBoxFrame" : "gc 7/24/2007 18:46",
+		"testCellPadding" : "gc 7/24/2007 18:40",
+		"testCellSpacing" : "gc 7/24/2007 18:40",
+		"testColumnRules" : "gc 7/24/2007 18:57",
+		"testFrame" : "gc 7/24/2007 18:42",
+		"testGroupRules" : "gc 7/24/2007 18:56",
+		"testHorizontalFrame" : "gc 7/24/2007 18:49",
+		"testLeftSideFrame" : "gc 7/24/2007 18:50",
+		"testNoRules" : "gc 7/24/2007 18:58",
+		"testRightSideFrame" : "gc 7/24/2007 18:51",
+		"testRowRules" : "gc 7/24/2007 18:54",
+		"testRules" : "gc 7/24/2007 18:54",
+		"testSummary" : "gc 7/24/2007 19:00",
+		"testVerticalFrame" : "gc 7/24/2007 18:53",
+		"testVoidFrame" : "gc 7/24/2007 18:52",
+		"testWidth" : "gc 7/31/2007 12:30",
+		"testWith" : "gc 7/24/2007 18:36" } }

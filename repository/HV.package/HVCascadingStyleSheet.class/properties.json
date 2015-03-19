@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"string" ],
+	"name" : "HVCascadingStyleSheet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

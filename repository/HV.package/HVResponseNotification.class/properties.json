@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"response" ],
+	"name" : "HVResponseNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

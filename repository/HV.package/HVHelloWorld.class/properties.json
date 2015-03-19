@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jlh 12/22/2003 22:35",
+	"instvars" : [
+		 ],
+	"name" : "HVHelloWorld",
+	"pools" : [
+		 ],
+	"super" : "HVTransientView",
+	"type" : "normal" }

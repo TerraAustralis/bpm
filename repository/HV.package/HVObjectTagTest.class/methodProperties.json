@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testArchive" : "gc 7/24/2007 15:39",
+		"testArchives" : "gc 7/24/2007 15:41",
+		"testClassId" : "gc 7/24/2007 15:29",
+		"testCodeBase" : "gc 7/24/2007 15:30",
+		"testCodeType" : "gc 7/24/2007 15:31",
+		"testData" : "gc 7/24/2007 15:32",
+		"testDeclare" : "gc 7/24/2007 15:44",
+		"testDeclareOnly" : "gc 7/30/2007 18:37",
+		"testHeight" : "gc 7/31/2007 12:26",
+		"testName" : "gc 7/24/2007 15:54",
+		"testStandby" : "gc 7/24/2007 15:46",
+		"testTabIndex" : "gc 7/31/2007 12:27",
+		"testType" : "gc 7/24/2007 15:36",
+		"testUseMap" : "gc 7/31/2007 14:57",
+		"testWidth" : "gc 7/31/2007 12:27",
+		"testWith" : "gc 7/24/2007 15:27" } }

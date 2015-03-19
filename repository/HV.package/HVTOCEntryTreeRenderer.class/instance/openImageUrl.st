@@ -1,0 +1,3 @@
+rendering
+openImageUrl
+	^parent openImageUrl

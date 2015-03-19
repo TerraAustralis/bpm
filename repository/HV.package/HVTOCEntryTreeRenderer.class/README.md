@@ -1,0 +1,1 @@
+Renders a HVTOCEntry as an expandable/collapsable node in tree view in HTML. Used "on the fly" by HVTOCTreeRenderer.

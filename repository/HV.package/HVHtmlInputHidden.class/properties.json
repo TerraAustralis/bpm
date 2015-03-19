@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gh 6/12/2002 10:49",
+	"instvars" : [
+		 ],
+	"name" : "HVHtmlInputHidden",
+	"pools" : [
+		 ],
+	"super" : "HVHtmlInput",
+	"type" : "normal" }

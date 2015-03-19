@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "gc 7/24/2007 23:07",
+		"testAlignment" : "gc 7/24/2007 19:26",
+		"testBaselineAlignment" : "gc 7/24/2007 19:57",
+		"testBottomAlignment" : "gc 7/24/2007 19:56",
+		"testCenterAlignment" : "gc 7/24/2007 19:27",
+		"testCharacter" : "gc 7/31/2007 12:28",
+		"testCharacterAlignment" : "gc 7/24/2007 19:30",
+		"testCharacterOffset" : "gc 7/31/2007 12:28",
+		"testJustifiedAlignment" : "gc 7/24/2007 19:29",
+		"testLeftAlignment" : "gc 7/24/2007 19:26",
+		"testMiddleAlignment" : "gc 7/24/2007 19:55",
+		"testRightAlignment" : "gc 7/24/2007 19:28",
+		"testTopAlignment" : "gc 7/24/2007 19:55",
+		"testVerticalAlignment" : "gc 7/24/2007 19:54",
+		"testWith" : "gc 7/24/2007 19:10" } }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"new" : "gh 2/12/2002 10:36" },
+	"instance" : {
+		"addItem:" : "gh 2/12/2002 10:37",
+		"initialize" : "gh 2/12/2002 10:36",
+		"items" : "gh 2/12/2002 10:37",
+		"removeItem:" : "gh 2/12/2002 10:37" } }

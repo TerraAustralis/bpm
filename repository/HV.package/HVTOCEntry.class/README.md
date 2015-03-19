@@ -1,0 +1,1 @@
+This it the model object for a table of contents entry. An entry has a label (the visible String), a name (typically a symbol corresponding to the URL path part of the entry) and a parent entry.

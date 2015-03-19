@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAccept" : "gc 7/31/2007 11:58",
+		"testAccepts" : "gc 7/31/2007 11:58",
+		"testAccessKey" : "gc 7/11/2007 20:02",
+		"testAlt" : "gc 7/11/2007 20:04",
+		"testAlternativeText" : "gc 7/11/2007 20:04",
+		"testChecked" : "gc 7/31/2007 11:59",
+		"testDisabled" : "gc 7/15/2007 19:17",
+		"testIsMap" : "gc 7/31/2007 14:58",
+		"testMaxLength" : "gc 7/31/2007 12:26",
+		"testOnBlur" : "gc 7/31/2007 19:54",
+		"testOnChange" : "gc 7/31/2007 19:54",
+		"testOnFocus" : "gc 7/31/2007 19:54",
+		"testOnSelect" : "gc 7/31/2007 19:55",
+		"testReadonly" : "gc 7/15/2007 19:24",
+		"testSize" : "gc 7/31/2007 12:26",
+		"testSource" : "gc 7/11/2007 23:36",
+		"testTabIndex" : "gc 7/31/2007 12:26",
+		"testType" : "gc 7/11/2007 20:14",
+		"testUseMap" : "gc 7/11/2007 23:45",
+		"testValue" : "gc 7/12/2007 00:12",
+		"testWith" : "gc 11/3/2007 17:38" } }

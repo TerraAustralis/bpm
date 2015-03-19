@@ -1,0 +1,1 @@
+A Form.This object has a method for rendering and it keeps track of the ids of the fields in the form. Typically only used internally in HttpView.

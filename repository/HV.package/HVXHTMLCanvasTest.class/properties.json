@@ -1,0 +1,14 @@
+{
+	"category" : "HV-XHTMLCanvas-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HVXHTMLCanvasTest",
+	"pools" : [
+		 ],
+	"super" : "CanvasTestCase",
+	"type" : "normal" }

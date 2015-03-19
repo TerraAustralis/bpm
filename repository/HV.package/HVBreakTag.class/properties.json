@@ -1,0 +1,14 @@
+{
+	"category" : "HV-XHTMLCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HVBreakTag",
+	"pools" : [
+		 ],
+	"super" : "HVClosingTag",
+	"type" : "normal" }

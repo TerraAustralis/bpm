@@ -1,0 +1,16 @@
+{
+	"category" : "HV-Canvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"request",
+		"view" ],
+	"name" : "HVCanvas",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,12 @@
+SystemOrganization addCategory: #'HV-Base'!
+SystemOrganization addCategory: #'HV-Builder'!
+SystemOrganization addCategory: #'HV-Canvas'!
+SystemOrganization addCategory: #'HV-Canvas-Tests'!
+SystemOrganization addCategory: #'HV-Examples'!
+SystemOrganization addCategory: #'HV-Extras-Swiki'!
+SystemOrganization addCategory: #'HV-Extras-TOCs'!
+SystemOrganization addCategory: #'HV-Tests'!
+SystemOrganization addCategory: #'HV-XHTMLCanvas'!
+SystemOrganization addCategory: #'HV-XHTMLCanvas-Tests'!
+SystemOrganization addCategory: #'HV-XHTMLPainter'!
+SystemOrganization addCategory: #'HV-XHTMLPainter-Tests'!

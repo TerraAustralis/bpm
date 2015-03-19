@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 12/10/2003 14:22",
+	"instvars" : [
+		 ],
+	"name" : "HVSimpleForms",
+	"pools" : [
+		 ],
+	"super" : "HVTransientView",
+	"type" : "normal" }

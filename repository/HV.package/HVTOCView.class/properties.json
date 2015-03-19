@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Extras-TOCs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HVTOCView",
+	"pools" : [
+		 ],
+	"super" : "HVTransientView",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+A special variant of HVHtmlInputText that returns a number.

@@ -1,0 +1,1 @@
+A Form radio button. Like a check box but several sharing the same name are enforced to be mutually exclusive. One is always checked.

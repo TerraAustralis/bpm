@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vertical" ],
+	"name" : "HVHtmlRadioGroup",
+	"pools" : [
+		 ],
+	"super" : "HVHtmlSelection",
+	"type" : "normal" }

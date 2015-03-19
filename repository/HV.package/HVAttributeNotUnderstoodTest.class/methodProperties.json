@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "gc 2/12/2007 11:39",
+		"testConstructor" : "gc 2/12/2007 11:39",
+		"testDefaultAction" : "gc 2/12/2007 11:46",
+		"testIsResumable" : "gc 2/12/2007 11:45",
+		"testMessageText" : "gc 2/12/2007 11:41" } }

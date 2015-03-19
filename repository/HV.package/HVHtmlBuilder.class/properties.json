@@ -1,0 +1,22 @@
+{
+	"category" : "HV-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"request",
+		"view",
+		"fields",
+		"variables",
+		"maxCol",
+		"currentCol",
+		"lastRadio",
+		"lastForm",
+		"response" ],
+	"name" : "HVHtmlBuilder",
+	"pools" : [
+		 ],
+	"super" : "WVHtmlBuilder",
+	"type" : "normal" }

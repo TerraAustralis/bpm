@@ -1,0 +1,4 @@
+rendering
+renderType
+
+	^'password'

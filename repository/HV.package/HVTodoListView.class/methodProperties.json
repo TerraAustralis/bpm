@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"createModel" : "gk 12/10/2003 11:22" },
+	"instance" : {
+		"clearJustClosed" : "gc 11/4/2007 13:42",
+		"collapsetoc" : "gc 11/4/2007 13:44",
+		"currentToc" : "gc 11/4/2007 13:43",
+		"default" : "gk 4/11/2007 11:59",
+		"expandEntry:" : "gc 11/4/2007 13:43",
+		"expandEntryFull:" : "gc 11/4/2007 13:43",
+		"expandEntryName:" : "gc 11/4/2007 13:43",
+		"expandtoc" : "gc 11/4/2007 13:44",
+		"forceExpandEntryName:" : "gc 11/4/2007 13:43",
+		"initialize" : "gk 4/12/2007 23:13",
+		"removeitem" : "gc 8/1/2007 12:27",
+		"resolveTag:builder:" : "gc 11/4/2007 13:47",
+		"setToc:" : "gc 11/4/2007 13:43",
+		"tocRenderClass" : "gc 11/4/2007 13:43" } }

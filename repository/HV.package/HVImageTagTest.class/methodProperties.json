@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "gc 7/25/2007 11:36",
+		"testAlternativeText" : "gc 7/25/2007 11:36",
+		"testHeight" : "gc 7/31/2007 12:24",
+		"testIsMap" : "gc 7/25/2007 12:15",
+		"testLongDescription" : "gc 7/25/2007 11:37",
+		"testSource" : "gc 7/25/2007 11:37",
+		"testSourceAlternativeText" : "gc 7/25/2007 12:40",
+		"testUseMap" : "gc 7/25/2007 12:30",
+		"testWidth" : "gc 7/31/2007 12:24",
+		"testWith" : "gc 7/31/2007 12:25" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "HV-XHTMLPainter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentFormId",
+		"currentFormElementId" ],
+	"name" : "HVXHTMLPainter",
+	"pools" : [
+		 ],
+	"super" : "HVXHTMLCanvas",
+	"type" : "normal" }

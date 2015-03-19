@@ -1,0 +1,16 @@
+{
+	"category" : "HV-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"HtmlEntities",
+		"SafeChars",
+		"UltraSafeChars" ],
+	"commentStamp" : "gk 10/24/2003 10:55",
+	"instvars" : [
+		"model" ],
+	"name" : "HVHttpView",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

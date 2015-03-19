@@ -1,0 +1,16 @@
+{
+	"category" : "HV-XHTMLPainter-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"post",
+		"postFields",
+		"url" ],
+	"name" : "HVMockHttpRequest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

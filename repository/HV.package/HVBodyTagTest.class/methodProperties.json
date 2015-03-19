@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testOnLoad" : "gc 7/31/2007 19:49",
+		"testOnUnload" : "gc 7/31/2007 19:50",
+		"testWith" : "gc 7/31/2007 19:48" } }

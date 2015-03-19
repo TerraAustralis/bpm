@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"getAction:" : "gk 12/16/2003 16:40",
+		"postAction:" : "gk 12/16/2003 16:39",
+		"postAction:enctype:" : "gk 12/16/2003 16:39" },
+	"instance" : {
+		"action:method:" : "gk 12/16/2003 16:39",
+		"addInput:" : "gk 12/17/2003 11:46",
+		"doPrintHtmlOn:" : "gk 12/17/2003 13:26",
+		"enctype" : "gh 10/3/2002 17:29",
+		"enctype:" : "gh 10/3/2002 17:29",
+		"id" : "gh 5/14/2002 10:28",
+		"id:" : "gh 5/14/2002 10:28",
+		"ifSubmit:" : "gk 10/31/2003 13:14",
+		"isForm" : "gh 2/15/2002 14:41",
+		"nextVarName" : "gk 10/31/2003 13:13" } }

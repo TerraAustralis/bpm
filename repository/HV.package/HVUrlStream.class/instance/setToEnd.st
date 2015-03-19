@@ -1,0 +1,4 @@
+streaming
+setToEnd
+
+	^stream setToEnd

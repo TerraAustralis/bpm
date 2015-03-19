@@ -1,0 +1,16 @@
+{
+	"category" : "WVHTML-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 12/16/2003 15:45",
+	"instvars" : [
+		"children",
+		"name",
+		"attributes" ],
+	"name" : "WVHtmlElement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

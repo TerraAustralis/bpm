@@ -1,0 +1,3 @@
+text
+abbr
+	^ self abbreviation

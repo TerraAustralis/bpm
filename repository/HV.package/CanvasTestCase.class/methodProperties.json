@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isAbstract" : "gc 8/6/2007 19:23" },
+	"instance" : {
+		"assertAttribute:isEqualTo:" : "gc 11/3/2007 17:37",
+		"assertAttribute:ofTag:isEqualTo:" : "gc 11/3/2007 17:34",
+		"assertTagName:" : "gc 11/3/2007 17:37",
+		"dom" : "gc 8/6/2007 19:24",
+		"elements" : "gc 11/3/2007 17:36",
+		"firstElement" : "gc 11/3/2007 17:37" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "HV-Extras-TOCs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"entry",
+		"parent" ],
+	"name" : "HVTOCEntryRenderer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

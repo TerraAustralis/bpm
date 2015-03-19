@@ -1,0 +1,1 @@
+An object representing a general HTML tag with a name, attributes and a collection of children elements. Used by WVHtmlDocument.

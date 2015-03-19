@@ -1,0 +1,15 @@
+{
+	"category" : "HV-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 12/10/2003 10:12",
+	"instvars" : [
+		"url",
+		"stream" ],
+	"name" : "HVUrlStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

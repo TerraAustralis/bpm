@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"parent:" : "gk 3/31/2004 15:34" },
+	"instance" : {
+		"children" : "gk 3/31/2004 15:24",
+		"entries" : "gk 4/2/2004 15:33",
+		"entryFor:" : "gk 4/7/2004 14:26",
+		"fullName" : "gk 4/4/2004 19:06",
+		"hasChildren" : "gk 12/29/2004 15:29",
+		"isRoot" : "gk 12/29/2004 15:20",
+		"isSelected" : "gk 4/7/2004 13:51",
+		"name:label:" : "gk 3/31/2004 15:25",
+		"parent" : "gk 4/5/2004 10:57",
+		"parent:" : "gk 3/31/2004 15:34",
+		"setSelected" : "gk 4/7/2004 13:51" } }

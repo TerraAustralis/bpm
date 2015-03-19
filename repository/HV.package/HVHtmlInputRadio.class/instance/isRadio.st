@@ -1,0 +1,3 @@
+testing
+isRadio
+	^true

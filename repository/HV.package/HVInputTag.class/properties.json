@@ -1,0 +1,14 @@
+{
+	"category" : "HV-XHTMLCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HVInputTag",
+	"pools" : [
+		 ],
+	"super" : "HVFormElementTag",
+	"type" : "normal" }

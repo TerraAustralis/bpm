@@ -1,0 +1,15 @@
+{
+	"category" : "HV-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"readonly",
+		"disabled" ],
+	"name" : "HVHtmlFormElement",
+	"pools" : [
+		 ],
+	"super" : "HVHtmlVariable",
+	"type" : "normal" }

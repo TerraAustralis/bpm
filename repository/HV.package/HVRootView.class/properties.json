@@ -1,0 +1,18 @@
+{
+	"category" : "HV-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 10/24/2003 10:53",
+	"instvars" : [
+		"viewClass",
+		"coreMod",
+		"sessionMod",
+		"alias",
+		"selectorFilter" ],
+	"name" : "HVRootView",
+	"pools" : [
+		 ],
+	"super" : "HVHttpView",
+	"type" : "normal" }

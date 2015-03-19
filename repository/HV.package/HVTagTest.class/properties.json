@@ -1,0 +1,14 @@
+{
+	"category" : "HV-Canvas-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HVTagTest",
+	"pools" : [
+		 ],
+	"super" : "TagTestCase",
+	"type" : "normal" }

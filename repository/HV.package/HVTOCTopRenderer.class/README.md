@@ -1,0 +1,1 @@
+Renders only the top labels of a HVTOC in a vertic<al or horisontal row in HTML.

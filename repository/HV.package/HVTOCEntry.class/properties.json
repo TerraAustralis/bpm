@@ -1,0 +1,15 @@
+{
+	"category" : "HV-Extras-TOCs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gk 3/31/2004 16:25",
+	"instvars" : [
+		"name",
+		"label" ],
+	"name" : "HVTOCEntry",
+	"pools" : [
+		 ],
+	"super" : "HVTOCRootEntry",
+	"type" : "normal" }

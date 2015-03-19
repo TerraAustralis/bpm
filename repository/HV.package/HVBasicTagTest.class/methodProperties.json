@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "gc 7/30/2007 15:14",
+		"testAttributeAtPutNumber" : "gc 7/31/2007 21:30",
+		"testId" : "gc 7/30/2007 15:14",
+		"testLeftToRight" : "gc 7/30/2007 15:15",
+		"testRightToLeft" : "gc 7/30/2007 15:15",
+		"testXmlLang" : "gc 7/30/2007 15:15" } }

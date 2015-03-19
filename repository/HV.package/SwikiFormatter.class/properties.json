@@ -1,0 +1,28 @@
+{
+	"category" : "HV-Extras-Swiki",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AngleBrackets",
+		"EmCharacter",
+		"EmCharacterString",
+		"SpecialCharacter",
+		"SpecialCharacterString" ],
+	"commentStamp" : "gk 7/8/2006 16:57",
+	"instvars" : [
+		"model",
+		"base",
+		"inParagraph",
+		"targetStream",
+		"lastWasCR",
+		"consumeCR",
+		"ulLevel",
+		"olLevel",
+		"renderParagraphs",
+		"macroProcessor",
+		"builder" ],
+	"name" : "SwikiFormatter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

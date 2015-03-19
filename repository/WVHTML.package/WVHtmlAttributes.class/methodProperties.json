@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"alignCenter" : "gk 12/16/2003 15:37",
+		"at:put:" : "gk 12/16/2003 15:37",
+		"cssClassForAttribute:" : "gk 12/16/2003 15:37",
+		"doesNotUnderstand:" : "gk 12/16/2003 15:37",
+		"isKnownAttribute:" : "gk 12/16/2003 15:37",
+		"knownAttributes" : "sig 1/12/2009 17:23",
+		"printAttribute:on:" : "gk 12/16/2003 15:37",
+		"printHtmlOn:" : "gk 12/16/2003 15:37",
+		"renderAttribute:on:" : "gk 12/16/2003 15:37",
+		"renderOn:" : "gk 12/16/2003 15:37" } }

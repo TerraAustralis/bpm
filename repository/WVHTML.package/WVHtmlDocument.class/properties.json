@@ -1,0 +1,18 @@
+{
+	"category" : "WVHTML-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"declaration",
+		"html",
+		"head",
+		"stack",
+		"body" ],
+	"name" : "WVHtmlDocument",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

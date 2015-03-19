@@ -1,0 +1,3 @@
+hypertext
+a
+	^ self anchor
