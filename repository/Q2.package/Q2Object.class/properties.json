@@ -11,5 +11,5 @@
 	"name" : "Q2Object",
 	"pools" : [
 		 ],
-	"super" : "FWAPIModel",
+	"super" : "Object",
 	"type" : "normal" }

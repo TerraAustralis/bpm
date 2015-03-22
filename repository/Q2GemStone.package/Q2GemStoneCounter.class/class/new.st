@@ -5,5 +5,5 @@ new
     add: (newInstance := self basicNew).
   newInstance
     counterNumber: Counters size;
-    intialize.
+    initialize.
   ^ newInstance

@@ -22,7 +22,7 @@ renderEditControlOn: html component: fieldComponent
       html text: ' (type first letters)' ]
     ifFalse: [ 
       items := self valuesForFieldComponent: fieldComponent.
-      useRadio
+      self useRadio
         ifTrue: [ self renderEditUsingRadiosOn: html component: fieldComponent items: items ]
         ifFalse: [ 
           select := multiple

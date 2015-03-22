@@ -12,15 +12,15 @@ initializeForms
     description:
         'The person that originated the case, normally the same person that is entering the case.'.
   form newText
-    label: 'Subject';
+    label: 'Title';
     withSelector: #'subject';
-    description: 'Describing the case in a single sentence.';
+    description: 'The display title.';
     large.
   form newText
     label: 'Description';
     multiline: true;
     withSelector: #'description';
-    description: 'Describe the case in your own words.'.
+    description: 'A short description or byline displayed along with the title'.
   form newAttachments
     label: 'Attachments';
     withSelector: #'attachments';
@@ -51,7 +51,7 @@ initializeForms
     label: 'Responsible';
     withSelector: #'responsible'.
   form newText
-    label: 'Subject';
+    label: 'Title';
     withSelector: #'subject'.
   form newAge
     label: 'Created';
@@ -84,7 +84,7 @@ initializeForms
     withSelector: #'responsibleUserAndRole';
     description: 'The user currently responsible for the case.'.
   form newText
-    label: 'Subject';
+    label: 'Title';
     withSelector: #'subject';
     description: 'Describing the case in a single sentence.'.
   form newText

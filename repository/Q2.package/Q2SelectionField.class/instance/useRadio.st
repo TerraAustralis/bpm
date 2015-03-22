@@ -1,3 +1,3 @@
 accessing
 useRadio
-  ^ useRadio
+  ^ useRadio ifNil: [ useRadio := false ]
