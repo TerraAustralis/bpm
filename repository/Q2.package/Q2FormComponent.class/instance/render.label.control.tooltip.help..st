@@ -21,13 +21,7 @@ render: fieldComponent label: label control: aBlock tooltip: tooltip help: helpO
             with: [ 
                   renderer label
                     for: id;
-                    with: [ renderer html: label , ': ' ] ].
-          renderer div
-            class: #'cc';
-            with: [ 
-                  renderer div
-                    class: #'control';
-                    with: [ renderer render: aBlock ] ].
+                    with: [ renderer html: label ] ].
           renderer div
             class: #'hc';
             with: [ 
@@ -58,17 +52,20 @@ render: fieldComponent label: label control: aBlock tooltip: tooltip help: helpO
                         with: [ 
                               renderer image
                                 class: 'help';
-                                url: Q2DefaultResources / fileName ] ] ] ].
-  (helpObject isNil not and: [ self currentUserSettings showIntegratedHelp ])
-    ifTrue: [ 
-      renderer div
-        class: 'oneRow';
-        class: rowClass;
-        with: [ 
+                                url: Q2DefaultResources / fileName ] ] ].
+          (helpObject isNil not
+            and: [ self currentUserSettings showIntegratedHelp ])
+            ifTrue: [ 
               renderer div
                 class: 'helpWiki';
                 with: [ 
                       renderer div
                         id: renderer key;
                         style: 'display:none';
-                        with: 'Loading...' ] ] ]
+                        with: 'Loading...' ] ].
+          renderer div
+            class: #'cc';
+            with: [ 
+                  renderer div
+                    class: #'control';
+                    with: [ renderer render: aBlock ] ] ]

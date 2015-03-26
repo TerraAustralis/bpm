@@ -1,0 +1,14 @@
+{
+	"category" : "Q2-Domain-forms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 03/25/2015 21:27",
+	"instvars" : [
+		 ],
+	"name" : "Q2ImageField",
+	"pools" : [
+		 ],
+	"super" : "Q2Field",
+	"type" : "normal" }

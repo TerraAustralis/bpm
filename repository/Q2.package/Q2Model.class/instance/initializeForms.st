@@ -29,30 +29,15 @@ initializeForms
   form addCategory: (self categoryNamed: 'Public forms').
   form := self newFormNamed: 'Default case basics'.
   form label: 'Default form for showing cases in a table'.
-  form newCaseId
-    label: 'Id';
-    withSelector: #'name'.
-  form newText
-    label: 'Status';
-    withSelector: #'status'.
-  form newText
-    label: 'Stage';
-    withSelector: #'stage'.
-  form newText
-    label: 'Process';
-    withSelector: #'processName'.
-  form newText
-    label: 'Owner';
-    withSelector: #'owner'.
-  form newText
-    label: 'Reporter';
-    withSelector: #'reporter'.
-  form newText
-    label: 'Responsible';
-    withSelector: #'responsible'.
+  form newImage
+    label: '';
+    withSelector: #'image'.
   form newText
     label: 'Title';
     withSelector: #'subject'.
+  form newText
+    label: 'Process';
+    withSelector: #'processName'.
   form newAge
     label: 'Created';
     withSelector: #'ageInSeconds'.
@@ -62,36 +47,18 @@ initializeForms
   self defaultTableCaseForm: form.
   form addCategory: (self categoryNamed: 'Public forms').
   form := self newFormNamed: 'Default case basics'.
-  form label: 'Case basics'.
-  form newText
-    label: 'Current stage';
-    withSelector: #'stage';
-    description:
-        'The current stage for this case in the workflow of this process.';
-    readOnly: true.
-  form newText
-    label: 'Owner';
-    withSelector: #'owner';
-    description: 'The owner of the case - typically the user who created it.';
-    readOnly: true.
-  form newText
-    label: 'Reporter';
-    withSelector: #'reporter';
-    description: 'The user that reported the case to the system.';
-    readOnly: true.
-  form newAssociation
-    label: 'Responsible';
-    withSelector: #'responsibleUserAndRole';
-    description: 'The user currently responsible for the case.'.
+  form label: 'Overview'.
   form newText
     label: 'Title';
     withSelector: #'subject';
     description: 'Describing the case in a single sentence.'.
-  form newText
-    label: 'Description';
-    multiline: true;
-    withSelector: #'description';
-    description: 'Describe the case in your own words.'.
+  form newImage
+    label: 'Image';
+    withSelector: #'image'.
+  form newAssociation
+    label: 'Responsible';
+    withSelector: #'responsibleUserAndRole';
+    description: 'The user currently responsible for the case.'.
   form newRoleList
     label: 'Roles';
     withSelector: #'usersAndRoles';

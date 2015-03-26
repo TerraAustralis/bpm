@@ -7,6 +7,7 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"defaultLevel",
+		"ownerLevel",
 		"categoriesForClass",
 		"accessLevels" ],
 	"name" : "Q2Permission",

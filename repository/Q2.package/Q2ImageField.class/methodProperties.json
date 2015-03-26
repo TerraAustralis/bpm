@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"fieldTypeName" : "jupiter 03/26/2015 14:29" },
+	"instance" : {
+		"cacheValueFrom:component:" : "jupiter 03/26/2015 14:01",
+		"cancelCacheComponent:" : "jupiter 03/25/2015 21:27",
+		"performExtraTxnsFor:" : "jupiter 03/26/2015 13:44",
+		"renderEditControlOn:component:" : "jupiter 03/26/2015 13:46",
+		"renderImage:on:" : "jupiter 03/26/2015 14:33",
+		"renderUploaderOn:component:" : "jupiter 03/26/2015 14:00",
+		"renderViewControlOn:component:" : "jupiter 03/26/2015 13:47",
+		"storeXmlValue:on:" : "jupiter 03/26/2015 14:02",
+		"tableValueFromTarget:" : "jupiter 03/26/2015 13:42" } }

@@ -7,7 +7,7 @@
 	"instance" : {
 		"accessLevels" : "makl 5/15/2006 07:54",
 		"defaultLevel" : "makl 5/15/2006 07:54",
-		"getAccessLevelFor:" : "makl 5/23/2007 21:22",
+		"getAccessLevelFor:" : "jupiter 03/26/2015 15:21",
 		"getCategoriesFor:" : "makl 4/28/2006 10:52",
 		"initialize" : "kb 5/13/2007 03:20",
 		"removeFor:" : "gk 11/17/2006 16:32",
@@ -15,5 +15,6 @@
 		"setCategories:for:" : "makl 4/28/2006 14:39",
 		"setDefaultAccess:" : "makl 4/24/2006 14:17",
 		"setNoneFor:" : "makl 6/15/2006 13:09",
+		"setOwnerAccess:" : "jupiter 03/26/2015 15:19",
 		"setReadFor:" : "makl 6/15/2006 13:09",
 		"setWriteFor:" : "makl 6/15/2006 13:09" } }

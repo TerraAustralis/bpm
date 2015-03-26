@@ -9,5 +9,8 @@ stop
   self terminateAllServices.
   self clearServices.
   (GemServerRegistry gemServerNamed: self schedulerName)
-    ifNotNil: [ GemServerRegistry stopGemServer: self schedulerName ].
+    ifNotNil: [ :gemServer | 
+      gemServer
+        stopGems;
+        unregister ].
   Q2Log info: 'Scheduler stopped.'

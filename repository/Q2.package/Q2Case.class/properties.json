@@ -7,6 +7,7 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"name",
+		"image",
 		"subject",
 		"description",
 		"stage",

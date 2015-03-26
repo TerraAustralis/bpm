@@ -20,44 +20,44 @@ render: fieldComponent label: label control: aBlock tooltip: tooltip helpOLD: he
             with: [ 
                   renderer label
                     for: id;
-                    with: [ renderer html: label , ': ' ].
-                  renderer tableData
-                    class: #'cc';
-                    with: [ 
-                          renderer div
-                            class: #'control';
-                            with: [ renderer render: aBlock ] ].
-                  renderer tableData
-                    class: #'hc';
-                    with: [ 
-                          fileName
-                            ifNotNil: [ 
-                              | elemId |
-                              elemId := renderer allocateKey.
-                              script := (renderer prototype element
+                    with: [ renderer html: label ] ].
+          renderer tableData
+            class: #'cc';
+            with: [ 
+                  renderer div
+                    class: #'control';
+                    with: [ renderer render: aBlock ] ].
+          renderer tableData
+            class: #'hc';
+            with: [ 
+                  fileName
+                    ifNotNil: [ 
+                      | elemId |
+                      elemId := renderer allocateKey.
+                      script := (renderer prototype element
+                        id: elemId;
+                        hide;
+                        return: false)
+                        condition:
+                            (renderer prototype element
                                 id: elemId;
-                                hide;
-                                return: false)
-                                condition:
-                                    (renderer prototype element
-                                        id: elemId;
-                                        visible);
-                                insertAfter:
-                                    (renderer prototype updater
-                                        id: elemId;
-                                        callback: [ :html | (self wikiViewerFor: helpObject) renderViewerOn: html id: elemId ])
-                                        ,
-                                          (renderer prototype effect
-                                            id: elemId;
-                                            appear).
-                              renderer anchor
-                                tabIndex: -1;
-                                onClick: script;
-                                class: #'helpanchor';
-                                with: [ 
-                                      renderer image
-                                        class: 'help';
-                                        url: Q2DefaultResources / fileName ] ] ] ] ].
+                                visible);
+                        insertAfter:
+                            (renderer prototype updater
+                                id: elemId;
+                                callback: [ :html | (self wikiViewerFor: helpObject) renderViewerOn: html id: elemId ])
+                                ,
+                                  (renderer prototype effect
+                                    id: elemId;
+                                    appear).
+                      renderer anchor
+                        tabIndex: -1;
+                        onClick: script;
+                        class: #'helpanchor';
+                        with: [ 
+                              renderer image
+                                class: 'help';
+                                url: Q2DefaultResources / fileName ] ] ] ].
   (helpObject isNil not and: [ self currentUserSettings showIntegratedHelp ])
     ifTrue: [ 
       renderer tableRow

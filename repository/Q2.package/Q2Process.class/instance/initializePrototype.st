@@ -50,7 +50,7 @@ initializePrototype
         importUsers:
           (self model users select: [ :each | each hasCategory: systemUserCat ]) ].
   (self newPermissionNamed: 'Default permission')
-    setDefaultAccess: Q2Permission write	"	(self newPermissionNamed: 'Default permission')
+    setDefaultAccess: Q2Permission read	"	(self newPermissionNamed: 'Default permission')
 		setWriteFor: (self categoryNamed: 'Public forms');
 		setDefaultAccess: Q2Permission read
 "
