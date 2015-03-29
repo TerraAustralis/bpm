@@ -30,6 +30,7 @@ IE 6 understands the first line but not the second other browsers should underst
   left selection ifNil: [ left selectDefault ].
   content := left selection.
   label := self settings systemName.
+  NextroundBPMFileLibrary default updateRoot: anHtmlRoot.
   sublabel := content label.
   sublabel ifNotNil: [ label := label , ': ' , sublabel ].
   anHtmlRoot title: label.	"anHtmlRoot link
