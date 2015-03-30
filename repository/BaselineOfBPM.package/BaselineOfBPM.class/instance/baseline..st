@@ -21,6 +21,7 @@ baseline: spec
         package: 'WVHTML';
         package: 'Q2'
           with: [ spec requires: #('Seaside3' 'GraphViz' 'INIFile' 'Q2Swiki') ];
+        package: 'Q2Swiki' with: [ spec requires: #('HV' 'WVHTML') ];
         package: 'Q2GemStone' with: [ spec requires: #('Q2') ];
         package: 'Q2PE'
           with: [ spec requires: #('Q2' 'Q2GemStone' 'Graphics-Files') ];
